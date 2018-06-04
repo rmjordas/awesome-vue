@@ -1,0 +1,32 @@
+{
+  "name": "awesome-vue",
+  "version": "1.0.0",
+  "description": "🎉 A curated list of awesome things related to Vue.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "lint": "markdownlint . -i node_modules",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmjordas/awesome-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "awesome",
+    "awesome-list",
+    "vuepress"
+  ],
+  "author": "Rodger Jordas <rmjordas@gmail.com> (https://github.com/rmjordas)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rmjordas/awesome-vue/issues"
+  },
+  "homepage": "https://github.com/rmjordas/awesome-vue#readme",
+  "devDependencies": {
+    "markdownlint-cli": "0.10.0",
+    "vuepress": "0.10.0"
+  }
+}
