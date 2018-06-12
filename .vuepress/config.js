@@ -13,7 +13,7 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#fff' }]
   ],
   serviceWorker: true,
-  base: '/awesome-vue/',
+  base: '/',
   themeConfig: {
     repo: 'rmjordas/awesome-vue',
     editLinks: true,
