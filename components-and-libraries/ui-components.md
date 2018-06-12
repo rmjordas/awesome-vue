@@ -195,6 +195,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
 - [d3vue](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS
 - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS
+- [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib
 
 ## Time
 
@@ -399,6 +400,7 @@ Let the user create & edit data
 ### Generator
 
 - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
+- [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 
 #### Date Picker
 

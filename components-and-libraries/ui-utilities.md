@@ -41,6 +41,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [ic-formly](https://github.com/InCuca/ic-formly) - Simple form component powered by vue-formly.
 - [Form Builder](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
 - [vue-autofocus-directive](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
+- [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 
 ### Validation
 
@@ -145,6 +146,7 @@ Seamless scrolling
 - [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typying animations.
 - [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
 - [vue-smooth-height](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
+- [VueTween](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
 
 ## Meta Tags
 
