@@ -2,16 +2,16 @@
   "name": "awesome-vue",
   "version": "1.0.0",
   "description": "🎉 A curated list of awesome things related to Vue.js",
-  "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build",
-    "lint": "markdownlint . -i node_modules",
-    "test": "npm run lint"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rmjordas/awesome-vue.git"
   },
+  "author": "Rodger Jordas <rmjordas@gmail.com> (https://github.com/rmjordas)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rmjordas/awesome-vue/issues"
+  },
+  "homepage": "https://awesome-vue.js.org",
   "keywords": [
     "vue",
     "vuejs",
@@ -19,14 +19,14 @@
     "awesome-list",
     "vuepress"
   ],
-  "author": "Rodger Jordas <rmjordas@gmail.com> (https://github.com/rmjordas)",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/rmjordas/awesome-vue/issues"
-  },
-  "homepage": "https://github.com/rmjordas/awesome-vue#readme",
   "engines": {
     "node": ">=8"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "lint": "markdownlint . -i node_modules",
+    "test": "npm run lint"
   },
   "devDependencies": {
     "markdownlint-cli": "0.10.0",
