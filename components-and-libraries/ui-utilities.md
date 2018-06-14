@@ -130,6 +130,7 @@ Seamless scrolling
 - [laravel-vue-pagination](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
 - [vue-lpage](https://github.com/Botre/vue-lpage) - Low-level Vue pagination component.
 - [v-page](https://github.com/TerryZ/v-page) - A simple pagination bar, including length Menu, i18n support, based on Vue2.x.
+- [vue-smart-pagination](https://github.com/grinmax/vue-smart-pagination) - Smart pagination of any data with a lot of nice settings.
 
 ## Animation
 
