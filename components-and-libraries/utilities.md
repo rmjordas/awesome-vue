@@ -53,6 +53,7 @@ Internationalization / L10n / localization / translation
 - [v-localize](https://github.com/neetjn/v-localize) - Simple localization plugin for the amazing Vue.js.
 - [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
 - [template-string-i18n](https://github.com/cutsin/template-string-i18n) - I18n using template strings with auto save/load translate documents.
+- [vue-translations](https://github.com/owl1n/vue-translations) - Translate your vuejs application easy with it.
 
 ## Custom Events
 
@@ -142,6 +143,7 @@ Internationalization / L10n / localization / translation
 - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
 - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
 - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
+- [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
 
 #### Sync Between Tabs
 
