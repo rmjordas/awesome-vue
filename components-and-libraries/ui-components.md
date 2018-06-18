@@ -74,6 +74,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-loaders](https://github.com/Hokid/vue-loaders) - vue wrappers for [loaders.css](https://github.com/ConnorAtherton/loaders.css)
 - [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Tiny and powerful tool for asynchronous buttons(or any other tag) lock with fancy built-in spinner
 - [vue-spinkit](https://github.com/TonPC64/vue-spinkit) - 🌈 A collection of loading indicators animated with CSS for VueJS
+- [vue2-form-loading](https://github.com/hussam-m/vue2-form-loading) - A VueJS directive can be used with forms in order to disable submit button while the next page is loading
 
 ### Progress Bar
 
@@ -293,6 +294,7 @@ Display non-editable events in a Calendar
 - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.
 - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
 - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
+- [vuejs-tree](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer
 
 ## Social Sharing
 

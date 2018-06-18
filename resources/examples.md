@@ -103,3 +103,4 @@
 - [Vue Bulma Demo](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more](https://github.com/kadro/vue-boilerplate)
 - [vue.js与laravel结合的前后端分离开发模板](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
+- [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
