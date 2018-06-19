@@ -24,6 +24,8 @@ Set of components + responsive layout system
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
 - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
 - [vue-antd-ui](https://github.com/vueComponent/ant-design) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+- [heyui](https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
+- [Carvue.js](https://github.com/nicholaslee119/carbon-components-vue) - IBM's Carbon Design System for Vue.js
 
 ## Mobile UI Frameworks
 
@@ -52,7 +54,6 @@ Set of components without layout system
 - [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
 - [Semantic UI Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue
-- [Carvue.js](https://github.com/nicholaslee119/carbon-components-vue) - IBM's Carbon Design System for Vue.js
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
 
 ## Mobile Components
