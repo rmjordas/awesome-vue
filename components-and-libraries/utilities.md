@@ -150,10 +150,6 @@ Internationalization / L10n / localization / translation
 - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
 - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
 
-## Parent-Child Component Communication
-
-- [vue-messenger](https://github.com/fjc0k/vue-messenger) - A lightweight Vue mixin for communicating between Parent and Child components, with optional listeners and transformations.
-
 ## GraphQL
 
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
@@ -220,6 +216,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-lodash](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 - [vue-ramda](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 - [vue-router-user-roles](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+- [vue-messenger](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
 
 ## Web Workers
 
