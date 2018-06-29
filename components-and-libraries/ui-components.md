@@ -32,6 +32,7 @@ Tables / data grids
 - [vue-cheetah-grid](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
 - [vue-table-component](http://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.
 - [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.
+- [el-data-table](https://github.com/FEMessage/el-data-table) - base on element-ui, makes crud easilys
 
 ## Notification
 
@@ -411,6 +412,7 @@ Let the user create & edit data
 
 - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
+- [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
 
 #### Date Picker
 
