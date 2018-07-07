@@ -98,7 +98,6 @@ Internationalization / L10n / localization / translation
 - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
 - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
 - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
-- [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - ridiculously simple vuex wiring + setup
 - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
 
 ### Redux
@@ -144,6 +143,7 @@ Internationalization / L10n / localization / translation
 - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
 - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
 - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
+- [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - provides a unified path syntax to Vuex stores (such as `foo/bar@a.b.c`)
 
 #### Sync Between Tabs
 
@@ -169,6 +169,7 @@ Improve readability of code
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
 - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
 - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
+- [vert](https://github.com/LancerComet/Vert-Core) - Library to build Vue applications in OOP.
 
 ## CSS
 
