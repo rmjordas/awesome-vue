@@ -3,7 +3,10 @@
 [badge]: https://travis-ci.com/rmjordas/awesome-vue.svg?branch=master
 [ci]: https://travis-ci.com/rmjordas/awesome-vue
 
-A curated list of awesome things related to Vue.js
+> A curated list of awesome things related to Vue.js
+
+This project does not aim to replace the [official Vue.js Awesome List](https://github.com/vuejs/awesome-vue) but rather to provide a nicer experience
+when browsing the content.
 
 ## Instructions
 
@@ -46,8 +49,7 @@ serve .
 
 ## Contributing
 
-Please refer to the [Contributing Guide](.github/CONTRIBUTING.md) if you want to
-add new entries.
+Please refer to the [Contributing Guide](.github/CONTRIBUTING.md).
 
 ## License
 
