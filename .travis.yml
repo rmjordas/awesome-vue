@@ -20,6 +20,6 @@ deploy:
   github-token: $GITHUB_TOKEN
   target-branch: gh-pages
   keep-history: true
-  local-dir: .vuepress/dist
+  local-dir: content/.vuepress/dist
   on:
     branch: master

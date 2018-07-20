@@ -2,6 +2,7 @@
   "name": "awesome-vue",
   "version": "1.0.0",
   "description": "🎉 A curated list of awesome things related to Vue.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rmjordas/awesome-vue.git"
@@ -23,8 +24,8 @@
     "node": ">=8"
   },
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build",
+    "dev": "vuepress dev content",
+    "build": "vuepress build content",
     "lint": "markdownlint . -i node_modules",
     "test": "npm run lint"
   },
