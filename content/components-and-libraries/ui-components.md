@@ -627,6 +627,7 @@ Display images
 - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action
 - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
 - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
+- [vue2-poll](https://github.com/gabistanciu/vue2-poll) - Vue.js component. Create polls and vote
 
 ### Wizard
 
