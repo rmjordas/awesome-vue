@@ -10,7 +10,6 @@ Set of components + responsive layout system
 - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
 - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
 - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
-- [vulma](https://vulma.org) - Vue + Bulma = Vulma.
 - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
 - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
 - [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
@@ -25,7 +24,7 @@ Set of components + responsive layout system
 - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
 - [vue-antd-ui](https://github.com/vueComponent/ant-design) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
 - [heyui](https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
-- [Carvue.js](https://github.com/nicholaslee119/carbon-components-vue) - IBM's Carbon Design System for Vue.js
+- [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 
 ## Mobile UI Frameworks
 

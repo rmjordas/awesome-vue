@@ -132,6 +132,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 - [v-gallery](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
+- [vue2-image-loader](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
 
 ## Parallax
 
@@ -313,6 +314,7 @@ Display non-editable events in a Calendar
 - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
 - [vue-goodshare](https://github.com/koddr/vue-goodshare) - Vue.js component for social share with beautiful button design. Simple install, extensive documentation, developer support, SEO friendly, clean code without scripts tracking user activity on the page, high speed. Work with Vue.js 2.x.
 - [vue-socialmedia-share](https://github.com/mbj36/vue-socialmedia-share) - A Vue.js component for sharing links to social networks, with with Vue 2.X
+- [vue-picture-sharesheet](https://github.com/Onatcer/vue-picture-sharesheet) - A Vue Picture Sharesheet Component heavily inspired by the Image Sharesheet in Apple's Newsroom
 
 ## QR Code
 
@@ -539,7 +541,7 @@ Switch / on/off toggle / checkbox
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 - [awesome-mask](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
 - [v-money](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
-- [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome autoNumeric input formatter library
+- [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
 - [vue-inputmask](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 - [vue-input-number](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 - [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
@@ -627,7 +629,7 @@ Display images
 - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action
 - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
 - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
-- [vue2-poll](https://github.com/gabistanciu/vue2-poll) - Vue.js component. Create polls and vote
+- [vue-easy-polls](https://github.com/updivision/vue-easy-polls) - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize.
 
 ### Wizard
 

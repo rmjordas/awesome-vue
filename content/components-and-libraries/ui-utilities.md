@@ -32,6 +32,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-mq](https://github.com/AlexandreBonaventure/vue-mq) - Offer some useful tools to quickly setup responsive design with a semantic and mobile-first API (Vue 2.x)
 - [VueResizeSensor](https://github.com/SeregPie/VueResizeSensor) - A container that supports resize event.
 - [vue-breakpoint-component](https://github.com/adi518/vue-breakpoint-component) - A render-less component for composing CSS breakpoint state.
+- [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
 
 ## Form
 
