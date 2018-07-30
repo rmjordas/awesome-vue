@@ -266,6 +266,7 @@ Display non-editable events in a Calendar
 - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 - [vue-plyr](https://github.com/redxtech/vue-plyr) - A set of Vue components for the plyr video & audio player.
 - [v-playback](https://github.com/TerryZ/v-playback) - A Vue2 plugin to make video play easier.
+- [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server
 
 ## Infinite Scroll
 
