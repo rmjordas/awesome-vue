@@ -138,3 +138,4 @@
 - [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design
 - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL is the first independent virtual goods market.
 - [Scroll.in](https://scroll.in) - Scroll.in is an independent news, information, and entertainment venture.
+- [Akunyi](https://akunyi.com) - Charity Website
