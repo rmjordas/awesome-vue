@@ -25,6 +25,7 @@ Set of components + responsive layout system
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
 - [heyui](https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
 - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
+- [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
 
 ## Mobile UI Frameworks
 

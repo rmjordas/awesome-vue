@@ -11,3 +11,4 @@
 - [Pragmatic](https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201?ref=Linko91&utm_source=awesomevue) - Responsive and configurable admin template built with Vue.js and Element.
 - [Seat](https://www.useseat.com/) - Simple and modern team communication and collaboration solution.
 - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
+- [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
