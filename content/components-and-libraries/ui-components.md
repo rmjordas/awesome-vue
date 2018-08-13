@@ -154,6 +154,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [g-icon](https://github.com/nash403/g-icon) - Simple icon component for your svg icons (compatible with Font Awesome-like font toolkits)
 - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) - Simple Line Icons component for Vuejs
 - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
+- [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont componenet for vue.
 
 ## Menu
 
@@ -589,6 +590,7 @@ Display images
 
 - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) - A vue (2.0) plugin that offers a reusable directive to get images from [Cloudinary](https://cloudinary.com) with dynamic manipulation (resizing/cropping/effects/watermarking/scaling/formatting) and optimization (webp/png/auto quality/auto retina).
 - [img-Vuer](https://github.com/ssshooter/img-vuer) - An easy-to-use image viewer base on Vue.js for mobile.
+- [vue-image-loader](https://github.com/kevindesousa/vue-image-loader) - A vue loader/progressive image plugin like Medium.
 
 ### File Upload
 
