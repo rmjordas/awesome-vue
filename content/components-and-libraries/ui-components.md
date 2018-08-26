@@ -177,6 +177,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 ## Minus Plus Input
 
 - [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) - A number input with plus minus; included for Vue.js v1 and v2.
+- [vue-integer-plusminus](https://github.com/Keiwen/vue-integer-plusminus) - Integer input with increment and decrement buttons for vue 2.
 
 ## Carousel
 
@@ -219,6 +220,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS
 - [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib
 - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js
+- [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) - Reactive sunburst component based on D3.js
 
 ## Time
 
@@ -427,10 +429,6 @@ Display non-editable events in a Calendar
 
 Let the user create & edit data
 
-### Editable
-
-- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) - Better editable Component in Vue Edit.
-
 ### Picker
 
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
@@ -519,7 +517,7 @@ Autosuggest / autocomplete / typeahead
 - [vue-infinite-autocomplete](https://github.com/Attrash-Islam/vue-infinite-autocomplete) - Vue infinite-autocomplete wrapper for Vue.js 2.*
 - [vue-simple-suggest](https://github.com/KazanExpress/vue-simple-suggest) - Simple yet feature-rich autocomplete component for Vue.js
 - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.
-- [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
+- [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
 
 ### Type Select
 
@@ -566,6 +564,7 @@ Switch / on/off toggle / checkbox
 - [vue-input-code](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
 - [label-edit](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 - [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)
+- [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
 
 ### Rich Text Editing
 

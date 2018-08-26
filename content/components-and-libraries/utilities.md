@@ -146,6 +146,7 @@ Internationalization / L10n / localization / translation
 - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
 - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
 - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - provides a unified path syntax to Vuex stores (such as `foo/bar@a.b.c`)
+- [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) - Simplify vuex loading state management
 
 #### Sync Between Tabs
 
