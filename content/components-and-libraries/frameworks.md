@@ -26,6 +26,7 @@ Set of components + responsive layout system
 - [heyui](https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
 - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
+- [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
 
 ## Mobile UI Frameworks
 
