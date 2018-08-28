@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: http://awesome-vue.js.org/sitemap.xml
