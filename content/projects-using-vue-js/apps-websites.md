@@ -94,7 +94,9 @@
 - [CodeDependencyScanner](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# dektop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
 - [Thousand Ether Homepage](https://thousandetherhomepage.com) - The Million Dollar Homepage reimagined as an Ethereum DApp. Build on Vue.js and open source.
 - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
-- [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
+- [ZapAccounting - Accounting Simplified](https://www.zaperp.com/accounting) - Simple to use online accounting and invoicing, free for single users and freelancers. Rebranded from Pi.TEAM
+- [ZapExpense - Expense Simplified](https://www.zaperp.com/expense) - Simple to use online expense management free for single users and freelancers.
+- [ZapRealEstate - Real Estate Management Software](https://www.zaperp.com/realestate) - Simple to use online expense management free for single users and freelancers.
 - [Vuethwallet](https://github.com/sc0vu/vuethwallet) - A simple app generate ethereum wallet with vuejs.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
 - [Vuethexplore](https://github.com/sc0Vu/vuethexplore) - A simple app explore ethereum blockchain with vuejs.
