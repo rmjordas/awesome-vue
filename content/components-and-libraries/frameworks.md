@@ -27,6 +27,7 @@ Set of components + responsive layout system
 - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
 - [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
+- [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
 
 ## Mobile UI Frameworks
 
@@ -49,7 +50,6 @@ Set of components without layout system
 - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
 - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
 - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
-- [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
 - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
 - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
 - [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
