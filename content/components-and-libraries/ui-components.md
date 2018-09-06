@@ -35,6 +35,7 @@ Tables / data grids
 - [el-data-table](https://github.com/FEMessage/el-data-table) - base on element-ui, makes crud easilys
 - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid for Bootstrap.
 - [vue-ads-table-tree](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's build with the css framework [tailwindcss](https://tailwindcss.com/docs/what-is-tailwind/)
+- [Syncfusion Data Grid for Vue](https://github.com/syncfusion/ej2-vue-grids) - Displays and manipulates tabular data with features such as paging, sorting, filtering, editing, and grouping.
 
 ## Notification
 
@@ -421,6 +422,7 @@ Display non-editable events in a Calendar
 - [vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.
 - [vue-magnifier](https://github.com/zeknoss/vue-magnifier) - A simple image zooming / magnifying component for Vue.js 2.x.
 - [vue-highlight-words](https://github.com/Astray-git/vue-highlight-words) - Vue component to highlight words within a larger body of text. Ported from [react-highlight-words](https://github.com/bvaughn/react-highlight-words)
+- [vue-tags-ball](https://github.com/yanthems/vue-tags-ball) - Create a beautiful and spherical tag with this plugin
 
 ## Tabs
 
@@ -442,6 +444,7 @@ Let the user create & edit data
 - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
+- [vue-json-form](https://github.com/14nrv/vue-json-form) - Generate a vue form with validation and bulma style, from json
 
 #### Date Picker
 
