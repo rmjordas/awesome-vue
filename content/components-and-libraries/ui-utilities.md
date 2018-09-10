@@ -111,6 +111,7 @@ Seamless scrolling
 - [vue-tidyroutes](https://github.com/edgarnadal/vue-tidyroutes) - Decentralized vue-router routes definitions
 - [vue-routisan](https://github.com/raniesantos/vue-routisan) - Elegant route definitions for Vue Router based on Laravel routing system
 - [vue-error-page](https://github.com/raniesantos/vue-error-page) - Provides a wrapper for router-view that allows you to show error pages without changing the URL
+- [vue-router-sitemap](https://github.com/40818419/vue-router-sitemap) - Generate sitemap.xml by vue-router configuration
 
 ## Lazy Load
 

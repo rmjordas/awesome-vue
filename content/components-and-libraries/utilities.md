@@ -228,6 +228,7 @@ Utilities for building / compiling / bundling / loading assets
 ## Web Workers
 
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
+- [vue-log-worker](https://gitlab.com/schoolmouv-open-source/vue-log-worker) - A Vue.js plugin to log error and vuex mutations to your backend through a web worker
 
 ## JSX
 
