@@ -225,6 +225,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib
 - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js
 - [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) - Reactive sunburst component based on D3.js
+- [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - A customizable component for adding D3 charts that binds to your components data.
 
 ## Time
 
@@ -445,7 +446,7 @@ Let the user create & edit data
 - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
-- [vue-json-form](https://github.com/14nrv/vue-json-form) - Generate a vue form with validation and bulma style, from json
+- [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
 
 #### Date Picker
 
