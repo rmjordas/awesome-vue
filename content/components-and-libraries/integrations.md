@@ -42,6 +42,7 @@ Integrate with services or other frameworks
 ## Vue CLI 3 Plugins
 
 - [vue-cli-plugin-cordova](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI 3 Plugin to add Cordova easily to your project
+- [vue-cli-plugin-component](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI 3 Plugin to create component
 
 ## Google Analytics
 
