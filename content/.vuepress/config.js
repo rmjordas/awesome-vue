@@ -19,6 +19,9 @@ module.exports = {
     editLinks: true,
     lastUpdated: 'Last Updated',
     nav: [],
+    serviceWorker: {
+      updatePopup: true,
+    },
     sidebar: [
       {
         title: 'Resources',
