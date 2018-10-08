@@ -14,7 +14,7 @@ Layout for the overall / main view
 - [vue-inview](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.
 - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
 - [vue-extend-layout](https://github.com/ktquez/vue-extend-layout) - Extend the default layout or create custom layouts for the pages of your Vue.js SPA
-- [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free
+- [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependency free
 - [vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) - Official fullPage.js component for Vue.js.
 - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data.
 - [autoresponsive-vue](https://github.com/xudafeng/autoresponsive-vue) - Auto responsive grid layout library for Vue.

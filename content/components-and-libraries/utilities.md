@@ -152,7 +152,7 @@ Internationalization / L10n / localization / translation
 
 #### Sync Between Tabs
 
-- [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
+- [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistence and synchronization between tabs/windows.
 - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
 
 ## GraphQL
