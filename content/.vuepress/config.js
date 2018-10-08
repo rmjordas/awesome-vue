@@ -15,6 +15,10 @@ module.exports = {
   serviceWorker: true,
   base: '/',
   themeConfig: {
+    algolia: {
+      apiKey: 'b99936b745ef54d9428c2ba55c88c7a3',
+      indexName: 'rmjordas_awesome_vue'
+    },
     repo: 'rmjordas/awesome-vue',
     editLinks: true,
     lastUpdated: 'Last Updated',
