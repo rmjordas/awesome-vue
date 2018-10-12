@@ -38,6 +38,8 @@ Tables / data grids
 - [Syncfusion Data Grid for Vue](https://github.com/syncfusion/ej2-vue-grids) - Displays and manipulates tabular data with features such as paging, sorting, filtering, editing, and grouping.
 - [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table
 - [vue-teible](https://github.com/hiendv/teible) - Lightweight and flexible table component for the web :zap:
+- [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) - Vue data grid with filtering, sorting, editing, grouping, data export and other features.
+- [vue-jqxpivotgrid](https://github.com/jqwidgets/vue/tree/master/pivotgrid) - Vue pivot data grid with pivot designer, drill through cells, pivot functions
 
 ## Notification
 
@@ -140,6 +142,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 - [v-gallery](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
 - [vue2-image-loader](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
+- [vue-my-photos](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
 ## Parallax
 
@@ -228,6 +231,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js
 - [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) - Reactive sunburst component based on D3.js
 - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - A customizable component for adding D3 charts that binds to your components data.
+- [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) - Charting component with Pie, Bubble, Donut, Line, Bar, Column, Area, Waterfall, Polar & Spider series.
 
 ## Time
 
@@ -263,6 +267,7 @@ Display non-editable events in a Calendar
 - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
 - [vue-pikaday](https://github.com/enrian/vue-pikaday) - VueJS wrapper component for [Pikaday](https://github.com/dbushell/Pikaday) datepicker
 - [vue-tuicalendar](https://github.com/lkmadushan/vue-tuicalendar) - VueJS wrapper component for [tui.calendar](https://github.com/nhnent/tui.calendar) calendar
+- [vue-jqxscheduler](https://github.com/jqwidgets/vue/tree/master/scheduler) - VueJS Scheduler component.
 
 ## Map
 
@@ -558,6 +563,7 @@ Switch / on/off toggle / checkbox
 - [vue-enhanced-check](https://github.com/Keiwen/vue-enhancedCheck) - Vue component to redesign/labelize checkbox/radio, including toggle/switch button.
 - [pretty-checkbox-vue](https://github.com/hamed-ehtesham/pretty-checkbox-vue) - Implementation of [pretty checkbox 3](https://lokesh-coder.github.io/pretty-checkbox/)(A pure CSS library to beautify checkbox and radio buttons) components for Vue.js 2.2+.
 - [vue2-collapse](https://github.com/roszpun/vue-collapse/) - Vue Collapse is a flexible content toggling plugin for the accordion lists or any other conditional content rendering.
+- [vue-badger-accordion](https://github.com/vanderb/vue-badger-accordion) - A wrapping Component for Badger Accordion for Vue.js 2.0+
 
 ### Masked Input
 
