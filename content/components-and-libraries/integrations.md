@@ -44,6 +44,8 @@ Integrate with services or other frameworks
 
 - [vue-cli-plugin-cordova](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI 3 Plugin to add Cordova easily to your project
 - [vue-cli-plugin-component](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI 3 Plugin to create component
+- [vue-cli-plugin-modular-vuex](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI 3 Plugin to create modular Vuex store files
+- [vue-cli-plugin-modular-router](https://github.com/PureConstructs/vue-cli-plugin-modular-router) - Vue CLI Plugin to create modular route files
 
 ## Google Analytics
 
