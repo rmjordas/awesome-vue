@@ -434,6 +434,7 @@ Display non-editable events in a Calendar
 - [vue-highlight-words](https://github.com/Astray-git/vue-highlight-words) - Vue component to highlight words within a larger body of text. Ported from [react-highlight-words](https://github.com/bvaughn/react-highlight-words)
 - [vue-tags-ball](https://github.com/yanthems/vue-tags-ball) - Create a beautiful and spherical tag with this plugin
 - [vue-rippler](https://github.com/spemer/vue-rippler) - Simple Vue.js plugin for custom ripple effect
+- [vue-contacts](https://github.com/chiaweilee/vue-contacts) - Mobile contacts component for Vue
 
 ## Tabs
 
@@ -549,6 +550,7 @@ Let the user select a tag / something while typing
 - [vue-img-preview](https://github.com/dameety/vue-image-preview) An image input preview component in vue 2
 - [v-image](https://github.com/vinayakkulkarni/v-image) :camera: Tiny little component for input type=file (< 1kb, gzipped)
 - [@voerro/vue-tagsinput](https://github.com/AlexMordred/vue-tagsinput) A simple tags input Vue.js 2 component with typeahead/autocomplete
+- [vue-tag-selector](https://github.com/tomquinonero/vue-tag-selector) - Tag-like input. Light, customizable and handles REGEX validation!
 
 ### Color Picker
 
