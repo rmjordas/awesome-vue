@@ -165,6 +165,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont component for vue.
 - [md-svg-vue](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server side support (with caching), inline svg rendering, official icon names)
+- [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) - Vue component which shows the flag of the country from which the language comes from
 
 ## Menu
 
@@ -206,6 +207,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue2-siema](https://github.com/sainf/vue2-siema) - Plugin wrapper for the very tiny Siema carousel/slider library.
 - [vue-flux](https://github.com/deulos/vue-flux) - Image slider developed with Vuejs 2 which comes with 16 cool transitions out of the box.
 - [vue-glide](https://github.com/antonreshetov/vue-glide) - Vue slider & carousel component on top of the [Glide.js](https://github.com/glidejs/glide)
+- [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) - Vue component for [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 
 ## Charts
 
@@ -479,7 +481,7 @@ Date / datetime / time Picker
 - [vue-datepicker-local](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 - [vue-airbnb-style-datepicker](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
-- [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good docummentation.
+- [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
 - [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
 - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 - [vue-draggable-cal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.
@@ -700,3 +702,4 @@ Display images
 ## Tour
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+- [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
