@@ -28,6 +28,7 @@ Set of components + responsive layout system
 - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
 - [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
 - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
+- [Shards Vue](https://github.com/designrevision/shards-vue) - ✨ Sleek & UI Components Library based on the Bootstrap 4 Framework.
 
 ## Mobile UI Frameworks
 
@@ -81,6 +82,7 @@ Set of admin template
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
 - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
 - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Boostrap 4 [Online Demo](http://rest-admin.genyii.com)
+- [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - ✨ Modern admin template featuring dozens of custom components and templates.
 
 ## Server-side rendering
 
