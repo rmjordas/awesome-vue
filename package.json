@@ -21,7 +21,7 @@
     "vuepress"
   ],
   "engines": {
-    "node": ">=8"
+    "node": "8.x"
   },
   "scripts": {
     "dev": "vuepress dev content",
