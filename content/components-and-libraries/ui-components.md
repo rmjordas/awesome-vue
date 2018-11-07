@@ -237,6 +237,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - A customizable component for adding D3 charts that binds to your components data.
 - [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) - Charting component with Pie, Bubble, Donut, Line, Bar, Column, Area, Waterfall, Polar & Spider series.
 - [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) - Vue Wrapper for [TOAST UI Chart](http://ui.toast.com/tui-chart/).
+- [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).
 
 ## Time
 
@@ -492,6 +493,7 @@ Date / datetime / time Picker
 - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 - [vue-draggable-cal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.
 - [vue-vanilla-datetime-picker](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
+- [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
 
 ### Select
 
@@ -618,6 +620,7 @@ Switch / on/off toggle / checkbox
 - [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix rich-text editor for Vue.js
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js
 - [toast-ui.vue-editor](https://github.com/nhnent/toast-ui.vue-editor) - Vue Wrapper for [TOAST UI Editor](http://ui.toast.com/tui-editor).
+- [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 
 ### Image Manipulation
 
