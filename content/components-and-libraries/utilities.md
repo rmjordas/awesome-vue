@@ -56,7 +56,7 @@ Internationalization / L10n / localization / translation
 - [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
 - [template-string-i18n](https://github.com/cutsin/template-string-i18n) - I18n using template strings with auto save/load translate documents.
 - [vue-translations](https://github.com/owl1n/vue-translations) - Translate your vuejs application easy with it.
-- [vue-i18n-service](https://github.com/f/vue-i18n-service) -  Export and import [@kazupon/vue-i18n](https://github.com/kazupon/vue-i18n)'s SFC translations simply using `npx vue-i18n-service export|import`.
+- [vue-i18n-service](https://github.com/f/vue-i18n-service) - Export and import [@kazupon/vue-i18n](https://github.com/kazupon/vue-i18n)'s SFC translations simply using `npx vue-i18n-service export|import`.
 - [vue-i18n-filter](https://github.com/chiaweilee/vue-i18n-filter) - Vue filter extend for Vue-i18n, simply using `{{'{'}}{ hello world | t }}`.
 
 ## Custom Events
@@ -79,10 +79,10 @@ Internationalization / L10n / localization / translation
 - [vuejs-storage](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
 - [vue-browserstore](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
 - [VueStorage](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
-- [vue-web-storage](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
-- [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
-- [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
-- [vue-warehouse](https://github.com/bazzite/vue-warehouse) A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
+- [vue-web-storage](https://github.com/ankurk91/vue-web-storage) - Another Vue.js plugin for localStorage and sessionStorage
+- [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) - Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
+- [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) - Browser storage for Vue.js app
+- [vue-warehouse](https://github.com/bazzite/vue-warehouse) - A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 
 ## State Management
 
@@ -210,9 +210,8 @@ Utilities for building / compiling / bundling / loading assets
 - [vs-crumbs](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs) - Vue breadcrumbs in 40 lines of code that allows nested paths without child views.
 - [vue-nav](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航管理器，支持手机原生应用的所有导航功能。
 - [vue-2-crumbs](https://github.com/Suruat/vue-2-crumbs) - Breadcrumbs plugin for Vue.js 2 framework that allows to select parent route in route meta object with no need of sub-routing. Also allows using dynamic data.
-- [vue-pesdk](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
-- [vue-resolve](https://github.com/javisperez/vue-resolve)
- Resolve routes data before entering / rendering the component for that route.
+- [vue-pesdk](https://github.com/imgly/pesdk-wrapper-vuejs) - Vue.js wrapper for the PhotoEditorSDK
+- [vue-resolve](https://github.com/javisperez/vue-resolve) - Resolve routes data before entering / rendering the component for that route.
 
 ## Miscellaneous
 
@@ -261,13 +260,13 @@ Payment utilities.
 
 ### Stripe
 
-- [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) A simple vue plugin for Stripe checkout.
-- [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) Vue wrapper for jquery.payment by Stripe.
+- [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
+- [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
 
 ### PayPal
 
-- [vue-paypal-checkout](https://github.com/khoanguyen96/vue-paypal-checkout) A simple Vue.js wrapper component for paypal-checkout.
+- [vue-paypal-checkout](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
 
 ### Plaid
 
-- [vue-plaid-link](https://github.com/roundupapp/vue-plaid-link) Easy to use Vue component for Plaid Link.
+- [vue-plaid-link](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.

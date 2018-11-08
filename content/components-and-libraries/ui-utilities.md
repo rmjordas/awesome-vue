@@ -19,16 +19,16 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Vue 2.x directive using Intersection Observer API that detects if the element is visible (in the viewport and not hidden by CSS).
 - [v-dragged](https://github.com/zhanziyang/v-dragged) - Vue 2.x directive plugin for drag event detection.
 - [vue-esc](https://github.com/ianaya89/vue-esc) - Vue.js directive to add a document event listener on escape keyup.
-- [vue-global-events](https://github.com/shentao/vue-global-events/) – A component to handle global events (like shortcuts) using Vue’s event modifiers
-- [vue-edge-check](https://github.com/gu-fan/vue-edge-check/) – Check browser edge to prevent transition effect triggered oddly when swipe edge with `vue-router`
-- [vue-mutation-observer](https://github.com/PNKBizz/vue-mutation-observer) – A simple and tiny directive to observe changes in DOM use MutationObserver API
-- [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) – Showing the element if the user reached it after scroll
-- [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
+- [vue-global-events](https://github.com/shentao/vue-global-events/) - A component to handle global events (like shortcuts) using Vue’s event modifiers
+- [vue-edge-check](https://github.com/gu-fan/vue-edge-check/) - Check browser edge to prevent transition effect triggered oddly when swipe edge with `vue-router`
+- [vue-mutation-observer](https://github.com/PNKBizz/vue-mutation-observer) - A simple and tiny directive to observe changes in DOM use MutationObserver API
+- [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) - Showing the element if the user reached it after scroll
+- [vue-tabevents](https://github.com/Almoullim/vue-tabevents) - Easy communication between other opened tabs
 
 ## Responsive Design
 
 - [vue-viewports](https://github.com/scaccogatto/vue-viewports) - Define your custom viewports and use them in your components.
-- [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
+- [vue-responsive](https://github.com/reinerBa/Vue-Responsive) - Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
 - [vue-match-media](https://github.com/drenglish/vue-match-media) - Vue 2.x-compatible plugin that offers a consistent, semantic approach to making components media query-aware.
 - [vue-media-query-mixin](https://github.com/jofftiquez/vue-media-query-mixin) - Vue 2 media query mixin that can be used in both component js and component template. Compatible with bootstrap and vuetify viewports. `wXS` returns if screen width is xs, `wSM` returns true if screen width is sm, etc...
 - [vue-breakpoints](https://github.com/apertureless/vue-breakpoints) - Vue 2 minimal components to show and hide elements based on breakpoints. Inspired by Airbnb.
@@ -95,7 +95,7 @@ Detect when components enter viewport
 - [vue-scrollmonitor](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat vue@2.2.x)
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
 - [navscroll-js](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
-- [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) - A light plugin detecting scroll event,customize callback when element enter viewport,expose 'scrollTo' api to scroll to specific  element .Using vue directive.
+- [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) - A light plugin detecting scroll event,customize callback when element enter viewport,expose 'scrollTo' api to scroll to specific element .Using vue directive.
 - [vue-check-view](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
 - [vue-stickto](https://github.com/JALBAA/vue-stickto) - A vue directive that support multiple DOM nodes stick to top automatically
 - [vue2-scrollspy](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
@@ -159,16 +159,16 @@ Seamless scrolling
 - [v-animate-css](https://jofftiquez.github.io/v-animate-css/) - The easiest to implement Vue 2 directive for Animate.css
 - [vue-mixin-tween](https://github.com/lukechinworth/vue-mixin-tween) - Mixin factory that adds tweened values to component context for animations
 - [v-odometer](https://github.com/JefferyHus/v-odometer) - Smoothly transitions numbers with ease. Use this library to give your application a smooth animation, only applicable on numbers.
-- [vue2-transitions](https://github.com/cristijora/vue2-transitions) ✨ Reusable Vue 2 transition components
-- [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) Super easy magic-move transitions for Vue apps 🎩
-- [animated-number-vue](https://github.com/Leocardoso94/animated-number-vue) Super easy way to animate numbers.
-- [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typying animations.
-- [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
-- [vue-smooth-reflow](https://github.com/guanzo/vue-smooth-reflow) Transition an elements reflow in response to data changes.
-- [VueTween](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
-- [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
-- [vue-animejs](https://github.com/BenAHammond/vue-anime) Simple `anime.js` directives for Vue.
-- [Eagle.js](https://github.com/zulko/eagle.js/) Eagle.js is a web-based slideshow framework for Vue.js.
+- [vue2-transitions](https://github.com/cristijora/vue2-transitions) - ✨ Reusable Vue 2 transition components
+- [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps 🎩
+- [animated-number-vue](https://github.com/Leocardoso94/animated-number-vue) - Super easy way to animate numbers.
+- [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) - Typed.js integration to easily create typying animations.
+- [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) - Enable a child components to animate when it changes the parent.
+- [vue-smooth-reflow](https://github.com/guanzo/vue-smooth-reflow) - Transition an elements reflow in response to data changes.
+- [VueTween](https://github.com/SeregPie/VueTween) - Allows components to tween their properties.
+- [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) - Like jQuery's `slideUp` / `slideDown`, but for Vue!
+- [vue-animejs](https://github.com/BenAHammond/vue-anime) - Simple `anime.js` directives for Vue.
+- [Eagle.js](https://github.com/zulko/eagle.js/) - Eagle.js is a web-based slideshow framework for Vue.js.
 
 ## Meta Tags
 
