@@ -445,6 +445,7 @@ Display non-editable events in a Calendar
 - [vue-tags-ball](https://github.com/yanthems/vue-tags-ball) - Create a beautiful and spherical tag with this plugin
 - [vue-rippler](https://github.com/spemer/vue-rippler) - Simple Vue.js plugin for custom ripple effect
 - [vue-contacts](https://github.com/chiaweilee/vue-contacts) - Mobile contacts component for Vue
+- [basic-vue-chat](https://github.com/jmaczan/basic-vue-chat) - Easy to use Vue.js chat
 
 ## Tabs
 
