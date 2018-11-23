@@ -68,6 +68,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)
 - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
 - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
+- [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
 
 ## Loader
 
@@ -242,6 +243,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) - Vue Wrapper for [TOAST UI Chart](http://ui.toast.com/tui-chart/).
 - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.
+- [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
 
 ## Time
 
