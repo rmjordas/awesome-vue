@@ -60,7 +60,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-form](https://github.com/fergaldoyle/vue-form) - Comprehensive form validation for Vue.js.
 - [vuelidation](https://github.com/cj/vuelidation) - simple, powerful, vuejs validation.
 - [laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Display errors from laravel validation rules
-- [vuejs-model-validator](https://github.com/deulos/vuejs-model-validator) - VueJS style data component validation. Easiness, simplicity, accurate.
+- [vue-daval](https://github.com/deulos/vue-daval) - Super vue data validator. Easiness, simplicity, accurate.
 - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
 - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
 - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
@@ -227,6 +227,7 @@ Move a DOM node to a target DOM node
 - [vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 - [VueGL](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 - [vue-vr](https://github.com/imudin/vue-vr) - A framework for building VR applications with Vue based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.io/Panolens/), inspired by [react-vr](https://github.com/facebook/react-vr)
+- [vue-displacement-slideshow](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
 ## Fullscreen
 
