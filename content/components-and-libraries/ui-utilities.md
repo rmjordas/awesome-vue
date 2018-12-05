@@ -117,6 +117,7 @@ Seamless scrolling
 - [vue-routisan](https://github.com/raniesantos/vue-routisan) - Elegant route definitions for Vue Router based on Laravel routing system
 - [vue-error-page](https://github.com/raniesantos/vue-error-page) - Provides a wrapper for router-view that allows you to show error pages without changing the URL
 - [vue-router-sitemap](https://github.com/40818419/vue-router-sitemap) - Generate sitemap.xml by vue-router configuration
+- [vue-smart-route](https://github.com/f/vue-smart-route) - Smart route directive to make intelligent looking apps with Vue.js.
 
 ## Lazy Load
 
@@ -171,6 +172,7 @@ Seamless scrolling
 - [Eagle.js](https://github.com/zulko/eagle.js/) - Eagle.js is a web-based slideshow framework for Vue.js.
 - [vue-pose](https://github.com/Popmotion/popmotion/tree/master/packages/vue-pose) - Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
 - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) - It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
+- [femtoTween](https://github.com/pearofducks/femtoTween) - A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
 
 ## Meta Tags
 
