@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: UI utilities for building Vue.js applications
+---
+
 # UI Utilities
 
 ## Event Handling

@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: List of companies that use Vue.js for their applications
+---
+
 # Enterprise Usage
 
 - Alibaba

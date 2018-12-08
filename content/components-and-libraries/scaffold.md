@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: A collection of scaffolds, boilerplates, project seeds, starter kits, stack ensemble, Yeoman generator and others for Vue.js
+---
+
 # Scaffold
 
 Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator

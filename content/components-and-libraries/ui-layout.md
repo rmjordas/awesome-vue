@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Layout for the overall or main view for Vue.js applications
+---
+
 # UI Layout
 
 Layout for the overall / main view

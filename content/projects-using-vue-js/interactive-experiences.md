@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Interactive Vue.js web applications
+---
+
 # Interactive Experiences
 
 - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)

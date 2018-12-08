@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Official Vue.js examples
+---
+
 # Official Examples
 
 - [Basic Examples](http://vuejs.org/guide/)

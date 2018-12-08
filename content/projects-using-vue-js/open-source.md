@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Open-sourced Vue.js projects
+---
+
 # Open Source
 
 - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.

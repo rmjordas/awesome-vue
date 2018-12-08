@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Podcast episodes that talk about Vue.js
+---
+
 # Podcasts
 
 - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)

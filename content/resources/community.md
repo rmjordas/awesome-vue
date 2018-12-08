@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Vue.js user forums and chat groups
+---
+
 # Community
 
 - [Twitter](https://twitter.com/vuejs)

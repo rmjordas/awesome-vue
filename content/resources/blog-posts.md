@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Blog posts about Vue.js
+---
+
 # Blog Posts
 
 - [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)

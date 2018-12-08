@@ -1,5 +1,8 @@
 ---
 sidebarDepth: 3
+meta:
+  - name: description
+    content: General utilities for building Vue.js applications
 ---
 
 # Utilities

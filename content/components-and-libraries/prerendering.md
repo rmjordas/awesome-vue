@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Libraries for generating static HTML pages of your Vue.js app
+---
+
 # Prerendering
 
 - [react-snap](https://github.com/stereobooster/react-snap) - A zero-configuration static pre-renderer for SPA

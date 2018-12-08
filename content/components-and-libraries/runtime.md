@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Libraries for running Vue.js applications outside of the browser
+---
+
 # Runtime
 
 ## Command Line / Terminal

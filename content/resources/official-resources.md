@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Official Vue.js resources
+---
+
 # Official Resources
 
 - [Official Guide](http://vuejs.org/guide/)

@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Tutorials and guides for Vue.js development
+---
+
 # Tutorials
 
 - [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts

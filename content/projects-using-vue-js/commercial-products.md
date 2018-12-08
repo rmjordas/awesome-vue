@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Showcase of commercial websites and web applications that use Vue.js
+---
+
 # Commercial Products
 
 - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.

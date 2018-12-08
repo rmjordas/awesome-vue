@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Showcase of websites and web applications that use Vue.js
+---
+
 # Apps/Websites
 
 - [Laravel Spark](https://spark.laravel.com/)

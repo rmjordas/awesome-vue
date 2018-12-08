@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Frameworks for Vue.js development
+---
+
 # Frameworks
 
 ## Responsive

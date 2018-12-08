@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Vue.js YouTube channels
+---
+
 # Youtube Channels
 
 - [VueNYC](https://www.youtube.com/vuenyc)

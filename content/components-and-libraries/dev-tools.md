@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Tools for Vue.js development
+---
+
 # Dev Tools
 
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.

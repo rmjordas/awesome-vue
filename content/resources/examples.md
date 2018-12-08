@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Showcase of Vue.js web applications examples
+---
+
 # Examples
 
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)

@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Books about Vue.js
+---
+
 # Books
 
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)

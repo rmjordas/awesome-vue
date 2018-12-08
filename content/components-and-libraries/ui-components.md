@@ -1,5 +1,8 @@
 ---
 sidebarDepth: 3
+meta:
+  - name: description
+    content: Reusable components for Vue.js applications
 ---
 
 # UI Components

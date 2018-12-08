@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Integrate Vue.js applications with services or other frameworks
+---
+
 # Integrations
 
 Integrate with services or other frameworks
