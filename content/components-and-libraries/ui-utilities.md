@@ -70,6 +70,8 @@ Handling of user events (scroll, click, key strike, ...)
 - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
 - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
 - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
+- [vue-form-send](https://github.com/AlekseyPleshkov/vue-form-send) - A Vue.js directive for sending data from form and primitive validation
+- [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
 
 ## Resize
 
@@ -179,6 +181,7 @@ Seamless scrolling
 - [vue-pose](https://github.com/Popmotion/popmotion/tree/master/packages/vue-pose) - Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
 - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) - It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
 - [femtoTween](https://github.com/pearofducks/femtoTween) - A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
+- [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance) Plugin for creating elegant sequential animation entrances with a list of elements of your page. Zero effort. Simple and lightweight
 
 ## Meta Tags
 
