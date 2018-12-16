@@ -528,6 +528,7 @@ Date / datetime / time Picker
 - [vue-multi-select](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.
 - [v-region](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.
 - [v-selectpage](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server side resources supports.
+- [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) - Bootstrap / Material Design theme, support slots, autocomplete, events, validation and more.
 
 ### Slider
 
