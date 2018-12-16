@@ -60,7 +60,7 @@ Set of components without layout system
 - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
 - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
 - [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
-- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
+- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard with collection of custom components. Built with Vue 2 and Bootstrap 4
 - [Semantic UI Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
@@ -103,6 +103,7 @@ Set of admin template
 
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
 - [Peco](https://github.com/egojump/peco) - A static website generator for humans.
+- [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 
 ## Other
 

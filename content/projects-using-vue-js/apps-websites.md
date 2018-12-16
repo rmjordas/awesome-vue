@@ -18,7 +18,7 @@ meta:
 - [Atiiv](https://atiiv.com) - An app aimed for personal trainers and their clients.
 - [Statamic](https://statamic.com)
 - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
-- [TravelMap](http://clem.travelmap.fr) - A simple way for travellers to create a blog based on a Map.
+- [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
 - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
 - [CheckIt](https://check-it.io)
 - [Reddit News](https://github.com/Mati365/reddit-news) - A browser extension which show notifications and news from reddit.
@@ -53,7 +53,7 @@ meta:
 - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
 - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
 - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
-- [Roozame روزامه](http://www.roozame.com) - Roozame is a persian smart news media service.
+- [Roozame روزامه](http://www.roozame.com) - Roozame is a Persian smart news media service.
 - [Koumoul](https://koumoul.com)
 - [NinjaCalc](http://ninja-calc.mbedded.ninja) - A suite of embedded engineering related calculators, built as an open-source single-page app with vue.js.
 - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
@@ -123,7 +123,7 @@ meta:
 - [CryptoVue](https://www.cryptovue.com/) - Real-time cryptocurrency dashboard
 - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
 - [MailRabbit](https://mailrabbit.io) - Create, A/B test, and monitor transactional emails without a developer.
-- [Vue资源精选](http://vue.awesometiny.com) - greate Vue components list, category, inline demo show and brief
+- [Vue资源精选](http://vue.awesometiny.com) - great Vue components list, category, inline demo show and brief
 - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
 - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
 - [Made with love](https://made-with-love.xyz/) - The Made with Love ❤️ around the world, initiative is a movement to celebrate 🎉, promote 📣 and build a brand 👑. It feed Tech news, design inspiration and trends from over 💯 sources including Dribbble, ProductHunt, Behance and Techcrunch. 💝
@@ -156,7 +156,7 @@ meta:
 - [beCamp](https://be.camp) - A community-organized tech conference in Charlottesville, VA. Website code is open-source.
 - [Trustpilot](https://www.trustpilot.com) - a free and open to all review platform.
 - [Lagom](https://lagom.rsstudio.net/) - Simple, intuitive and fully responsive WHMCS theme
-- [ScoutMyTrip - Roadtrip Planner](https://scoutmytrip.com/roadtrip-planner/start) - Road trip planning app for India which helps travellers to build their itinerary, discover points of interest, find hotels, gas stations, food joints etc along the route.
+- [ScoutMyTrip - Roadtrip Planner](https://scoutmytrip.com/roadtrip-planner/start) - Road trip planning app for India which helps travelers to build their itinerary, discover points of interest, find hotels, gas stations, food joints etc along the route.
 - [Podflix](https://podflix.app/) - Podcast app.
 - [GamersClub](https://gamersclub.com.br/?lang=english) - Biggest company of eSport community development in Brazil
 - [MIT](https://www.mit.edu/) - Official Website of Massachusetts Institute of Technology.
@@ -166,9 +166,10 @@ meta:
 - [Rolodromo](https://rolodromo.com) - A spanish website dedicated to tabletop RPG.
 - [GitHubExplorer](https://kiinlam.github.io/GitHubExplorer/) - Pure static page webapp for exploring GitHub. Using `Vuejs` and `GitHub GraphQL API v4`.
 - [Keynote](https://github.com/znck/keynote) - Present with Vue.
-- [HappyPlants](https://github.com/morkro/happy-plants) - A progressive web app for organising your plants 🌱.
+- [HappyPlants](https://github.com/morkro/happy-plants) - A progressive web app for organizing your plants 🌱.
 - [Pocket Lists](https://pocketlists.com) - World's friendliest to-do list app.
 - [Padlet](https://padlet.com) - Collaborative bulletin boards
 - [Glovo](https://glovoapp.com/en/) - On-demand delivery
 - [MySigMail](https://mysigmail.com/create) - MySigMail is a free, in browser, email signature generator without creating account
 - [Wordguru](https://wordguru.netguru.com) - A simple verbal game where you split into teams and try to guess as many keywords as you can.
+- [ApiFlash](https://apiflash.com) - A Chrome based screenshot API built on top of AWS Lambda for Developers
