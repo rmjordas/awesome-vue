@@ -63,6 +63,7 @@ Internationalization / L10n / localization / translation
 - [vue-i18n-service](https://github.com/f/vue-i18n-service) - Export and import [@kazupon/vue-i18n](https://github.com/kazupon/vue-i18n)'s SFC translations simply using `npx vue-i18n-service export|import`.
 - [vue-i18n-filter](https://github.com/chiaweilee/vue-i18n-filter) - Vue filter extend for Vue-i18n, simply using `{{'{'}}{ hello world | t }}`.
 - [vue-translation-manager](https://github.com/cyon/vue-translation-manager) - Interactively find and translate strings in your Vue.js application. Works well with vue-18n and vuex-i18n.
+- [vue-t9n](https://github.com/Ni55aN/vue-t9n) - Simplest way to translate your applications
 
 ## Custom Events
 
