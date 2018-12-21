@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Frameworks for Vue.js development
+  - name: og:title
+    content: Frameworks
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/frameworks.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Frameworks for Vue.js development
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Frameworks
+  - name: twitter:description
+    content: Frameworks for Vue.js development
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Frameworks

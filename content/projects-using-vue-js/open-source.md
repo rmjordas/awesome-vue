@@ -1,7 +1,25 @@
 ---
 meta:
   - name: description
-    content: Open-sourced Vue.js projects
+    content: Open source Vue.js projects
+  - name: og:title
+    content: Open Source
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/projects-using-vue-js/open-source.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Open source Vue.js projects
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Open Source
+  - name: twitter:description
+    content: Open source Vue.js projects
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Open Source

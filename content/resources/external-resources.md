@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: External resources for Vue.js
+  - name: og:title
+    content: External Resources
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/resources/external-resources.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: External resources for Vue.js
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: External Resources
+  - name: twitter:description
+    content: External resources for Vue.js
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # External Resources

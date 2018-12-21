@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Showcase of commercial websites and web applications that use Vue.js
+  - name: og:title
+    content: Commercial Products
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/projects-using-vue-js/commercial-products.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Showcase of commercial websites and web applications that use Vue.js
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Commercial Products
+  - name: twitter:description
+    content: Showcase of commercial websites and web applications that use Vue.js
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Commercial Products

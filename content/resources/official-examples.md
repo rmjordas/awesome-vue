@@ -1,7 +1,25 @@
 ---
 meta:
   - name: description
-    content: Official Vue.js examples
+    content: Official examples from Vue.js developers
+  - name: og:title
+    content: Official Examples
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/resources/official-examples.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Official examples from Vue.js developers
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Official Examples
+  - name: twitter:description
+    content: Official examples from Vue.js developers
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Official Examples

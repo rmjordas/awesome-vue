@@ -2,9 +2,27 @@
 meta:
   - name: description
     content: Tools for Vue.js development
+  - name: og:title
+    content: Developer Tools
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/dev-tools.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Tools for Vue.js development
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Developer Tools
+  - name: twitter:description
+    content: Tools for Vue.js development
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
-# Dev Tools
+# Developer Tools
 
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
 - [vuepack.org](http://vuepack.org) - A simple page that allows you to select Vue components and download them as a single minified JS file.

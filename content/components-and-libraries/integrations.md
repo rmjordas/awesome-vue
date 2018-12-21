@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Integrate Vue.js applications with services or other frameworks
+  - name: og:title
+    content: Integrations
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/integrations.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Integrate Vue.js applications with services or other frameworks
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Integrations
+  - name: twitter:description
+    content: Integrate Vue.js applications with services or other frameworks
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Integrations

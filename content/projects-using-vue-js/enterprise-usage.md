@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: List of companies that use Vue.js for their applications
+  - name: og:title
+    content: Enterprise Usage
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/projects-using-vue-js/enterprise-usage.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: List of companies that use Vue.js for their applications
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Enterprise Usage
+  - name: twitter:description
+    content: List of companies that use Vue.js for their applications
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Enterprise Usage

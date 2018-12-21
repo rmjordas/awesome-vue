@@ -3,6 +3,24 @@ sidebarDepth: 3
 meta:
   - name: description
     content: Reusable components for Vue.js applications
+  - name: og:title
+    content: UI Components
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/ui-components.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Reusable components for Vue.js applications
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: UI Components
+  - name: twitter:description
+    content: Reusable components for Vue.js applications
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # UI Components

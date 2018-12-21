@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Awesome Vue.js',
-  description: '🎉 A curated list of awesome things related to Vue.js',
+  description: 'A curated list of awesome things related to Vue.js',
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],

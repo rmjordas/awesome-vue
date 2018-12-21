@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: UI utilities for building Vue.js applications
+  - name: og:title
+    content: UI Utilities
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/ui-utilities.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: UI utilities for building Vue.js applications
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: UI Utilities
+  - name: twitter:description
+    content: UI utilities for building Vue.js applications
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # UI Utilities

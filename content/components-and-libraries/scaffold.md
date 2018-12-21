@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: A collection of scaffolds, boilerplates, project seeds, starter kits, stack ensemble, Yeoman generator and others for Vue.js
+  - name: og:title
+    content: Scaffold
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/scaffold.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: A collection of scaffolds, boilerplates, project seeds, starter kits, stack ensemble, Yeoman generator and others for Vue.js
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Scaffold
+  - name: twitter:description
+    content: A collection of scaffolds, boilerplates, project seeds, starter kits, stack ensemble, Yeoman generator and others for Vue.js
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Scaffold

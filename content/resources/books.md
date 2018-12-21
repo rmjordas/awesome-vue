@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Books about Vue.js
+  - name: og:title
+    content: Books
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/resources/books.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Books about Vue.js
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Books
+  - name: twitter:description
+    content: Books about Vue.js
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Books

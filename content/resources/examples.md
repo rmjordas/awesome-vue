@@ -1,7 +1,25 @@
 ---
 meta:
   - name: description
-    content: Showcase of Vue.js web applications examples
+    content: Showcase of Vue.js web application examples
+  - name: og:title
+    content: Examples
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/resources/examples.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Showcase of Vue.js web application examples
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Examples
+  - name: twitter:description
+    content: Showcase of Vue.js web application examples
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Examples

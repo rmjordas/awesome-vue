@@ -3,4 +3,25 @@ home: true
 heroImage: /hero.png
 actionText: Get Started →
 actionLink: /resources/official-resources
+meta:
+  - name: description
+    content: A curated list of awesome things related to Vue.js
+  - name: og:title
+    content: Home
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: A curated list of awesome things related to Vue.js
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Home
+  - name: twitter:description
+    content: A curated list of awesome things related to Vue.js
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---

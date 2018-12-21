@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Vue.js user forums and chat groups
+  - name: og:title
+    content: Community
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/resources/community.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Vue.js user forums and chat groups
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Community
+  - name: twitter:description
+    content: Vue.js user forums and chat groups
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Community

@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Tutorials and guides for Vue.js development
+  - name: og:title
+    content: Tutorials
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/resources/tutorials.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Tutorials and guides for Vue.js development
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: Tutorials
+  - name: twitter:description
+    content: Tutorials and guides for Vue.js development
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # Tutorials

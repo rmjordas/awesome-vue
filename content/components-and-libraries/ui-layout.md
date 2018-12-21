@@ -2,6 +2,24 @@
 meta:
   - name: description
     content: Layout for the overall or main view for Vue.js applications
+  - name: og:title
+    content: UI Layout
+  - name: og:type
+    content: website
+  - name: og:url
+    content: https://awesome-vue.js.org/components-and-libraries/ui-layout.html
+  - name: og:image
+    content: https://awesome-vue.js.org/hero.png
+  - name: og:description
+    content: Layout for the overall or main view for Vue.js applications
+  - name: twitter:card
+    content: summary
+  - name: twitter:title
+    content: UI Layout
+  - name: twitter:description
+    content: Layout for the overall or main view for Vue.js applications
+  - name: twitter:image:src
+    content: https://awesome-vue.js.org/hero.png
 ---
 
 # UI Layout
