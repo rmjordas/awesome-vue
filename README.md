@@ -1,12 +1,37 @@
-# Awesome Vue.js [![Build Status][badge]][ci]
+<!-- markdownlint-disable MD033 MD041 MD002 -->
+<h1 align="center">
 
-[badge]: https://travis-ci.com/rmjordas/awesome-vue.svg?branch=master
-[ci]: https://travis-ci.com/rmjordas/awesome-vue
+<br>
 
-> A curated list of awesome things related to Vue.js
+<img src="./content/.vuepress/public/icons/android-chrome-192x192.png" alt="Awesome Vue.js" width="128">
 
-This project does not aim to replace the [official Vue.js Awesome List](https://github.com/vuejs/awesome-vue) but rather to provide a nicer experience
-when browsing the content.
+<br>
+<br>
+
+Awesome Vue.js
+
+</h1>
+
+<p align="center">A curated list of awesome things related to Vue.js</p>
+
+<p align="center">
+  <a href="https://travis-ci.com/rmjordas/awesome-vue">
+    <img src="https://travis-ci.com/rmjordas/awesome-vue.svg?branch=master" alt="Travis CI">
+  </a>
+
+  <a href="https://awesome-vue.js.org">
+    <img src="https://img.shields.io/badge/website-https://awesome--vue.js.org-blue.svg" alt="Awesome Vue.js website">
+  </a>
+</p>
+
+<hr />
+<!-- markdownlint-enable MD033 -->
+
+This project does not aim to replace the
+**[official Vue.js Awesome List][vuejs/awesome-vue]** but rather to provide a
+nicer experience when browsing the content.
+
+[vuejs/awesome-vue]: https://github.com/vuejs/awesome-vue
 
 ## Instructions
 
@@ -29,13 +54,13 @@ npm run dev
 
 To prepare the application for deployment, first run `npm run build` to compile
 the application in production mode. This will generate a directory in
-`content/.vupress` called `dist`.
+`content/.vuepress` called **`dist`**.
 
 ```bash
-npm install -g serve
 npm run build
-cd content/.vupress/dist
-serve .
+# You can use `serve` to inspect output
+npm install -g serve
+serve content/.vuepress/dist
 ```
 
 ## Scripts
