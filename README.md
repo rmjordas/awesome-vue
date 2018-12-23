@@ -12,7 +12,7 @@ Awesome Vue.js
 
 </h1>
 
-<p align="center">A curated list of awesome things related to Vue.js</p>
+<h3 align="center">A curated list of awesome things related to Vue.js</h3>
 
 <p align="center">
   <a href="https://travis-ci.com/rmjordas/awesome-vue">
