@@ -191,3 +191,5 @@ meta:
 - [MySigMail](https://mysigmail.com/create) - MySigMail is a free, in browser, email signature generator without creating account
 - [Wordguru](https://wordguru.netguru.com) - A simple verbal game where you split into teams and try to guess as many keywords as you can.
 - [ApiFlash](https://apiflash.com) - A Chrome based screenshot API built on top of AWS Lambda for Developers
+- [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
+- [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
