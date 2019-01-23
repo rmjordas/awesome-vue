@@ -91,6 +91,7 @@ Set of components without layout system
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - A Minimalist Dark Design System for Vue.js 🎨
 - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
 - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
+- [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects
 
 ## Mobile Components
 
@@ -117,6 +118,7 @@ Set of admin template
 
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
 - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
+- [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
 
 ## Static website generator
 

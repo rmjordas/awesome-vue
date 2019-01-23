@@ -94,6 +94,7 @@ Handling of user events (scroll, click, key strike, ...)
 ## Resize
 
 - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
+- [vue-window-size](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
 
 ## Scroll
 
@@ -105,6 +106,7 @@ Set window scroll position
 - [vue-scroll-sync](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
 - [v-scroll-lock](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
 - [vue2-perfect-scrollbar](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+- [vue-scroll-to](https://github.com/KevinHoughton/vue-scroll-to) - Adds a directive that listens for click events and scrolls to elements.
 
 Virtual scrollbar
 
