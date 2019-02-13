@@ -118,9 +118,7 @@ meta:
 - [CodeDependencyScanner](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# dektop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
 - [Thousand Ether Homepage](https://thousandetherhomepage.com) - The Million Dollar Homepage reimagined as an Ethereum DApp. Build on Vue.js and open source.
 - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
-- [ZapAccounting - Accounting Simplified](https://www.zaperp.com/accounting) - Simple to use online accounting and invoicing, free for single users and freelancers. Rebranded from Pi.TEAM
-- [ZapExpense - Expense Simplified](https://www.zaperp.com/expense) - Simple to use online expense management free for single users and freelancers.
-- [ZapRealEstate - Real Estate Management Software](https://www.zaperp.com/realestate) - Simple to use online expense management free for single users and freelancers.
+- [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
 - [Vuethwallet](https://github.com/sc0vu/vuethwallet) - A simple app generate ethereum wallet with vuejs.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
 - [Vuethexplore](https://github.com/sc0Vu/vuethexplore) - A simple app explore ethereum blockchain with vuejs.
@@ -155,8 +153,8 @@ meta:
 - [Spektrum](https://spektrummedia.com/) - The website of Spektrum Media Agency
 - [SPK](https://www.spk.rocks/) The website of SPK Ecosystem
 - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
-- [Configuration File Management](http://www.configapp.com/) A simple way to manage your configuration files
-- [Roast](https://github.com/serversideup/roastandbrew) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
+- [Configuration File Management](http://www.configapp.com/) - A simple way to manage your configuration files
+- [Roast](https://roastandbrew.coffee/) - an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA)
 - [Regex Fiddler](https://regexfiddler.com/)
 - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform.
@@ -196,3 +194,6 @@ meta:
 - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
 - [Careup](https://careup.mx) - Business management tool for dentists 🦷.
 - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
+- [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
+- [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
+- [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
