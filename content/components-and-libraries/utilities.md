@@ -109,6 +109,7 @@ Internationalization / L10n / localization / translation
 - [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) - Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
 - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) - Browser storage for Vue.js app
 - [vue-warehouse](https://github.com/bazzite/vue-warehouse) - A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
+- [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed.
 
 ## State Management
 
