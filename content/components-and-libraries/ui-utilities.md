@@ -73,6 +73,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-autofocus-directive](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
 - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
+- [ncform](https://github.com/ncform/ncform) - A very nice configuration generation way to develop form
 
 ### Validation
 
@@ -95,6 +96,7 @@ Handling of user events (scroll, click, key strike, ...)
 
 - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 - [vue-window-size](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
+- [vue-responsive-text](https://github.com/shwilliam/vue-responsive-text) - ↔ Component that scales its child node in relation to its parent node's width
 
 ## Scroll
 
@@ -203,6 +205,8 @@ Seamless scrolling
 - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) - It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
 - [femtoTween](https://github.com/pearofducks/femtoTween) - A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
 - [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance) Plugin for creating elegant sequential animation entrances with a list of elements of your page. Zero effort. Simple and lightweight
+- [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) Super lightweight way to add CSS animations to elements as they scroll into view.
+- [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) Create 2-state, SVG-powered transitions
 
 ## Meta Tags
 

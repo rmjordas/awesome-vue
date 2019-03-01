@@ -40,6 +40,8 @@ Utilities not directly related to the UI
 - [vue-mixin-decorator](https://github.com/justrhysism/vue-mixin-decorator) - Typescript decorator for strongly typed Mixins.
 - [vue-ts-component-generator](https://github.com/frogbob/vue-ts-component-generator) - A simple cli tool for generating vue typescript components.
 - [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local stoarge in decorator format
+- [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - Typescript/ES7 Decorators to make Vuex modules a breeze
+- [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
 
 ## HTTP Requests
 
@@ -130,6 +132,7 @@ Internationalization / L10n / localization / translation
 - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
 - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
 - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
+- [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
 
 ### Redux
 
@@ -151,6 +154,7 @@ Internationalization / L10n / localization / translation
 - [casl-vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
 - [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
 - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
+- [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin) - A simple authentication and authorization library for Vue.js using typescript
 
 ### Vuex Utilities
 

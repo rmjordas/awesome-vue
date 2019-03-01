@@ -178,6 +178,8 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue2-image-loader](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
 - [vue-my-photos](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 - [vue-img-orientation-changer](https://github.com/nikli2009/vue-img-orientation-changer) - A Vue.js `directive` that automatically adjust your `img` to correct `orientation`.
+- [vue-topmodal](https://github.com/adileo/vue-topmodal) - A fully customisable, easy to use, Vue.js modal component. (Responsive, Stackable, Scrollable, Animated)
+- [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customisable vue modal component .
 
 ## Parallax
 
@@ -283,6 +285,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.
 - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
 - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
+- [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
 
 ## Time
 
@@ -537,6 +540,7 @@ Let the user create & edit data
 - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
 - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
 - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
+- [ncform](https://github.com/ncform/ncform) - A very nice configuration generation way to develop form
 
 ### Date Picker
 

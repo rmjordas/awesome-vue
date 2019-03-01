@@ -37,3 +37,4 @@ meta:
 - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
 - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
 - [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
+- [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban
