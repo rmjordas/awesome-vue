@@ -1,25 +1,5 @@
 {
-  "name": "awesome-vue",
-  "version": "1.0.0",
-  "description": "🎉 A curated list of awesome things related to Vue.js",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rmjordas/awesome-vue.git"
-  },
-  "author": "Rodger Jordas <rmjordas@gmail.com> (https://github.com/rmjordas)",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/rmjordas/awesome-vue/issues"
-  },
-  "homepage": "https://awesome-vue.js.org",
-  "keywords": [
-    "vue",
-    "vuejs",
-    "awesome",
-    "awesome-list",
-    "vuepress"
-  ],
   "engines": {
     "node": ">=10"
   },
@@ -31,6 +11,7 @@
   },
   "devDependencies": {
     "markdownlint-cli": "0.14.0",
-    "vuepress": "0.14.9"
+    "vuepress": "0.14.10",
+    "webpack-dev-middleware": "3.6.0"
   }
 }
