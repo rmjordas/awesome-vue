@@ -61,6 +61,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-breakpoint-component](https://github.com/adi518/vue-breakpoint-component) - A render-less component for composing CSS breakpoint state.
 - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
 - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
+- [vue-screen-size](https://github.com/promosis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
 
 ## Form
 
@@ -258,6 +259,7 @@ Move a DOM node to a target DOM node
 - [vue-cbsc](https://github.com/arthurvasconcelos/vue-cbsc) - A Vue.js 2.x component for programmatically blender, shader and convert colors.
 - [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation) - Vue directive (Vue.js 2.x) for spatial navigation (keyboard navigation)
 - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
+- [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
 
 ## WebGL
 

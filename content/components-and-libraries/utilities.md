@@ -185,6 +185,7 @@ Internationalization / L10n / localization / translation
 - [vuex-module-builder](https://github.com/oncebot/vuex-module-builder) - Vuex module builder is a wrapper for writing vuex stores efficiently with some common methods built-in.
 - [vuex-pagination](https://github.com/cyon/vuex-pagination) - Easily work with paginated resources in your Vue/Vuex application. Works well with most of the Vue pagination components.
 - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
+- [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) - A global Vuex action and mutation listener plugin
 
 #### Sync Between Tabs
 
@@ -220,6 +221,8 @@ Improve readability of code
 - [vue-mods-names](https://github.com/RGRU/vue-mods-names) - Adding modificators to class names for all components in app.
 - [vue-styler](https://github.com/mrtone/vue-styler) - Simple, performant styler for vue.
 - [vue-css-modules](https://github.com/fjc0k/vue-css-modules) - Seamless mapping of class names to CSS Modules inside of Vue components.
+- [vue-simple-bem](https://github.com/mlturner88/vue-simple-bem) - Directive with succint syntax for adding BEM class names to elements.
+- [fela-vue](https://github.com/houd1ni/fela-vue) - CSS-IN-JS mixin for Vue designed for flexibility yet team-oriented.
 
 ## Asset Management
 
@@ -264,6 +267,8 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-messenger](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
 - [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
+- [vue-direction](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
+- [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 
 ## Web Workers
 

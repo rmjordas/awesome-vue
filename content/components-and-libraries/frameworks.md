@@ -56,6 +56,7 @@ Set of components + responsive layout system
 - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
 - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
+- [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
 
 ## Mobile UI Frameworks
 
@@ -76,7 +77,6 @@ Set of components without layout system
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
 - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
 - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
-- [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
 - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
 - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
 - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
@@ -111,7 +111,7 @@ Set of admin template
 - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x
 - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
-- [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
+- [D2 Admin](https://github.com/d2-projects/d2-admin) - An elegant backstage template build by vue [Online Demo](https://d2admin.fairyever.com)
 - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Bootstrap 4 [Online Demo](http://rest-admin.genyii.com)
 - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - ✨ Modern admin template featuring dozens of custom components and templates.
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template

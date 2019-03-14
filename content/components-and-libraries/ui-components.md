@@ -186,7 +186,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-parallax](https://github.com/vue-comps/vue-parallax) - Scrolls an image slower than the window to create a neat optical effect.
 - [vue-parallaxy](https://github.com/apertureless/vue-parallax) - Vue.js component for parallax image scroll effects.
 - [vue-mouse-parallax](https://github.com/Aminerman/vue-mouse-parallax) - A simple to use Mouse Parallax Component - Made with Vue.js
-- [vie-parallax-js](https://github.com/jsnanigans/vue-parallax-js) - Tiny vue component that adds a directive for parallax effect on elements.
+- [vue-parallax-js](https://github.com/jsnanigans/vue-parallax-js) - Tiny vue component that adds a directive for parallax effect on elements.
 
 ## Icons
 
@@ -286,6 +286,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
 - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
 - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
+- [vueplotlib](https://github.com/keller-mark/vueplotlib) - Declarative, interactive, linked plot components
 
 ## Time
 
@@ -301,6 +302,7 @@ Display time / date / age
 - [timeline-vuejs](https://github.com/pablosirera/timeline-vuejs) - A minimalist timeline for Vue
 - [vue-awesome-countdown](https://github.com/mlinquan/vue-awesome-countdown) - Countdown plug-in with high performance and high accuracy for Vue 2.5.0+. Official site: [https://vac.js.org](https://vac.js.org)
 - [vue-clock2](https://github.com/bestvist/vue-clock2) - Display clock component for Vue.
+- [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
 
 ## Calendar
 
@@ -329,6 +331,7 @@ Display non-editable events in a Calendar
 - [vue-functional-calendar](https://github.com/ManukMinasyan/vue-functional-calendar) - Lightweight, high performance calendar component(Date Picker, Date Range) based on Vue.
 - [vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. 🤘.
 - [vue-draggableCal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped
+- [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) - A full year (12 months on a page) calendar for Vue2. Uses dayjs.
 
 ## Map
 
@@ -684,6 +687,7 @@ Switch / on/off toggle / checkbox
 - [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)
 - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
 - [vue-canvas-input](https://github.com/loo41/vuc) - Vue canvas component for [vuc-input](http://vuc.tianchenyong.top/#/identify)
+- [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Rich Text Editing
 
@@ -723,7 +727,7 @@ Edit images
 Display images
 
 - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) - A vue (2.0) plugin that offers a reusable directive to get images from [Cloudinary](https://cloudinary.com) with dynamic manipulation (resizing/cropping/effects/watermarking/scaling/formatting) and optimization (webp/png/auto quality/auto retina).
-- [img-Vuer](https://github.com/ssshooter/img-vuer) - An easy-to-use image viewer base on Vue.js for mobile.
+- [img-Vuer](https://github.com/ssshooter/img-vuer) - An Mobile-First image viewer/gallery for Vue2
 - [vue-image-loader](https://github.com/kevindesousa/vue-image-loader) - A vue loader/progressive image plugin like Medium.
 - [vue-load-image](https://github.com/john015/vue-load-image) - display loader during image loading, as well as by display alternate content when the image fails to load.
 

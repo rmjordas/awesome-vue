@@ -25,7 +25,6 @@ meta:
 # Tutorials
 
 - [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
-- [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
 - [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit

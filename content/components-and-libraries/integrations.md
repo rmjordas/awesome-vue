@@ -64,6 +64,8 @@ Integrate with services or other frameworks
 - [vbuild](https://github.com/manatlan/vbuild) - Its main purpose is to let you use components (.vue files) in your vuejs app, without a full nodejs stack. Since 0.6 versions : you can create [your component in pure python](https://github.com/manatlan/vbuild/blob/master/doc/PyComponent.md) !
 - [feathers-vuex](https://github.com/feathers-plus/feathers-vuex) - is a first class integration of the Feathers Client and Vuex. It implements many Redux best practices under the hood, eliminates a lot of boilerplate code, and still allows you to easily customize the Vuex store.
 - [vue-nocaptcha](https://github.com/chiaweilee/vue-nocaptcha) - Aliyun noCAPTCHA component for Vue.js
+- [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) - Vue.js integration for Ionic v4
+- [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) - Vue.js integration for 0xcert Framework - an open-source library that provides tools for building powerful decentralized applications
 
 ## Vue CLI 3 Plugins
 
