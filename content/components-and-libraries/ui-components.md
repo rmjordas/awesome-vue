@@ -514,6 +514,8 @@ Display non-editable events in a Calendar
 - [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
 - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-ribbon](https://github.com/P3trur0/vue-ribbon) - Vue component for GitHub ribbons
+- [avatio-avatar](https://github.com/trunda/avatio-avatar) - Vue component for illustrated avatars - used by [Avatio](https://avatio.cool)
+- [vue-jazzicon](https://github.com/man15h/vue-jazzicon) - A dead-simple Jazzicon component for Vue.
 
 ## Tabs
 
@@ -785,6 +787,7 @@ Display images
 - [vue-easy-polls](https://github.com/updivision/vue-easy-polls) - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize.
 - [vue-m-button](https://github.com/mengdu/m-button) - A beautiful button component for vue.
 - [vue-long-click](https://github.com/ittus/vue-long-click) - Long click (long press) directive library for vue, support mobile and desktop.
+- [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
 
 ### Wizard
 

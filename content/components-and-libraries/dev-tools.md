@@ -66,6 +66,7 @@ Create documentation
 - [jsdoc-vuedoc](https://github.com/ccqgithub/jsdoc-vuedoc) - A jsdoc3 plugin use `@vuedoc/md`.
 - [vue-storybook](https://github.com/mattrothenberg/vue-storybook) - Add `<story>` blocks to your Vue single file components for tighter integration of Vue + [Storybook](https://github.com/storybooks/storybook)
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
+- [vuese](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 
 ## Test
 
