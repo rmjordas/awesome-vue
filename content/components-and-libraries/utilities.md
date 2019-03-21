@@ -28,6 +28,7 @@ meta:
 Utilities not directly related to the UI
 
 - [vue-underscore](https://github.com/HKskn/vue-underscore) - simple vue plugin to implement underscore
+- [vue-lazy-calc](https://github.com/dreambo8563/vue-lazy-calc) - A simple calculation plugin in lazy && chaining way with strong typed.
 
 ## Typescript
 
