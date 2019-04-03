@@ -10,8 +10,7 @@
     "test": "npm run lint"
   },
   "devDependencies": {
-    "markdownlint-cli": "0.14.0",
-    "vuepress": "0.14.10",
-    "webpack-dev-middleware": "3.6.0"
+    "markdownlint-cli": "0.15.0",
+    "vuepress": "0.14.10"
   }
 }
