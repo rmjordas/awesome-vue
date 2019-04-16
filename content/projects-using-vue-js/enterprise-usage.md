@@ -41,7 +41,7 @@ meta:
 - Octimine GmbH
 - Hunliji
 - [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
-- [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
+- [Clemenger BBDO Melbourne](https://clemengerbbdo.com.au)
 - [ZenMate](https://zenmate.com)
 - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
 - [Storyblok](https://app.storyblok.com)

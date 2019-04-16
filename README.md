@@ -80,4 +80,4 @@ Please refer to the [Contributing Guide](.github/CONTRIBUTING.md).
 
 This is free and unencumbered software released into the public domain.
 
-For more information, please refer to <http://unlicense.org>
+For more information, please refer to <https://unlicense.org>

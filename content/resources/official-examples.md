@@ -24,7 +24,7 @@ meta:
 
 # Official Examples
 
-- [Basic Examples](http://vuejs.org/guide/)
+- [Basic Examples](https://vuejs.org/guide/)
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 - [CoffeeScript Version](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
