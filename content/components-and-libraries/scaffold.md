@@ -51,6 +51,7 @@ Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator
 - [vue-lib-template](https://github.com/biigpongsatorn/vue-lib-template) - A simple template for building and publishing Vue component/library as a opensource.
 - [Awesome Vue Boilerplate](https://github.com/NarHakobyan/awesome-vue-boilerplate) - Awesome Vue, Vuex, Vuex-pathify, element-ui, tailwindcss
 - [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.
+- [VuePlay](https://christiankienle.github.io/vueplay/) - Generate disposable Vue playgrounds in seconds. Allows you to test things quickly.
 
 ## Client
 
@@ -78,6 +79,7 @@ Render Vue application in the browser only
 - [vue-webpack-chrome-extension-template](https://github.com/ALiangLiang/vue-webpack-chrome-extension-template) - Template for quick creation of Chrome extension on Vuejs hot reloading when developing.
 - [buildless-vue](https://github.com/Botre/buildless-vue) - Quickly use Vue without a build step.
 - [vue-component-template](https://github.com/IneoO/vue-component-template) - Webpack setup for building & publishing a Vue component/library (with docs/demo site).
+- [vue-auth-boilerplate](https://github.com/VPetar/vue-auth-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [laravel-api-boilerplate-jwt](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 
 ## Universal
 

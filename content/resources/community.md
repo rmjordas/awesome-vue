@@ -43,3 +43,7 @@ meta:
 - [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsid)
 - [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 - [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
+- [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
+- [VueJS Vix - Meetup Page [Portuguese]](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+- [VueJS Norway - Meetup](https://www.meetup.com/VueJS-Oslo/)
+- [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
