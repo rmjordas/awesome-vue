@@ -140,7 +140,7 @@ Tooltips / popovers
 
 - [v-tooltip](https://github.com/Akryum/vue-tooltip) - Easy tooltips with Vue 2.x.
 - [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component) - Popper.js directive for Vue.js.
-- [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Simple, flexible tooltip directive (based on Popper.js) [![Vue.js](https://img.shields.io/badge/vue-2-green.svg)](https://vuejs.org)
+- [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) - Simple, flexible tooltip directive (based on Popper.js) VueJS 2
 - [vue-popperjs](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component based [popper.js](https://popper.js.org/)
 - [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component based [tooltipster.js](https://iamceege.github.io/tooltipster/). Support html content, hover and hover+click events.
 
@@ -291,7 +291,8 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
 - [vueplotlib](https://github.com/keller-mark/vueplotlib) - Declarative, interactive, linked plot components
 - [vgauge](https://github.com/amroessam/vgauge) - A Vue Wrapper to GaugeJS - Create beautiful gauges
-- [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrappper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
+- [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrapper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
+- [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js) - Funnel graph drawing library for Vue.js. Create vertical and horizontal animated SVG funnel charts and add labels, values, legend and other info.
 
 ## Time
 
@@ -432,6 +433,7 @@ Display non-editable events in a Calendar
 - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight plugin for fuzzy search library, Fuse.js
 - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).
 - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch
+- [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
 
 ## Miscellaneous UI Components
 
@@ -521,7 +523,7 @@ Display non-editable events in a Calendar
 - [vue-canvas-identify](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top) ⚠️
 - [vue-canvas-material](https://github.com/loo41/vuc) - Vue canvas component for [vuc-material](http://vuc.tianchenyong.top/#/materia) ⚠️
 - [vue-baberrage](https://github.com/superhos/vue-baberrage) - A simple Barrage plugin Base on Vue.js
-- [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
+- [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - Terminal UI emulator Vue: custom and basic commands
 - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-ribbon](https://github.com/P3trur0/vue-ribbon) - Vue component for GitHub ribbons
 - [avatio-avatar](https://github.com/trunda/avatio-avatar) - Vue component for illustrated avatars - used by [Avatio](https://avatio.cool)
@@ -563,10 +565,10 @@ Let the user create & edit data
 
 Date / datetime / time Picker
 
-- [vue-datepicker](https://github.com/hilongjw/vue-datepicker) - **[unmaintained]** Calendar and datepicker component with material design for Vue.js.
-- [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - **[unmaintained]** A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
+- [vue-datepicker](https://github.com/hilongjw/vue-datepicker) (unmaintained) - Calendar and datepicker component with material design for Vue.js.
+- [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) (unmaintained) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
-- [vuedt](https://github.com/nkoehring/vuedt) - **[unmaintained]** Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
+- [vuedt](https://github.com/nkoehring/vuedt) (unmaintained) - Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
 - [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) - Vue.js component for [flatpickr](https://github.com/chmln/flatpickr) datetime picker
 - [vue-bootstrap-datetimepicker](https://github.com/ankurk91/vue-bootstrap-datetimepicker) - Vue.js component for [eonasdan-bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker/)
 - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.

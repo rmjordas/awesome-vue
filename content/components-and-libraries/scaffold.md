@@ -38,7 +38,7 @@ Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator
 - [vuejs-wordpress-theme-starter](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
 - [Cordovue](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue.
 - [Cookiecutter-Django-Vue](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations by [@vchaptsev](https://github.com/vchaptsev/)
-- **[iBiu](https://github.com/bobiscool/iBiu)** - A visual CLI for scaffolding large Vue projects in 2 seconds.
+- [iBiu](https://github.com/bobiscool/iBiu) - A visual CLI for scaffolding large Vue projects in 2 seconds.
 - [wp-vue](https://github.com/alexmacarthur/wp-vue) - A simple Vue blog template that displays posts from a WordPress REST API endpoint.
 - [vue-cli-template-nativescript](https://github.com/julon/vue-cli-template-nativescript) - Template for starting new nativescript+vue projects with rollup+babel+eslint
 - [vue-element-ui-scaffold](https://scaffoldhub.io/vue-sample) - Online and visual Vue 2 with Element-UI CRUD scaffold/generator.
@@ -71,7 +71,7 @@ Render Vue application in the browser only
 - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
 - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
 - [vue-ts-amd](https://github.com/Micene09/vue-ts-amd) - A full-featured Vue.js 2 boilerplate using AMD pattern (RequireJS) and Typescript.
-- [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
+- [vue-2-boilerplate](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
 - [layout](https://github.com/ktquez/layout) - A full-featured Webpack + Vue Extend layout
 - [layout-simple](https://github.com/ktquez/layout-simple) - A simple Webpack + Vue Extend layout
 - [vue-cli-template-library](https://github.com/julon/vue-cli-template-library) - Template for developing open-source vue.js libraries with Rollup + Jest + Babel + Storybook + TravisCI + SemanticRelease.

@@ -37,7 +37,7 @@ meta:
 - [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) ⚠️ on oguzhan.in
 - [Vue.js VideoTutoral Series in Spanish (3-8-2016)](https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7) on YouTube by Juan Andrés Núñez
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
-- [**讲解Vue.js 官网 中文-含代码、百度云、youtube**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
+- [讲解Vue.js 官网 中文-含代码、百度云、youtube](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
@@ -45,7 +45,7 @@ meta:
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
 - [How to Create Great VueJS Applications Using Wijmo Controls](https://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
-- [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube**](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
+- [讲解Vue.js 2 官网 中文-含代码、百度云、youtube](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more](https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details) by [@xpepermint](https://twitter.com/kristijansedlak)
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 - [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on [Metric Loop](https://metricloop.com/blog)
