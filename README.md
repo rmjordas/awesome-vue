@@ -58,7 +58,7 @@ the application in production mode. This will generate a directory in
 
 ```bash
 npm run build
-# You can use `serve` to inspect output
+# You can use `serve` to inspect the output
 npm install -g serve
 serve content/.vuepress/dist
 ```
