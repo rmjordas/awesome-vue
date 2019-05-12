@@ -10,7 +10,7 @@
     "test": "npm run lint"
   },
   "devDependencies": {
-    "markdownlint-cli": "0.15.0",
+    "markdownlint-cli": "0.16.0",
     "vuepress": "0.14.11"
   }
 }
