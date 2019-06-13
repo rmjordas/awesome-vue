@@ -57,6 +57,7 @@ Set of components + responsive layout system
 - [Framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
 - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
+- [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
 
 ## Mobile UI Frameworks
 
@@ -126,7 +127,8 @@ Set of admin template
 ## Static website generator
 
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
-- [Peco](https://github.com/egojump/peco) - A static website generator for humans.
+- [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
+- [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
 - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 
 ## Other

@@ -205,3 +205,4 @@ meta:
 - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
 - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
 - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
+- [sum.cumo](https://www.sumcumo.com/) – Digital business models (with Vue as a tech stack centerpiece).

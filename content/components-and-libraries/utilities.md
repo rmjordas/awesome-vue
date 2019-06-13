@@ -136,6 +136,8 @@ Internationalization / L10n / localization / translation
 - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
 - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
 - [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
+- [vuex-up](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
+- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
 
 ### Redux
 

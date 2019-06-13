@@ -48,6 +48,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-mutation-observer](https://github.com/PNKBizz/vue-mutation-observer) - A simple and tiny directive to observe changes in DOM use MutationObserver API
 - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) - Showing the element if the user reached it after scroll
 - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) - Easy communication between other opened tabs
+- [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - Declaratively trigger methods when scrolled into view
 
 ## Responsive Design
 
@@ -112,6 +113,7 @@ Set window scroll position
 - [vue2-perfect-scrollbar](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 - [vue-scroll-to](https://github.com/KevinHoughton/vue-scroll-to) - Adds a directive that listens for click events and scrolls to elements.
 - [vue-scroll-progressbar](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
+- [vue-backtotop](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 Virtual scrollbar
 
@@ -209,9 +211,10 @@ Seamless scrolling
 - [vue-pose](https://github.com/Popmotion/popmotion/tree/master/packages/vue-pose) - Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
 - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) - It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
 - [femtoTween](https://github.com/pearofducks/femtoTween) - A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
-- [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance) Plugin for creating elegant sequential animation entrances with a list of elements of your page. Zero effort. Simple and lightweight
-- [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) Super lightweight way to add CSS animations to elements as they scroll into view.
-- [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) Create 2-state, SVG-powered transitions
+- [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance) - Plugin for creating elegant sequential animation entrances with a list of elements of your page. Zero effort. Simple and lightweight
+- [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) - Super lightweight way to add CSS animations to elements as they scroll into view.
+- [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) - Create 2-state, SVG-powered transitions
+- [vue-page-transition](https://github.com/Orlandster/vue-page-transition) - Easy route / page transitions for Vue.js
 
 ## Meta Tags
 
