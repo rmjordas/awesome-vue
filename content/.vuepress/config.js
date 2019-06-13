@@ -12,7 +12,13 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#fff' }]
   ],
-  serviceWorker: true,
+  plugins: {
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: true
+    },
+    '@vuepress/back-to-top': true,
+  },
   base: '/',
   themeConfig: {
     algolia: {
@@ -23,9 +29,6 @@ module.exports = {
     editLinks: true,
     lastUpdated: 'Last Updated',
     nav: [],
-    serviceWorker: {
-      updatePopup: true,
-    },
     sidebar: [
       {
         title: 'Resources',
