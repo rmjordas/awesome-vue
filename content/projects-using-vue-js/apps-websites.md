@@ -206,3 +206,5 @@ meta:
 - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
 - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
 - [sum.cumo](https://www.sumcumo.com/) – Digital business models (with Vue as a tech stack centerpiece).
+- [Gamebrary](https://github.com/romancm/gamebrary) - Open source tool to organize video game collections.
+- [Guds](https://www.guds.shop/) - Compare prices across supermarkets. Only available in México.

@@ -96,6 +96,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
 - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
 - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
+- [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
 
 ## Loader
 
@@ -258,6 +259,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vueper-slides](https://github.com/antoniandre/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue JS.
 - [vue-canvas-carousel](https://github.com/loo41/vuc) - Vue canvas component for [vuc-carousel](http://vuc.tianchenyong.top/#/carousel) ⚠️
 - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue
+- [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below
 
 ## Charts
 
@@ -533,6 +535,7 @@ Display non-editable events in a Calendar
 - [vue-star-rating](https://github.com/craigh411/vue-star-rating) - A simple, highly customisable star rating component
 - [vue-fixed-header](https://github.com/potato4d/vue-fixed-header) - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
 - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) - A bursting particles effects buttons component.
+- [vue-insomnia](https://github.com/gorbypark/vue-insomnia) - Prevent display screen from sleeping (wake lock).
 
 ## Tabs
 
@@ -563,6 +566,7 @@ Let the user create & edit data
 - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
 - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
 - [ncform](https://github.com/ncform/ncform) - A very nice configuration generation way to develop form
+- [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support
 
 ### Date Picker
 
@@ -595,6 +599,8 @@ Date / datetime / time Picker
 - [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode)
 - [simple-vue2-datetimepicker](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking.
+- [vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
+- [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 
 ### Select
 
@@ -712,6 +718,7 @@ Switch / on/off toggle / checkbox
 - [vue-canvas-input](https://github.com/loo41/vuc) - Vue canvas component for [vuc-input](http://vuc.tianchenyong.top/#/identify) ⚠️
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 - [vue-thumb](https://github.com/kaankilic/vue-thumb) - An Upload field mask of an Image for Vue 2
+- [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
 
 ### Rich Text Editing
 

@@ -147,3 +147,4 @@ meta:
 - [Realtime chat App with Vue and Hasura](https://dev.to/hasurahq/realtime-chat-app-with-vue-and-hasura-202h)
 - [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 - [Client-Side Vue.js](https://github.com/Trifectuh/Client-Side-Vue) - [Demo](https://client-side-vue.herokuapp.com) - Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps by [Justin Wash](https://github.com/Trifectuh)
+- [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate)

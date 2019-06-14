@@ -174,3 +174,4 @@ meta:
 - [MToDo](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world
 - [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely.
 - [VueSolitaire](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) imlemented in Vue.js.
+- [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.

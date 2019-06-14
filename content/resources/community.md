@@ -48,3 +48,5 @@ meta:
 - [VueJS Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/) - Meetup Page (Portuguese)
 - [VueJS Norway](https://www.meetup.com/VueJS-Oslo/) - Meetup
 - [VueJS Israel](https://www.facebook.com/officalVuejsIsrael/) - Facebook Page
+- [VueJS Finland](https://www.meetup.com/vuejs-finland/) - Meetup
+- [VueJS Finland](https://www.facebook.com/vuejsfinland/) - Facebook Page
