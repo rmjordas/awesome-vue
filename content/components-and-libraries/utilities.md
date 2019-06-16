@@ -88,6 +88,7 @@ Internationalization / L10n / localization / translation
 - [vue-t9n](https://github.com/Ni55aN/vue-t9n) - Simplest way to translate your applications
 - [vue-simple-inline-translation](https://github.com/alidrus/vue-simple-inline-translation) - A Vue component that simplifies the way text is translated: by translating it inline.
 - [vue-i18n-extract](https://github.com/pixari/vue-i18n-extract) - Manage vue-i18n localization with static analysis. Make reports about missing and unused i18n entries.
+- [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) - VSCode extension for better Vue-i18n experiences.
 
 ## Custom Events
 
@@ -247,6 +248,7 @@ Utilities for building / compiling / bundling / loading assets
 - [VueInBrowserLoader](https://github.com/SeregPie/VueInBrowserLoader) - Loads a .vue file from the given URL and compiles it to a component directly in the browser.
 - [vue-separate-files-webpack-loader](https://github.com/NetCZ/vue-separate-files-webpack-loader) - Webpack loader for separated Vue components parts
 - [vue-svg-loader](https://github.com/visualfanatic/vue-svg-loader) - webpack loader that lets you use SVG files as Vue components
+- [vue-registrar](https://github.com/AmirrezaNasiri/vue-registrar) - A package that dynamically registers your components and vuex modules - Makes your code a lot readable!
 
 ## Page Navigation
 
