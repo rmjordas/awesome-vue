@@ -7,7 +7,7 @@ meta:
   - name: description
     content: A curated list of awesome things related to Vue.js
   - name: og:title
-    content: Home
+    content: Awesome Vue.js
   - name: og:type
     content: website
   - name: og:url
@@ -19,7 +19,7 @@ meta:
   - name: twitter:card
     content: summary
   - name: twitter:title
-    content: Home
+    content: Awesome Vue.js
   - name: twitter:description
     content: A curated list of awesome things related to Vue.js
   - name: twitter:image:src
