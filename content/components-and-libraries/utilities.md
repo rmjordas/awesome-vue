@@ -163,6 +163,8 @@ Internationalization / L10n / localization / translation
 - [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
 - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin) - A simple authentication and authorization library for Vue.js using typescript
+- [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) - A simple Vue plugin to include a Google sign-in button into your web app
+- [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
 
 ### Vuex Utilities
 
@@ -262,6 +264,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-2-crumbs](https://github.com/Suruat/vue-2-crumbs) - Breadcrumbs plugin for Vue.js 2 framework that allows to select parent route in route meta object with no need of sub-routing. Also allows using dynamic data.
 - [vue-pesdk](https://github.com/imgly/pesdk-wrapper-vuejs) - Vue.js wrapper for the PhotoEditorSDK
 - [vue-resolve](https://github.com/javisperez/vue-resolve) - Resolve routes data before entering / rendering the component for that route.
+- [vue-page-stack](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
 
 ## Miscellaneous
 
@@ -280,6 +283,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 - [vue-direction](https://github.com/shwilliam/vue-direction) - Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
+- [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - Lightweight DI for vue components️
 
 ## Web Workers
 

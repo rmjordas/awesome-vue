@@ -50,3 +50,4 @@ meta:
 - [VueJS Israel](https://www.facebook.com/officalVuejsIsrael/) - Facebook Page
 - [VueJS Finland](https://www.meetup.com/vuejs-finland/) - Meetup
 - [VueJS Finland](https://www.facebook.com/vuejsfinland/) - Facebook Page
+- [Hablemos de Vue.js](https://t.me/vuejsEs) - Telegram Group (Castellano)
