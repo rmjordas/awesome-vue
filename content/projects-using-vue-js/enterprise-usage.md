@@ -50,3 +50,5 @@ meta:
 - Adobe
 - IBM
 - [Cotabox](https://cotabox.com.br)
+- [Aromajoin](https://aromajoin.com) - Develop the finest digital scent products based on the harmony of hardware, software and material technology.
+- [Carrefour](https://www.carrefour.fr)
