@@ -32,6 +32,7 @@ meta:
 - [Vue Land](https://vue-land.js.org/) - Discord chat server
 - [VueJS Russia](https://t.me/vuejs_ru) - Telegram Group (Russian)
 - [VueJS Russia + Belarus E-Commerce](https://t.me/vue_commerce) - Telegram Group (Russian + English)
+- [VueJS Russia - News](https://t.me/vue_russia) - Telegram Group (Russian)
 - [VueJS Viet Nam](https://www.facebook.com/groups/vuejsvietnam/) - Facebook group
 - [VueJS Spanish](https://slack.vue-es.org/) - Slack Group
 - [VueJS Korean](https://vuejs-korea.signup.team/) - Slack Group
