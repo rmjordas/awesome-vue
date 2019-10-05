@@ -21,6 +21,7 @@ module.exports = {
   },
   base: '/',
   themeConfig: {
+    activeHeaderLinks: false,
     algolia: {
       apiKey: 'b99936b745ef54d9428c2ba55c88c7a3',
       indexName: 'rmjordas_awesome_vue'
