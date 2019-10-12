@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="./content/.vuepress/public/icons/android-chrome-192x192.png" alt="Awesome Vue.js" width="128">
+<img src=".github/hero.png" alt="Awesome Vue.js" width="640">
 
 <br>
 <br>
