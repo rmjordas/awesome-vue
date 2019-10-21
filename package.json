@@ -1,7 +1,7 @@
 {
   "private": true,
   "engines": {
-    "node": ">=10"
+    "node": "12"
   },
   "scripts": {
     "dev": "vuepress dev content",
@@ -10,9 +10,9 @@
     "test": "npm run lint"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "1.2.0",
-    "@vuepress/plugin-pwa": "1.2.0",
-    "markdownlint-cli": "0.18.0",
-    "vuepress": "1.2.0"
+    "@vuepress/plugin-back-to-top": "^1.2.0",
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "markdownlint-cli": "^0.19.0",
+    "vuepress": "^1.2.0"
   }
 }
