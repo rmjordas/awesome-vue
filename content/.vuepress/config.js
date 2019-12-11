@@ -27,6 +27,7 @@ module.exports = {
       indexName: 'rmjordas_awesome_vue'
     },
     repo: 'rmjordas/awesome-vue',
+    docsDir: 'content',
     editLinks: true,
     lastUpdated: 'Last Updated',
     nav: [],
