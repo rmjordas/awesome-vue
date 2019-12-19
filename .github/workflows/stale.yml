@@ -6,16 +6,17 @@ on:
 
 jobs:
   stale:
-
     runs-on: ubuntu-latest
-    
     steps:
     - uses: actions/stale@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: >
           Marking this issue as stale since there has been no activity in the last 30 days.
-          Remove stale label or add a comment or this issue will be closed in 15 days.
+          This issue will be closed in 15 days if stale label is not removed or if there are no new comments.
+        stale-pr-message: >
+          Marking this pull request as stale since there has been no activity in the last 30 days.
+          This pull request will be closed in 15 days if stale label is not removed or if there are no new comments.
         stale-issue-label: 'stale'
         days-before-stale: 30
         days-before-close: 15
