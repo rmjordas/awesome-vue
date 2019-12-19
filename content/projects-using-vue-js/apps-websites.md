@@ -217,4 +217,4 @@ meta:
 - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download.
 - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
 - [Poolside FM](https://poolside.fm/) - A retro-style music player
-- [MyLab](https://mylab.report) - Effective usage of laboratory diagnostics in Ukraine.
+- [MyLab](https://app.mylab.report) - Effective usage of laboratory diagnostics in Ukraine.
