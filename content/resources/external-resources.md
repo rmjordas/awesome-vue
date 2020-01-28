@@ -33,5 +33,6 @@ meta:
 - [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
 - [BuiltForVue](https://builtforvue.com) - NPM Mirror of all Vue.js components and packages.
 - [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
+- [Vue Mastery](https://www.vuemastery.com) - The ultimate learning resource for Vue developers
 - [VueDose](https://vuedose.tips) - Tips & tricks about the Vue ecosystem, for busy devs.
 - [Vuelibs](https://vuelibs.org) - A minimalistic list of Vue.js libraries and components based on the awesome-vue repo.
