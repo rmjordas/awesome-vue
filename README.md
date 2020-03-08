@@ -15,8 +15,8 @@ Awesome Vue.js
 <h3 align="center">A curated list of awesome things related to Vue.js</h3>
 
 <p align="center">
-  <a href="https://travis-ci.com/rmjordas/awesome-vue">
-    <img src="https://travis-ci.com/rmjordas/awesome-vue.svg?branch=master" alt="Travis CI">
+  <a href="https://github.com/rmjordas/awesome-vue/actions?query=workflow%3A%22GitHub%20Pages%22">
+    <img src="https://github.com/rmjordas/awesome-vue/workflows/GitHub%20Pages/badge.svg?branch=master&event=push" alt="Deploy to GitHub Pages build status badge">
   </a>
 
   <a href="https://awesome-vue.js.org">
