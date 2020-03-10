@@ -52,3 +52,7 @@ meta:
 - [VueJS Finland](https://www.meetup.com/vuejs-finland/) - Meetup
 - [VueJS Finland](https://www.facebook.com/vuejsfinland/) - Facebook Page
 - [Hablemos de Vue.js](https://t.me/vuejsEs) - Telegram Group (Castellano)
+- [VueJS Indonesia](https://www.facebook.com/groups/1675298779418239/) - Facebook Group
+- [VueBLR](https://www.meetup.com/vue-bangalore/) - Meetup
+- [VueBLR](http://bit.ly/vueblr-whatsapp) - WhatsApp Group
+- [VueBLR](https://www.facebook.com/groups/vue.blr/) - Facebook Group

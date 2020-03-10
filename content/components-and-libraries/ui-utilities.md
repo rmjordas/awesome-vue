@@ -49,6 +49,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) - Showing the element if the user reached it after scroll
 - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) - Easy communication between other opened tabs
 - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - Declaratively trigger methods when scrolled into view
+- [v-click-outside-x](https://github.com/Xotic750/v-click-outside-x) - Vue V2 directive to react on click, touch, pointer or multiple events outside an element
 
 ## Responsive Design
 
@@ -137,6 +138,7 @@ Detect when components enter viewport
 - [vue-check-view](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
 - [vue-stickto](https://github.com/JALBAA/vue-stickto) - A vue directive that support multiple DOM nodes stick to top automatically
 - [vue2-scrollspy](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
+- [vue-trip-wire](https://github.com/lorrenrules/vue-trip-wire) - A custom directive for firing functions when an element reaches a designated point in the viewport, with option to import module with globally accessible functions
 
 Customize the scroll behavior
 
@@ -191,6 +193,7 @@ Seamless scrolling
 - [vue-smart-pagination](https://github.com/grinmax/vue-smart-pagination) - Smart pagination of any data with a lot of nice settings.
 - [vue-paginatron](https://github.com/sbaidon/vue-paginatron) - Pagination component built with scoped-slot props for maximum flexibility.
 - [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework [tailwindcss](https://tailwindcss.com/docs/what-is-tailwind/)
+- [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizeable Bootstrap Pagination for Vue
 
 ## Animation
 
@@ -218,6 +221,7 @@ Seamless scrolling
 - [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) - Super lightweight way to add CSS animations to elements as they scroll into view.
 - [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) - Create 2-state, SVG-powered transitions
 - [vue-page-transition](https://github.com/Orlandster/vue-page-transition) - Easy route / page transitions for Vue.js
+- [Vuenime](https://github.com/denisinvader/vuenime) - A flexible Vue wrapper for Animejs
 
 ## Meta Tags
 

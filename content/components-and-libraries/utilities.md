@@ -43,6 +43,7 @@ Utilities not directly related to the UI
 - [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local stoarge in decorator format
 - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - Typescript/ES7 Decorators to make Vuex modules a breeze
 - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
+- [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
 
 ## HTTP Requests
 
@@ -99,6 +100,7 @@ Internationalization / L10n / localization / translation
 - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
 - [vue-simple-events](https://github.com/VeryWow/vue-simple-events) - Yet another event management plugin, but WITHOUT Vue instance
 - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and $emit to Vue.js 2.
+- [vue-emit](https://github.com/denisinvader/vue-emit) - A helper function to emit events from functional components
 
 ## Persistence
 
@@ -197,6 +199,8 @@ Internationalization / L10n / localization / translation
 - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
 - [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) - A global Vuex action and mutation listener plugin
 - [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.
+- [vuexi](https://github.com/mikefaraponov/vuexi) - Provides utilities to simplify async actions and state management
+- [stfalcon-vuex-loading-plugin](https://github.com/stfalcon-studio/stfalcon-vuex-loading-plugin) - The easiest way to handle loading state of vuex
 
 #### Sync Between Tabs
 

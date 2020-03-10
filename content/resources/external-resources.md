@@ -36,3 +36,4 @@ meta:
 - [Vue Mastery](https://www.vuemastery.com) - The ultimate learning resource for Vue developers
 - [VueDose](https://vuedose.tips) - Tips & tricks about the Vue ecosystem, for busy devs.
 - [Vuelibs](https://vuelibs.org) - A minimalistic list of Vue.js libraries and components based on the awesome-vue repo.
+- [Vue.js DEV Community](https://dev.to/t/vue) - Official tag for the Vue.js JavaScript Framework on DEV.to

@@ -33,6 +33,7 @@ meta:
 - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
 - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - is a component design to develop and test other components, automatically binding their props.
 - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - development server for building vue-cli custom templates.
+- [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files
 
 ## Inspect
 
@@ -118,6 +119,7 @@ Text editor plugins
 ### Visual Studio Code
 
 - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+- [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow
 
 ### Visual Studio
 
