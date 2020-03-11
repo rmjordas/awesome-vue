@@ -101,6 +101,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
 - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
 - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component
+- [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue
 
 ## Loader
 
@@ -123,6 +124,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-spinners](https://github.com/Saeris/vue-spinners) - A collection of loading spinner components for Vuejs
 - [vue-progress-bar](https://github.com/Yangfan2016/vue-yan-progress) - This is a cascading progress bar plugin based on vue
 - [vue-loading-button](https://github.com/shwilliam/vue-loading-button) - Straightforward button with slideout loading indicator
+- [vue-spinners-css](https://github.com/JoshK2/vue-spinners-css) - Amazing collection of pure CSS vue spinners components of css spinners for ajax or loading animation based on loading.io
 - [vue-loading](https://github.com/HELMAB/vue-loading) - Block page while requesting API
 
 ### Progress Bar
@@ -198,6 +200,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-parallaxy](https://github.com/apertureless/vue-parallax) - Vue.js component for parallax image scroll effects.
 - [vue-mouse-parallax](https://github.com/Aminerman/vue-mouse-parallax) - A simple to use Mouse Parallax Component - Made with Vue.js
 - [vue-parallax-js](https://github.com/jsnanigans/vue-parallax-js) - Tiny vue component that adds a directive for parallax effect on elements.
+- [vue-parallax-view](https://github.com/aarcoraci/vue-parallax-view) - Create a composite control that displays different images that react to the mouse movement to create a depth effect
 
 ## Icons
 
@@ -240,6 +243,8 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-simple-search-dropdown](https://github.com/romainsimon/vue-simple-search-dropdown) - A simple searchable input dropdown component with no external dependency
 - [@innologica/vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropded down content.
 - [vue-menu-aim](https://github.com/Dimon24021993/vue-menu-aim) - Menu triangle select, aka Amazon
+- [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
+- [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) - A pretty simple Vue functional component for menu burger buttons
 
 ## Minus Plus Input
 
@@ -280,7 +285,6 @@ Overlay / modal / alert / dialog / lightbox / popup
 ## Charts
 
 - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.
-- [vue-charts](https://github.com/haydenbbickerton/vue-charts) - Google Charts plugin for Vue.js.
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
 - [hchs-vue-charts](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.
 - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
@@ -313,6 +317,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrapper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
 - [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js) - Funnel graph drawing library for Vue.js. Create vertical and horizontal animated SVG funnel charts and add labels, values, legend and other info.
 - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Lightweight vue charts implemented without any chart library dependencies
+- [f2-vue](https://github.com/justice47/f2-vue) - Vue wrapper of f2 - elegant, interactive and flexible mobile chart library
 
 ## Time
 
@@ -388,6 +393,8 @@ Display non-editable events in a Calendar
 - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server
 - [vue-video-section](https://github.com/johndatserakis/vue-video-section) - A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them.
 - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) - It is use canvas waveform audio player wavesurfer component contains timeline bar line for Vue 2.x
+- [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions
+- [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue
 
 ## Infinite Scroll
 
@@ -561,6 +568,7 @@ Display non-editable events in a Calendar
 - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue
 - [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) - Simple avatar generator Vue component for avataaars.
 - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more
+- [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) - Let users control your Vue app using AI and gestures in front of their camera in just 1 line in your HTML template
 
 ## Tabs
 
@@ -679,6 +687,7 @@ Date / datetime / time Picker
 - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) - Vue Drag and Drop library without any dependency. Simple and easy to use.
 - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
 - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - A powerful customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
+- [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan
 
 ### Autocomplete
 
@@ -694,6 +703,7 @@ Autosuggest / autocomplete / typeahead
 - [vue-simple-suggest](https://github.com/KazanExpress/vue-simple-suggest) - Simple yet feature-rich autocomplete component for Vue.js
 - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.
 - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
+- [vue-email-dropdown](https://github.com/DannyFeliz/vue-email-dropdown) - An autocomplete for custom email domains
 
 ### Type Select
 
@@ -777,6 +787,7 @@ Switch / on/off toggle / checkbox
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
 - [vue-mathlive](https://github.com/arnog/vue-mathlive) - A MathLive math editor (mathfield) for Vue.hjs
+- [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) - Next generation block styled editor for Vue.js
 
 ### Image Manipulation
 
@@ -859,6 +870,7 @@ Display images
 - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
 - [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile.
 - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`
+- [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component
 - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
 
 ### Wizard

@@ -49,6 +49,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) - Showing the element if the user reached it after scroll
 - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) - Easy communication between other opened tabs
 - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - Declaratively trigger methods when scrolled into view
+- [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications
 - [v-click-outside-x](https://github.com/Xotic750/v-click-outside-x) - Vue V2 directive to react on click, touch, pointer or multiple events outside an element
 
 ## Responsive Design
@@ -77,6 +78,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
 - [ncform](https://github.com/ncform/ncform) - A very nice configuration generation way to develop form
+- [v-ajax-form](https://github.com/hosokawat/v-ajax-form) - Vue.js component plug-in to make Form tag compatible with ajax request
 
 ### Validation
 
@@ -222,6 +224,7 @@ Seamless scrolling
 - [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) - Create 2-state, SVG-powered transitions
 - [vue-page-transition](https://github.com/Orlandster/vue-page-transition) - Easy route / page transitions for Vue.js
 - [Vuenime](https://github.com/denisinvader/vuenime) - A flexible Vue wrapper for Animejs
+- [vue-flipper](https://github.com/VitorLuizC/vue-flipper) - A component to flip children with a nice transition
 
 ## Meta Tags
 
@@ -276,6 +279,7 @@ Move a DOM node to a target DOM node
 - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
 - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
 - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
+- [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect
 
 ## WebGL
 
@@ -297,4 +301,4 @@ Move a DOM node to a target DOM node
 
 ## Printing
 
-- [vue-html-to-paper](https://mycure-inc.github.io/vue-html-to-paper/) - Vue mixin for paper printing html elements to paper.
+- [vue-html-to-paper](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper

@@ -219,3 +219,4 @@ meta:
 - [Poolside FM](https://poolside.fm/) - A retro-style music player
 - [MyLab](https://app.mylab.report) - Effective usage of laboratory diagnostics in Ukraine.
 - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there
+- [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer

@@ -201,6 +201,7 @@ Internationalization / L10n / localization / translation
 - [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.
 - [vuexi](https://github.com/mikefaraponov/vuexi) - Provides utilities to simplify async actions and state management
 - [stfalcon-vuex-loading-plugin](https://github.com/stfalcon-studio/stfalcon-vuex-loading-plugin) - The easiest way to handle loading state of vuex
+- [Vue Rest Resource](https://github.com/ProReNata/VueRestResource) - Rest HTTP resource management for Vue.js and Vuex projects
 
 #### Sync Between Tabs
 

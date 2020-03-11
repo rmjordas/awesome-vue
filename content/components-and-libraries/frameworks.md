@@ -28,7 +28,7 @@ meta:
 
 Set of components + responsive layout system
 
-- [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2.
+- [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2
 - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
 - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
@@ -41,7 +41,6 @@ Set of components + responsive layout system
 - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2.
 - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
 - [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
-- [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
 - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
 - [VueFace](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
@@ -60,6 +59,7 @@ Set of components + responsive layout system
 - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
 - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
+- [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
 
 ## Mobile UI Frameworks
 
