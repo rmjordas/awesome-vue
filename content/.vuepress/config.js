@@ -48,6 +48,7 @@ module.exports = {
           '/resources/examples',
           '/resources/books',
           '/resources/blog-posts',
+          '/resources/courses',
         ],
       },
       {
