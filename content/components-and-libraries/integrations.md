@@ -67,6 +67,7 @@ Integrate with services or other frameworks
 - [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) - Vue.js integration for Ionic v4
 - [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) - Vue.js integration for 0xcert Framework - an open-source library that provides tools for building powerful decentralized applications
 - [vue-zdog](https://github.com/AlexandreBonaventure/vue-zdog) Vue wrapper for zDog - a minimalist 3D engine for the browser
+- [vue-unleash](https://github.com/crishellco/vue-unleash) - A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
 - [vuejs-playframework](https://github.com/SunPj/silhouette-vuejs-app) - PlayFramework + VueJs integration (dev hot reload && prod static assets)
 
 ## Vue CLI 3 Plugins
@@ -84,6 +85,7 @@ Integrate with services or other frameworks
 - [vue-ua](https://github.com/ScreamZ/vue-analytics) - Google Universal Analytics support in Vue.js.
 - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Vue plugin for Google Analytics.
 - [vue-gtm](https://github.com/mib200/vue-gtm) - Vue plugin for Google Tag Manager
+- [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue
 
 ## Yandex Metrika
 

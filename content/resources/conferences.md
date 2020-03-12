@@ -28,3 +28,4 @@ meta:
 - [Vue.js London](https://vuejs.london)
 - [VueConf US](https://vueconf.us)
 - [VueConf Toronto](https://vuetoronto.com)
+- [Vue.js Amsterdam](https://vuejs.amsterdam)

@@ -142,6 +142,7 @@ Internationalization / L10n / localization / translation
 - [vuex-up](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
 - [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - Efficient, effective, and extensible state management: less is more
+- [universal-model-vue](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
 
 ### Redux
 
@@ -199,14 +200,19 @@ Internationalization / L10n / localization / translation
 - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
 - [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) - A global Vuex action and mutation listener plugin
 - [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.
+- [vue-request-store](https://github.com/crishellco/vue-request-store) - A Vue & Vuex plugin to simplify tracking API request statuses
 - [vuexi](https://github.com/mikefaraponov/vuexi) - Provides utilities to simplify async actions and state management
 - [stfalcon-vuex-loading-plugin](https://github.com/stfalcon-studio/stfalcon-vuex-loading-plugin) - The easiest way to handle loading state of vuex
 - [Vue Rest Resource](https://github.com/ProReNata/VueRestResource) - Rest HTTP resource management for Vue.js and Vuex projects
+- [Vuex Stateshot](https://github.com/xiaoluoboding/vuex-stateshot) - A State Snapshot plugin on Actions/Mutations for Vuex3.1+
+- [vuex-loopback](https://github.com/mikeevstropov/vuex-loopback) - Vuex module factory and Vue components for Loopback
+- [vuex-state-snapshot](https://github.com/dezull/vuex-state-snapshot) - A Vuex plugin to take state snapshot on mutation
 
 #### Sync Between Tabs
 
 - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistence and synchronization between tabs/windows.
 - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
+- [vuex-multi-tab-state](https://github.com/gabrielmbmb/vuex-multi-tab-state) - Share and synchronize status between multiple tabs  with this plugin for Vuex
 
 ## GraphQL
 
@@ -289,6 +295,8 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-direction](https://github.com/shwilliam/vue-direction) - Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 - [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - Lightweight DI for vue components️
+- [vue-uuid](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance
+- [vue-injector](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 
 ## Web Workers
 
@@ -305,6 +313,7 @@ Utilities for building / compiling / bundling / loading assets
 ## Migration
 
 - [vue-backbone](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration.
+- [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - Transforms Vue.js SFCs to composition api syntax
 
 ## Web Sockets
 

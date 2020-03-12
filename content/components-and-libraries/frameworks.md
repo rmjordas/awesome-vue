@@ -55,11 +55,11 @@ Set of components + responsive layout system
 - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
 - [Framevuerk](https://github.com/framevuerk/framevuerk) - Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
-- [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
 - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
 - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
+- [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
 
 ## Mobile UI Frameworks
 
@@ -98,6 +98,8 @@ Set of components without layout system
 - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
 - [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects
 - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.
+- [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript
+- [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 
 ## Mobile Components
 
@@ -107,6 +109,7 @@ Set of components for mobile
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
 - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
+- [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
 
 ## Admin Template
 
@@ -120,6 +123,7 @@ Set of admin template
 - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - Modern admin template featuring dozens of custom components and templates.
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
 - [element-admin](https://github.com/codetrial/element-admin) - A dead simple but powerful vue admin with Vue CLI 3 and element-ui.
+- [dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x. [Online Demo](https://dashboard.zce.me)
 
 ## Server-side rendering
 
@@ -142,3 +146,4 @@ Set of admin template
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - Frontend access control framework based Vue.js 2.
 - [Basys](https://github.com/basys/basys) - Toolbox for building full-stack Vue.js apps
 - [CabloyJS](https://github.com/zhennann/cabloy) - The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+- [vue-service-model](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions
