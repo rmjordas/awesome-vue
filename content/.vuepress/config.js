@@ -49,6 +49,7 @@ module.exports = {
           '/resources/books',
           '/resources/blog-posts',
           '/resources/courses',
+          '/resources/documentaries',
         ],
       },
       {

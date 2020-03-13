@@ -125,8 +125,8 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-spinners](https://github.com/Saeris/vue-spinners) - A collection of loading spinner components for Vuejs
 - [vue-progress-bar](https://github.com/Yangfan2016/vue-yan-progress) - This is a cascading progress bar plugin based on vue
 - [vue-loading-button](https://github.com/shwilliam/vue-loading-button) - Straightforward button with slideout loading indicator
-- [vue-spinners-css](https://github.com/JoshK2/vue-spinners-css) - Amazing collection of pure CSS vue spinners components of css spinners for ajax or loading animation based on loading.io
 - [vue-loading](https://github.com/HELMAB/vue-loading) - Block page while requesting API
+- [vue-preloaders](https://github.com/igaloly/vue-preloaders) - Attach your preloader at any time, to any element easily and quickly
 
 ### Progress Bar
 
@@ -581,6 +581,7 @@ Display non-editable events in a Calendar
 - [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) - Let users control your Vue app using AI and gestures in front of their camera in just 1 line in your HTML template
 - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort
 - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
+- [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering
 
 ## Tabs
 
@@ -673,6 +674,7 @@ Date / datetime / time Picker
 - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) - Simple multi-select component with items displayed in a table like UI
 - [vue-wheel-select](https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component
 - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible
+- [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides)
 
 ### Slider
 
@@ -889,7 +891,7 @@ Display images
 - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`
 - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component
 - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
-- [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
+- [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
 
 ### Wizard
 
