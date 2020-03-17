@@ -399,6 +399,7 @@ Display non-editable events in a Calendar
 - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) - It is use canvas waveform audio player wavesurfer component contains timeline bar line for Vue 2.x
 - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions
 - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue
+- [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) - A light and customizable Vue 2.x audio player powered HTMLAudioElement
 
 ## Infinite Scroll
 
@@ -672,7 +673,7 @@ Date / datetime / time Picker
 - [@myena/advanced-select](https://github.com/myENA/advanced-select) - Single/Multiple Select component with search, controls for (de)select all and a Bootstrap 3 theme
 - [@alfsnd/vue-bootstrap-select](https://github.com/Sandalf/vue-bootstrap-select) - Vue version of [bootstrap-select](https://github.com/snapappointments/bootstrap-select/)
 - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) - Simple multi-select component with items displayed in a table like UI
-- [vue-wheel-select](https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component
+- [@SamuelTrottier/vue-wheel-select](https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component.
 - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible
 - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides)
 
@@ -685,6 +686,7 @@ Date / datetime / time Picker
 - [vue-knob-control](https://github.com/kramer99/vue-knob-control) - A rotary knob control for Vue.js
 - [iv-slider](https://github.com/lycHub/v-slider) - Slider component for vue2.x.
 - [vue-histogram-slider](https://github.com/oguzhaninan/vue-histogram-slider) - Range slider with histogram for Vue.js
+- [xns-seek-bar](https://github.com/xinnks/xns-seek-bar) - A seekable progress plugin for Vue 2.x
 
 ### Drag and Drop
 

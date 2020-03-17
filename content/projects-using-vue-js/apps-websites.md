@@ -223,3 +223,6 @@ meta:
 - [massCode](https://github.com/antonreshetov/massCode) - An open source code snippets manager for developers. Build with Electron, Vue and Monaco editor
 - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
 - [RSVP Keeper](https://www.rsvpkeeper.com/) - Online reservations made easy. Get your event up and running in no time. Made with Vue and Go
+- [PNGK](https://pngk.org/) - Official website for a consultancy company working to find solutions for humanitarian, human rights and other like minded organizations
+- [BMWUSA Vehicle Configurator](https://www.bmwusa.com/build-your-own.html) - Vehicle Configurator for BMWUSA
+- [mumbasket](https://www.mumbasket.com/) - An ecommerce website with laravel and vuejs

@@ -302,6 +302,7 @@ Utilities for building / compiling / bundling / loading assets
 - [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - Lightweight DI for vue components️
 - [vue-uuid](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance
 - [vue-injector](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
+- [vue-subslot](https://github.com/privatenumber/vue-subslot) - Vue component to pick 'n choose what you want from a slot
 
 ## Web Workers
 
