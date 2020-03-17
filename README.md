@@ -27,16 +27,13 @@ Awesome Vue.js
 <hr />
 <!-- markdownlint-enable MD033 -->
 
-This project does not aim to replace the
-**[official Vue.js Awesome List][vuejs/awesome-vue]** but rather to provide a
-nicer experience when browsing the content.
+This project does not aim to replace the **[official Vue.js Awesome List][vuejs/awesome-vue]** but rather to provide a nicer experience when browsing the content.
 
 [vuejs/awesome-vue]: https://github.com/vuejs/awesome-vue
 
 ## Instructions
 
-To run this application on your machine, first clone the repository and install
-the required dependencies:
+To run this application on your machine, first clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/rmjordas/awesome-vue.git
@@ -44,17 +41,13 @@ cd awesome-vue
 npm install
 ```
 
-Run the `dev` script to compile the content and spawn a local server to serve
-the compiled code. While this script is running, any changes made to the
-markdown files will automatically be updated on the locally served pages.
+Run the `dev` script to compile the content and spawn a local server to serve the compiled code. While this script is running, any changes made to the markdown files will automatically be updated on the locally served pages.
 
 ```bash
 npm run dev
 ```
 
-To prepare the application for deployment, first run `npm run build` to compile
-the application in production mode. This will generate a directory in
-`content/.vuepress` called **`dist`**.
+To prepare the application for deployment, first run `npm run build` to compile the application in production mode. This will generate a directory in `content/.vuepress` called **`dist`**.
 
 ```bash
 npm run build
