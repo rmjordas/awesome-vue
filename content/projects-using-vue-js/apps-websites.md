@@ -226,3 +226,4 @@ meta:
 - [PNGK](https://pngk.org/) - Official website for a consultancy company working to find solutions for humanitarian, human rights and other like minded organizations
 - [BMWUSA Vehicle Configurator](https://www.bmwusa.com/build-your-own.html) - Vehicle Configurator for BMWUSA
 - [mumbasket](https://www.mumbasket.com/) - An ecommerce website with laravel and vuejs
+- [Fanmio](https://fanmio.com) - Meet your favorites celebrities through personal video experiences on Fanmio

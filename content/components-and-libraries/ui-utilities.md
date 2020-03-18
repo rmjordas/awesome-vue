@@ -229,6 +229,7 @@ Seamless scrolling
 - [vue-page-transition](https://github.com/Orlandster/vue-page-transition) - Easy route / page transitions for Vue.js
 - [Vuenime](https://github.com/denisinvader/vuenime) - A flexible Vue wrapper for Animejs
 - [vue-flipper](https://github.com/VitorLuizC/vue-flipper) - A component to flip children with a nice transition
+- [v-number](https://github.com/maxflex/v-number/) Animated number transition library for Vue.js
 
 ## Meta Tags
 
