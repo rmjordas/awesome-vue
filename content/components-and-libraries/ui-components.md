@@ -56,7 +56,6 @@ Tables / data grids
 - [el-data-table](https://github.com/FEMessage/el-data-table) - base on element-ui, makes crud easilys
 - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid for Bootstrap.
 - [vue-ads-table-tree](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework [tailwindcss](https://tailwindcss.com/docs/what-is-tailwind/)
-- [Syncfusion Data Grid for Vue](https://github.com/syncfusion/ej2-vue-grids) - Displays and manipulates tabular data with features such as paging, sorting, filtering, editing, and grouping.
 - [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table
 - [vue-teible](https://github.com/hiendv/teible) - Lightweight and flexible table component for the web
 - [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) - Vue data grid with filtering, sorting, editing, grouping, data export and other features.
@@ -103,6 +102,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component
 - [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue
 - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
+- [vue-notification](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue
 
 ## Loader
 
@@ -195,6 +195,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - Wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 - [vue-modality](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 - [vue-tinybox](https://github.com/NickKaramoff/vue-tinybox) - A tiny (only 2.5 KB minzipped) and slick lightbox gallery. Optimized for both desktop and mobile
+- [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components
 
 ## Parallax
 
@@ -277,13 +278,15 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-glide](https://github.com/antonreshetov/vue-glide) - Vue slider & carousel component on top of the [Glide.js](https://github.com/glidejs/glide)
 - [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) - Vue component for [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [vueper-slides](https://github.com/antoniandre/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue JS.
-- [vue-canvas-carousel](https://github.com/loo41/vuc) - Vue canvas component for [vuc-carousel](http://vuc.tianchenyong.top/#/carousel) ⚠️
+- [vue-canvas-carousel](https://github.com/loo41/vuc) - Vue canvas component for [vuc-carousel](http://vuc.tianchenyong.top/#/carousel)
 - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue
 - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below
 - [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) - Animated slides in a fragmented look
 - [vue2-photo-carousel](https://github.com/leepyng/vue2-photo-carousel) - A photo carousel component for Vue2
 - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider
 - [vue-pswipe](https://github.com/GuoQichen/vue-pswipe) - Easy to use, no need to set the size, support rotation, photoswipe based vue swipe plugin
+- [vue-cat-carousel](https://github.com/hanssagita/vue-cat-carousel) - Lightweight, simple and customizable for Vue Js
+- [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2
 
 ## Charts
 
@@ -338,6 +341,7 @@ Display time / date / age
 - [vue-clock2](https://github.com/bestvist/vue-clock2) - Display clock component for Vue.
 - [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
 - [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) - ️A digital clock simulation build on Vue
+- [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
 
 ## Calendar
 
@@ -401,6 +405,7 @@ Display non-editable events in a Calendar
 - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue
 - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) - A light and customizable Vue 2.x audio player powered HTMLAudioElement
 - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js
+- [vue-player](https://github.com/algoz098/vue-player) - A simple html5 video player with img placeholder for Vue 2.x
 
 ## Infinite Scroll
 
@@ -412,6 +417,7 @@ Display non-editable events in a Calendar
 - [vue-infinite-list](https://github.com/legeneek/vue-infinite-list) - An infinite list mixin can recycle dom for Vue.js 2
 - [vue-infinite-slide-bar](https://github.com/biigpongsatorn/vue-infinite-slide-bar) - ∞ Infinite slide bar component.
 - [vue-virtual-infinite-scroll](https://github.com/zuolei828/vue-virtual-infinite-scroll) - A vue2 component based on Iscroll, supports big data list with high performance scroll, infinite load and pull refresh.
+- [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2
 
 ## Pull-to-refresh
 
@@ -563,8 +569,8 @@ Display non-editable events in a Calendar
 - [vue-niege](https://github.com/P3trur0/vue-niege) - Single File Vue component to add a snow storm through a canvas.
 - [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A highly dynamic vue stars rating component, like google play rating
 - [vue-katex](https://github.com/lucpotage/vue-katex) - Simple plugin for math typsetting using KaTeX in Vue.js
-- [vue-canvas-identify](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top) ⚠️
-- [vue-canvas-material](https://github.com/loo41/vuc) - Vue canvas component for [vuc-material](http://vuc.tianchenyong.top/#/materia) ⚠️
+- [vue-canvas-identify](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
+- [vue-canvas-material](https://github.com/loo41/vuc) - Vue canvas component for [vuc-material](http://vuc.tianchenyong.top/#/materia)
 - [vue-baberrage](https://github.com/superhos/vue-baberrage) - A simple Barrage plugin Base on Vue.js
 - [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - Terminal UI emulator Vue: custom and basic commands
 - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
@@ -584,6 +590,11 @@ Display non-editable events in a Calendar
 - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort
 - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
 - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering
+- [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector) - A meeting selector inspired by doctolib, fast and fully custom made with TypeScript
+- [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue
+– [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs
+-[vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - An animated custom cursor effects for interactive elements like navigation, galleries and carousels
+- [vuetimeline](https://github.com/growthbunker/vuetimeline) - One easy-to-use component to build beautiful responsive timelines
 
 ## Tabs
 
@@ -604,10 +615,15 @@ Let the user create & edit data
 - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code
 - [vue-tel-input](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue
 
+### Pincode Input
+
+- [vue-pincode-input](https://github.com/Seokky/vue-pincode-input) - Smart pincode input component
+
 ### Picker
 
 - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
 - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch
+- [vue-fontawesome-picker](https://github.com/zolamk/vue-fontawesome-picker) - a font awesome icon picker component for Vue 2.x
 
 ### Generator
 
@@ -706,8 +722,9 @@ Date / datetime / time Picker
 - [vue-drag-it-dude](https://github.com/Esvalirion/vue-drag-it-dude) - Vue2 component, that allows you to drag object wherever you want.
 - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) - Vue Drag and Drop library without any dependency. Simple and easy to use.
 - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
-- [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - A powerful customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
 - [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan
+- [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - A powerful customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
+- [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile
 
 ### Autocomplete
 
@@ -768,7 +785,7 @@ Switch / on/off toggle / checkbox
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 - [awesome-mask](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
 - [v-money](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
-- [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) ⚠️ input formatter library
+- [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
 - [vue-inputmask](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 - [vue-input-number](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 - [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
@@ -779,7 +796,7 @@ Switch / on/off toggle / checkbox
 - [label-edit](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 - [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)
 - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
-- [vue-canvas-input](https://github.com/loo41/vuc) - Vue canvas component for [vuc-input](http://vuc.tianchenyong.top/#/identify) ⚠️
+- [vue-canvas-input](https://github.com/loo41/vuc) - Vue canvas component for [vuc-input](http://vuc.tianchenyong.top/#/identify)
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 - [vue-thumb](https://github.com/kaankilic/vue-thumb) - An Upload field mask of an Image for Vue 2
 - [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
@@ -820,7 +837,7 @@ Edit images
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A picture clipping plugin for vue2.0
 - [toast-ui.vue-image-editor](https://github.com/nhnent/toast-ui.vue-image-editor) - Vue Wrapper for [TOAST UI Image Editor](http://ui.toast.com/tui-image-editor).
 - [vue-quick-cropper](https://github.com/duyanpeng/vue-quick-cropper) - Vue mobile avatar upload cropping plugin can choose cropping area and zoom.
-- [vue-canvas-image](https://github.com/loo41/vuc) - Vue canvas component for [vuc-image](http://vuc.tianchenyong.top/#/image) ⚠️
+- [vue-canvas-image](https://github.com/loo41/vuc) - Vue canvas component for [vuc-image](http://vuc.tianchenyong.top/#/image)
 - [vue-croppie](https://github.com/jofftiquez/vue-croppie) - Yet another image cropper.
 - [vue-slim-cropper](https://github.com/wannaxiao/vue-slim-cropper) - A simple and elegant mobile image crop upload component for Vue 2.x.
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
@@ -895,6 +912,7 @@ Display images
 - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component
 - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
 - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
+- [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content
 
 ### Wizard
 

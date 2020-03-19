@@ -172,6 +172,7 @@ Internationalization / L10n / localization / translation
 - [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) - A simple Vue plugin to include a Google sign-in button into your web app
 - [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
 - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
+- [vue-msal](https://github.com/mvertopoulos/vue-msal) - Vue plugin for using Microsoft Authentication Library (MSAL)
 
 ### Vuex Utilities
 
@@ -190,7 +191,6 @@ Internationalization / L10n / localization / translation
 - [vuex-async-module](https://github.com/liqueflies/vuex-async-module) - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.
 - [vuex-api](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
 - [vuex-queries](https://github.com/whtsky/vuex-queries) - Vuex-Queries helps you write query functions in Vuex
-- [vuex-microservice](https://github.com/ndabAP/vuex-microservice) - Define microservice URLs at a dedicated place and use them inside your Vuex actions.
 - [vuex-iframe-sync](https://github.com/L-Chris/vuex-iframe-sync) - Vuex state synchronization between iframe/window.
 - [vuex-aspect](https://gitlab.com/frissdiegurke/vuex-aspect) - Bind remote data of any kind to the vuex store.
 - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
@@ -211,6 +211,7 @@ Internationalization / L10n / localization / translation
 - [Vuex Stateshot](https://github.com/xiaoluoboding/vuex-stateshot) - A State Snapshot plugin on Actions/Mutations for Vuex3.1+
 - [vuex-loopback](https://github.com/mikeevstropov/vuex-loopback) - Vuex module factory and Vue components for Loopback
 - [vuex-state-snapshot](https://github.com/dezull/vuex-state-snapshot) - A Vuex plugin to take state snapshot on mutation
+- [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async) - It wraps Vuex stores to easily manage async requests (loading, error and cache state
 
 #### Sync Between Tabs
 

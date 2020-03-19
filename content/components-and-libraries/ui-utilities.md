@@ -102,6 +102,8 @@ Handling of user events (scroll, click, key strike, ...)
 - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
 - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
 - [vform](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
+- [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A Provider Component that encapsulate your forms and handle their states and validations
+- [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired from Laravel validation system
 
 ## Resize
 
@@ -285,6 +287,7 @@ Move a DOM node to a target DOM node
 - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
 - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
 - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect
+- [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works
 
 ## WebGL
 

@@ -25,15 +25,11 @@ meta:
 # Commercial Products
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
-- [Collate Notes](https://www.collatenotes.com/)
-- [Formester](https://www.formester.com/) - Form, email marketing automation made easy
 - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over Facebook messenger.
 - [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue) - VueJS Admin template with multiple layouts and laravel version.
 - [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) - Team collab-app moving effortlessly between talking, planning & doing
-- [Cover](http://cover.20theme.com) ⚠️ - A high quality Component Library built on Vue.js
 - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
 - [Pragmatic v2.0](https://1.envato.market/LYWqL) - Responsive and configurable admin template built with Vue.js and Element.
-- [Seat](https://www.useseat.com/) - Simple and modern team communication and collaboration solution.
 - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
 - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
 - [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
@@ -42,3 +38,5 @@ meta:
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
 - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
 - [Mongster](https://github.com/mallgroup/mal-mongster) - Connect your Mongo DB nodes into one cluster within a control panel
+- [Leave Dates](https://leavedates.com) - A powerful new way to track your staff leave
+- [Time Door](https://timedoor.io) - A time series analysis API

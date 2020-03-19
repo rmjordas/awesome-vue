@@ -34,8 +34,6 @@ meta:
 - [VueJS Russia + Belarus E-Commerce](https://t.me/vue_commerce) - Telegram Group (Russian + English)
 - [VueJS Russia - News](https://t.me/vue_russia) - Telegram Group (Russian)
 - [VueJS Viet Nam](https://www.facebook.com/groups/vuejsvietnam/) - Facebook group
-- [VueJS Spanish](https://slack.vue-es.org/) - Slack Group
-- [VueJS Korean](https://vuejs-korea.signup.team/) - Slack Group
 - [VueJS Thailand](https://www.facebook.com/groups/VuejsThailand/) - Facebook Group
 - [VueJS Brasil](https://t.me/vuejsbrasil) - Telegram Group (Portuguese)
 - [VueJS Brasil](https://www.facebook.com/vuejsbrasil/) - Facebook Page (Portuguese)
@@ -56,3 +54,4 @@ meta:
 - [VueBLR](https://www.meetup.com/vue-bangalore/) - Meetup
 - [VueBLR](http://bit.ly/vueblr-whatsapp) - WhatsApp Group
 - [VueBLR](https://www.facebook.com/groups/vue.blr/) - Facebook Group
+- [VueJS USA](https://events.vuejs.org/meetups/#united-states) - Meetups

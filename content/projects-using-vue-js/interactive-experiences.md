@@ -24,14 +24,11 @@ meta:
 
 # Interactive Experiences
 
-- [Jean-Pierre Morin | 1700 LAPOSTE](https://1700laposte.com/jean-pierre-morin/)
-- [Facebook NewsFeed](https://newsfeed.fb.com/)
 - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
-- [Omnisense Experience](http://omnisense.net) ⚠️
+- [Omnisense Experience](http://omnisense.net)
 - [Louis Ansa Website (portfolio)](https://louisansa.com)
-- [Djeco.com](http://www.djeco.com/en) ⚠️
+- [Djeco.com](http://www.djeco.com/en)
 - [Tolks.io](https://tolks.io)
-- [Meet Graham](http://www.meetgraham.com.au) ⚠️
 - [NOIZE original](https://noizeoriginal.com)
 - [TR-101 Synth Drum Machine](https://inverted3.gitlab.io/drum-machine)
 - [Bootstrap 4 Editor](https://www.itwonders-web.com/bootstrap4-editor/)

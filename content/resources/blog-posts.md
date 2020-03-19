@@ -37,3 +37,4 @@ meta:
 - [Get Started Writing Class-based Vue.js Apps in TypeScript](https://www.sitepoint.com/class-based-vue-js-typescript)
 - [Vue.js with TypeScript](https://johnpapa.net/vue-typescript) by [John Papa](https://johnpapa.net/about/)
 - [Guide to Unit Testing Vue Components](https://testdriven.io/blog/vue-unit-testing/)
+- [Realtime chat App with Vue and Hasura](https://dev.to/hasurahq/realtime-chat-app-with-vue-and-hasura-202h)

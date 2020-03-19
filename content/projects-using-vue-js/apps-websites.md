@@ -30,32 +30,23 @@ meta:
 - [Laracasts](https://laracasts.com)
 - [esa.io](https://esa.io/)
 - [稀土掘金](https://gold.xitu.io)
-- [Prague Airport](http://www.prague-airport.com/) ⚠️
-- [Portfolio Site](http://corentinbac.com/) ⚠️
-- [Laravist](https://laravist.com/)
-- [Atiiv](https://atiiv.com) - An app aimed for personal trainers and their clients.
+- [Prague Airport](http://www.prague-airport.com/)
+- [Portfolio Site](http://corentinbac.com/)
 - [Statamic](https://statamic.com)
 - [Embalses!](https://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
 - [TravelMap](https://clem.travelmap.net/) - A simple way for travelers to create a blog based on a Map.
 - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
-- [CheckIt](https://check-it.io)
 - [Reddit News](https://github.com/Mati365/reddit-news) - A browser extension which show notifications and news from reddit.
 - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
-- [小桃酱](https://app.xiaotaojiang.com/)
-- [cloudradioo](http://cloudradioo.com) ⚠️ - Web app that plays randomly all top 50 songs from the soundcloud charts
-- [vNotes](https://halfeld.github.io/v-notes/#!/) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
 - [Open Function Computers](https://www.openfunctioncomputers.com/#!/home)
 - [Dermail](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail system written in node.js.
 - [octimine](https://www.octimine.com/) - A patent search engine.
 - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
 - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
-- [X-SONGTAO](http://xiangsongtao.com) - A Personal blog. FE and CMS are in same vue SPA.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
 - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
-- [Jobi : Recruiting Platform](https://www.jobi.tn/)
 - [The Spice House](https://www.thespicehouse.com) - Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
 - [Livestorm](https://livestorm.co) - Webinar / Live events app.
-- [Metric Loop](https://metricloop.com) - A technology services and solutions website.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
 - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) - A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC).
@@ -63,13 +54,12 @@ meta:
 - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app) - Track github project's new release on mac menubar using vue.js with electron.
 - [12BAY.VN](https://12bay.vn) - Applications online flight bookings.
 - [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments.
-- [The Void Radio](http://thevoidrad.io) ⚠️ - Underground House Music Online Radio.
+- [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio.
 - [Bitly Vue](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS & Bitly API.
 - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for its frontend.
 - [WizzAir](https://wizzair.com/)
 - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
 - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
-- [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
 - [Euronews](https://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
 - [Roozame روزامه](https://www.roozame.com) - Roozame is a Persian smart news media service.
 - [Koumoul](https://koumoul.com)
@@ -93,23 +83,20 @@ meta:
 - [1XBET](https://1xbet.com) - A betting company operating since 2007
 - [MyOwnTV](https://myowntv.org) - A streaming website for creating internet television
 - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
-- [Talk to Someone](https://talktosomeone.net) - Free, anonymous and confidential online text chat with strangers around the world.
-- [轮子工厂](http://www.wheelsfactory.cn) ⚠️ - A ui components and libraries sharing website
-- [ابیات ناب پارسی](http://naaab.ir) ⚠️ - A collection of Persian poems
+- [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
 - [Ripplectron](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
 - [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
 - [Todoist Tribute](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
 - [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
 - [Develteam](https://www.develteam.com) - A social network for indie game developers.
 - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
-- [PipQuest](http://pipquest.gregorterrill.com) ⚠️ - A retro-style puzzle game built in Vue
+- [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
 - [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
 - [iPrevYou - YouTube™ Player](https://chrome.google.com/webstore/detail/iprevyou-youtube-player/blijlgfnjhnhmnaldaiienmjggbjhbaa) - A chrome app for watching youtube videos on your desktop.
 - [Item Manager](https://itemmanager.uk) - An application to transfer items for Destiny 2 game.
 - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) - Frontend Masters full day course
 - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
 - [Bazaar](https://bazaar.co) - Media sharing platform.
-- [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
 - [Vectr](https://vectr.com/new) - A free vector graphics software
 - [brain bits](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
 - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
@@ -130,16 +117,14 @@ meta:
 - [sunpos](https://sunpos.ru) - Sun position, elevation, azimuth, ecliptic/equatorial coordinates and sunrise/sunset time (Julian day) calculation and conversion utilities. Web site is programmed using pure JS, Vuejs and i18n Vuejs localization plugin. Visualization is created using D3.js.
 - [U3xyz](https://u3xyz.com) - A personal blog base on vue ssr.
 - [27.ua](https://27.ua) - Ukraine-based internet hypermarket
-- [Chess Guardian](http://vitomd.com/vue-chess-guardian/) ⚠️ - Answer chess positional questions from your own games.
+- [Chess Guardian](http://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
 - [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
-- [MECHANICAL](https://addons.mozilla.org/en-US/firefox/addon/mechmod/) - Reddit mod for Firefox that surfaces contextual data insights.
 - [GameVix](https://www.gamevix.com/) - Swap your used video game discs with others, hassle free. PWA with Material Design.
 - [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [9GAG](https://9gag.com) - Popular online platform and social media website
-- [CryptoVue](https://www.cryptovue.com/) - Real-time cryptocurrency dashboard
 - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
 - [MailRabbit](https://mailrabbit.io) - Create, A/B test, and monitor transactional emails without a developer.
-- [Vue资源精选](http://vue.awesometiny.com) ⚠️ - great Vue components list, category, inline demo show and brief
+- [Vue资源精选](http://vue.awesometiny.com) - great Vue components list, category, inline demo show and brief
 - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
 - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
 - [Made with love](https://made-with-love.xyz/) - The Made with Love around the world, initiative is a movement to celebrate, promote and build a brand. It feed Tech news, design inspiration and trends from over 100 sources including Dribbble, ProductHunt, Behance and Techcrunch.
@@ -165,7 +150,6 @@ meta:
 - [Akunyi](https://akunyi.com) - Charity Website
 - [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - Motivational website based on the story that Mark Ruffalo failed at several hundred auditions before finding success.
 - [Brandy](https://getbrandy.io) - brand assets manager for your menu bar.
-- [Ruster社区](https://forum.ruster.xyz/) - Rust fullstack community forum for CN.
 - [NBC Sports](https://www.nbcsports.com/) - NBC Sports is a sports news website.
 - [WITHIN](https://www.with.in/) - Extraordinary stories in Virtual Reality.
 - [plottr.io](https://plottr.io/) - Plan your running and cycling routes
@@ -209,7 +193,6 @@ meta:
 - [Gamebrary](https://github.com/romancm/gamebrary) - Open source tool to organize video game collections.
 - [Guds](https://www.guds.shop/) - Compare prices across supermarkets. Only available in México.
 - [Premium Poker Tools](https://premiumpokertools.com/) - What poker players use to study.
-- [Translator-vuejs](https://manuel-suarez-abascal.github.io/translator-vuejs/) - Translation App built with Vuejs, Yandex API & ResponsiveVoice.js API.
 - [QMK Configurator](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 - [Worksome](https://www.worksome.com/) - Marketplace/platform for qualified it professionals and freelancers and companies looking to hire them.
 - [Translator-vuejs](https://manuel-suarez-abascal.github.io/translator-vuejs/) - Translation App built with Vuejs, Yandex API & ResponsiveVoice.js API.
@@ -227,3 +210,8 @@ meta:
 - [BMWUSA Vehicle Configurator](https://www.bmwusa.com/build-your-own.html) - Vehicle Configurator for BMWUSA
 - [mumbasket](https://www.mumbasket.com/) - An ecommerce website with laravel and vuejs
 - [Fanmio](https://fanmio.com) - Meet your favorites celebrities through personal video experiences on Fanmio
+- [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
+- [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue
+- [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
+- [Todo DEV](https://todoteam-3263d.web.app/) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase
+- [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
