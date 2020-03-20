@@ -54,3 +54,4 @@ meta:
 - [Carrefour](https://www.carrefour.fr)
 - [Staples Canada](https://www.staples.ca/)
 - [Blibli](https://www.blibli.com)
+- [Manduka](https://www.manduka.com/)
