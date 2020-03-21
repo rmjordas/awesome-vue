@@ -194,3 +194,4 @@ meta:
 - [Readnavi](https://github.com/somphongph/readnavi) - Template Book tracking and review
 - [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
 - [Zeithub](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+- [CodeceptJS UI](https://github.com/codecept-js/ui) - Cypress-liked UI for CodeceptJS end 2 end tests
