@@ -2,7 +2,7 @@
 
 ## Link Submission
 
-Please submit your link(s) to the [official Vue.js Awesome List](https://github.com/vuejs/awesome-vue) repository (read first their [contributing guide](https://github.com/vuejs/awesome-vue/blob/master/CONTRIBUTING.md)).
+Please submit your link(s) to the [official Vue.js Awesome List](https://github.com/vuejs/awesome-vue) repository (read first their [contributing guide](https://github.com/vuejs/awesome-vue/blob/master/.github/contributing.md)).
 
 If they merge your pull request there, it will also be updated in this repository.
 
