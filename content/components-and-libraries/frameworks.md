@@ -60,6 +60,7 @@ Set of components + responsive layout system
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
 - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
+- [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components
 
 ## Mobile UI Frameworks
 
@@ -100,6 +101,7 @@ Set of components without layout system
 - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
+- [Vue Component Development Kit](https://christiankienle.github.io/cdk/) - Unstyled, highly tested and flexible Vue components/mixins/plugins
 
 ## Mobile Components
 

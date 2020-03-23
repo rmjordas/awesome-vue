@@ -180,8 +180,6 @@ meta:
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 - [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 - [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
-- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
-- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 - [Idea Re-Vue](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
 - [Vue Expenses](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 - [Akaunting](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS
@@ -195,3 +193,6 @@ meta:
 - [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
 - [Zeithub](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 - [CodeceptJS UI](https://github.com/codecept-js/ui) - Cypress-liked UI for CodeceptJS end 2 end tests
+- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
+- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
+- [Marked.cc](https://github.com/msjaber/marked.cc) - Create and share beautiful images of your notes and prose

@@ -33,6 +33,7 @@ meta:
 - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - is a component design to develop and test other components, automatically binding their props.
 - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - development server for building vue-cli custom templates.
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files
+- [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development
 
 ## Inspect
 

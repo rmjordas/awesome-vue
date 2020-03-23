@@ -227,6 +227,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
 - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
 - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components
+- [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
 
 ## Menu
 
@@ -234,7 +235,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-js-dropdown](https://github.com/euvl/vue-js-dropdown) - Vue.js 2 dropdown menu component. Light, easy to use and extend, no external deps.
 - [vue-slideout](https://github.com/vouill/vue-slideout) - Vue implementation of the popular library [slideout](https://github.com/Mango/slideout)
 - [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu) - This is web navigation component base on vue.js2.
-- [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
+- [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2
 - [vue-router-nav](https://github.com/classicalconditioning/vue-router-nav) - Minimalistic responsive navigation bar that renders routes of vue-router.
 - [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) - A simple DrawerLayout component like Android has for Vue.js.
 - [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enought in 80% of cases
@@ -329,6 +330,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Lightweight vue charts implemented without any chart library dependencies
 - [f2-vue](https://github.com/justice47/f2-vue) - Vue wrapper of f2 - elegant, interactive and flexible mobile chart library
 - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) - Vue component made by ZingChart with 35+ chart types
+- [jscharting-vue](https://github.com/jscharting/jscharting-vue) - Vue chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/)
 
 ## Time
 
@@ -413,6 +415,7 @@ Display non-editable events in a Calendar
 - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) - A light and customizable Vue 2.x audio player powered HTMLAudioElement
 - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js
 - [vue-player](https://github.com/algoz098/vue-player) - A simple html5 video player with img placeholder for Vue 2.x
+- [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul
 
 ## Infinite Scroll
 
@@ -644,6 +647,7 @@ Let the user create & edit data
 - [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support
 - [vue-ele-form](https://github.com/dream2023/vue-ele-form) - Vue DataForm, based on element-ui
 - [vue-otp-2](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input
+- [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - A schema-based form generator component for Vue.js
 
 ### Date Picker
 
@@ -848,6 +852,7 @@ Edit images
 - [vue-croppie](https://github.com/jofftiquez/vue-croppie) - Yet another image cropper.
 - [vue-slim-cropper](https://github.com/wannaxiao/vue-slim-cropper) - A simple and elegant mobile image crop upload component for Vue 2.x.
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
+- [vue-anka-cropper](https://github.com/e-anka/vue-anka-cropper) - Image cropper and uploader, rectangular and circular crop, customizable CSS
 
 Display images
 
@@ -920,6 +925,7 @@ Display images
 - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
 - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
 - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content
+- [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions
 
 ### Wizard
 

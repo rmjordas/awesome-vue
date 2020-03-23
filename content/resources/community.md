@@ -55,3 +55,4 @@ meta:
 - [VueBLR](http://bit.ly/vueblr-whatsapp) - WhatsApp Group
 - [VueBLR](https://www.facebook.com/groups/vue.blr/) - Facebook Group
 - [VueJS USA](https://events.vuejs.org/meetups/#united-states) - Meetups
+- [VueJS CZ/SK](https://discord.gg/mDr2z8V) - Discord group
