@@ -293,6 +293,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2
 - [slither-slider](https://github.com/dolbex/slither-slider) - Carousel for images, videos, or components. Throw pretty much anything you want at it
 - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay
+- [@jfm/vue-carousel](https://github.com/jiangfengming/vue-carousel) - A Vue carousel component
 
 ## Charts
 
@@ -861,6 +862,8 @@ Display images
 - [img-Vuer](https://github.com/ssshooter/img-vuer) - An Mobile-First image viewer/gallery for Vue2
 - [vue-image-loader](https://github.com/kevindesousa/vue-image-loader) - A vue loader/progressive image plugin like Medium.
 - [vue-load-image](https://github.com/john015/vue-load-image) - display loader during image loading, as well as by display alternate content when the image fails to load.
+- [vue-image-painter](https://github.com/wannaxiao/vue-image-painter) - Image magic animation drawing effect component for Vue 2.x
+- [vue-cosha](https://github.com/kn0wn/vue-cosha) - An easy to use vue directive that places a colourful shadow behind any image
 
 ### Video Manipulation
 
