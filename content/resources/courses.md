@@ -25,4 +25,5 @@ meta:
 # Courses
 
 - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD)
+- [Introduction to Vue.js](https://frontendmasters.com/courses/vue/) - An introductory course that explores the basics of features like directives and modifiers, concepts like components, reactive programming, Nuxt.js, and Vuex
 - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up
