@@ -40,7 +40,7 @@ meta:
 - [VueJS Brasil](https://www.facebook.com/groups/vuejsbr/) - Facebook Group (Portuguese)
 - [VueJS en español](https://www.facebook.com/groups/vue.es/) - Facebook Group (Spanish)
 - [VueJS India](https://goo.gl/mYXKUv) - Discord chat server
-- [VueJS Indonesia](https://t.me/vuejsid) - Telegram Group (Indonesian)
+- [VueJS Indonesia](https://t.me/vuejsindonesia) - Telegram Group (Indonesian)
 - [VueJS Hong Kong](https://www.facebook.com/groups/887185518120024) - Facebook group
 - [VueJS Arab](https://t.me/vuejsarab) - Telegram Group
 - [VueJS Vix](https://t.me/vuejsvix) - Telegram Group (Portuguese)
