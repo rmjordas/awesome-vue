@@ -40,7 +40,8 @@ meta:
 - [VueJS Brasil](https://www.facebook.com/groups/vuejsbr/) - Facebook Group (Portuguese)
 - [VueJS en español](https://www.facebook.com/groups/vue.es/) - Facebook Group (Spanish)
 - [VueJS India](https://goo.gl/mYXKUv) - Discord chat server
-- [VueJS Indonesia](https://t.me/vuejsindonesia) - Telegram Group (Indonesian)
+- [VueJS Indonesia](https://www.facebook.com/groups/1675298779418239/) - Facebook Group (Indonesian)
+- [VueJS Indonesia](https://www.meetup.com/Vuejs-Indonesia/) - Meetup Page (Indonesian)
 - [VueJS Hong Kong](https://www.facebook.com/groups/887185518120024) - Facebook group
 - [VueJS Arab](https://t.me/vuejsarab) - Telegram Group
 - [VueJS Vix](https://t.me/vuejsvix) - Telegram Group (Portuguese)
@@ -50,7 +51,6 @@ meta:
 - [VueJS Finland](https://www.meetup.com/vuejs-finland/) - Meetup
 - [VueJS Finland](https://www.facebook.com/vuejsfinland/) - Facebook Page
 - [Hablemos de Vue.js](https://t.me/vuejsEs) - Telegram Group (Castellano)
-- [VueJS Indonesia](https://www.facebook.com/groups/1675298779418239/) - Facebook Group
 - [VueBLR](https://www.meetup.com/vue-bangalore/) - Meetup
 - [VueBLR](http://bit.ly/vueblr-whatsapp) - WhatsApp Group
 - [VueBLR](https://www.facebook.com/groups/vue.blr/) - Facebook Group
