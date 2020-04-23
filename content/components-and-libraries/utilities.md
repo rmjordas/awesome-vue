@@ -309,6 +309,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-injector](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 - [vue-subslot](https://github.com/privatenumber/vue-subslot) - Vue component to pick 'n choose what you want from a slot
 - [vue-timed-content](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone
+- [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live
 
 ## Web Workers
 
