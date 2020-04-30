@@ -233,6 +233,10 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components
 - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
 
+## Marquee
+
+- [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly
+
 ## Menu
 
 - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
@@ -776,6 +780,7 @@ Let the user select a tag / something while typing
 - [v-image](https://github.com/vinayakkulkarni/v-image) - Tiny little component for input type=file (< 1kb, gzipped)
 - [@voerro/vue-tagsinput](https://github.com/AlexMordred/vue-tagsinput) - A simple tags input Vue.js 2 component with typeahead/autocomplete
 - [vue-tag-selector](https://github.com/tomquinonero/vue-tag-selector) - Tag-like input. Light, customizable and handles REGEX validation!
+- [vue-input-text-to-tags](https://github.com/leepyng/vue-input-text-to-tags) - An input component that can create tags for the result display
 
 ### Color Picker
 
