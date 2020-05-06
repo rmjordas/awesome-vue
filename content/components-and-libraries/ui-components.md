@@ -201,6 +201,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) - A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your component
+- [@kouts/vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C
 
 ## Parallax
 
@@ -612,7 +613,6 @@ Display non-editable events in a Calendar
 - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more
 - [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) - Let users control your Vue app using AI and gestures in front of their camera in just 1 line in your HTML template
 - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort
-- [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
 - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering
 - [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector) - A meeting selector inspired by doctolib, fast and fully custom made with TypeScript
 - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue
@@ -620,6 +620,7 @@ Display non-editable events in a Calendar
 -[vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - An animated custom cursor effects for interactive elements like navigation, galleries and carousels
 - [vuetimeline](https://github.com/growthbunker/vuetimeline) - One easy-to-use component to build beautiful responsive timelines
 - [v-emoji-picker](https://github.com/joaoeudes7/v-emoji-picker) - A Lightweight and customizable package of Emoji Picker in Vue using emojis natives (unicode)
+- [learnawesome-flashcard](https://github.com/learn-awesome/flashcard) - Deck of flashcards with spaced-repetition via localStorage
 
 ## Tabs
 
@@ -834,7 +835,6 @@ Switch / on/off toggle / checkbox
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - Quill editor component for Vue2.
 - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
 - [vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor) - A MediumEditor component for Vue 2.
-- [vue-froala](https://github.com/helpbase/vue-froala) - VueJS wrapper for Froala Editor.
 - [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.
 - [vue-at](https://github.com/fritx/vue-at) - At.js for Vue.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - Lightweight, fast & extensible WYSIWYG editor

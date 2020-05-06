@@ -256,7 +256,7 @@ Move a DOM node to a target DOM node
 
 ## Filters
 
-- [vue2-filters](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.* adapted for use in Vue 2.*.
+- [vue2-filters](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.x adapted for use in Vue 2.x
 - [vue-morphling](https://github.com/jofftiquez/vue-morphling) - A collection of standard and custom filters for Vue 2.
 - [vue-currency-filter](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter.
 - [vue-trans](https://github.com/Trekels/vue-trans) - A simple filter to provide a similar way of translating to the Symfony trans.
