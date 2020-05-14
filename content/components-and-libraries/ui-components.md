@@ -129,6 +129,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-loading-button](https://github.com/shwilliam/vue-loading-button) - Straightforward button with slideout loading indicator
 - [vue-loading](https://github.com/HELMAB/vue-loading) - Block page while requesting API
 - [vue-preloaders](https://github.com/igaloly/vue-preloaders) - Attach your preloader at any time, to any element easily and quickly
+- [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
 
 ### Progress Bar
 
@@ -479,6 +480,7 @@ Display non-editable events in a Calendar
 - [vue-vtree](https://github.com/XAHTEP26/vue-vtree) - Universal and flexible tree component for Vue.js
 - [vue-json-component](https://github.com/tylerkrupicka/vue-json-component) - JSON tree view with no dependencies, TypeScript support, and easy customization.
 - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure
+- [vue-finder](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
 
 ## Graphs
 
