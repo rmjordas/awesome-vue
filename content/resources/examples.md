@@ -40,8 +40,8 @@ meta:
 - [vue-shopping](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
 - [Vue-cnodejs,060](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
-- [VueChess](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game by [gustaYo](https://github.com/gustaYo)
-- [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) by [gustaYo](https://github.com/gustaYo)
+- [VueChess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game by [gustaYo](https://github.com/gustaYo)
+- [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) by [gustaYo](https://github.com/gustaYo)
 - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
 - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
@@ -133,7 +133,7 @@ meta:
 - [Vuejs Examples](https://vuejsexamples.com/)
 - [ASP.NET Core Vue Starter CLI 3.0](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.&#8203;NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) A Soundcloud client built with Vue.js 2, by [Soroush Chehresa](https://github.com/soroushchehresa)
-- [vue-cart](https://github.com/crisgon/vue-cart) A simple shop cart made with vue, vuex and vue router. by [crisgon](https://github.com/crisgon)
+- [vue-cart](https://github.com/crisgon/vue-cart) - A simple shop cart made with vue, vuex and vue router. by [crisgon](https://github.com/crisgon)
 - [Nuxt + Apollo + Element](https://github.com/kavalcante/nuxt-element-apollo) A Vue.js SSR boilerplate with Nuxt, Element (custom theme) and Vue Apollo.
 - [vue-daily-zhihu](https://github.com/walleeeee/daily-zhihu) a simple demo build with Vue 2.0 & vue-router & vuex by [walleeeee](https://github.com/walleeeee)
 - [charcoal](https://github.com/setholito/charcoal) A starter template using the Vue CLI 3.0 and styled with Bulma by [Seth Davis](https://github.com/setholito)
