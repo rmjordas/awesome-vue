@@ -69,6 +69,7 @@ Integrate with services or other frameworks
 - [vue-zdog](https://github.com/AlexandreBonaventure/vue-zdog) - Vue wrapper for zDog - a minimalist 3D engine for the browser
 - [vue-unleash](https://github.com/crishellco/vue-unleash) - A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
 - [vuejs-playframework](https://github.com/SunPj/silhouette-vuejs-app) - PlayFramework + VueJs integration (dev hot reload && prod static assets)
+- [vue-zeye-client](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
 
 ## Vue CLI 3 Plugins
 
