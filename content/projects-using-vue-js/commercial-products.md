@@ -26,13 +26,13 @@ meta:
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
 - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over Facebook messenger.
-- [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue) - VueJS Admin template with multiple layouts and laravel version.
-- [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) - Team collab-app moving effortlessly between talking, planning & doing
-- [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
+- [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesome-vue.js.org) - VueJS Admin template with multiple layouts and laravel version.
+- [Teleo](https://www.teleo.co/?utm_source=awesome-vue.js.org) - Team collab-app moving effortlessly between talking, planning & doing
+- [EducationLink](https://geteducation.link/?utm_source=awesome-vue.js.org) - CRM and sales automation for education agents and colleges.
 - [Pragmatic v2.0](https://1.envato.market/LYWqL) - Responsive and configurable admin template built with Vue.js and Element.
 - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
 - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
-- [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
+- [OSHCExpress](https://oshcexpress.com/?utm_source=awesome-vue.js.org) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
 - [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban
 - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
