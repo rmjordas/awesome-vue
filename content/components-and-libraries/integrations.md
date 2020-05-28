@@ -70,6 +70,7 @@ Integrate with services or other frameworks
 - [vue-unleash](https://github.com/crishellco/vue-unleash) - A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
 - [vuejs-playframework](https://github.com/SunPj/silhouette-vuejs-app) - PlayFramework + VueJs integration (dev hot reload && prod static assets)
 - [vue-zeye-client](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
+- [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use
 
 ## Vue CLI 3 Plugins
 
