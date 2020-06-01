@@ -263,6 +263,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
 - [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) - A pretty simple Vue functional component for menu burger buttons
 - [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer) - A simple interactive sidebar menu drawer and easy to implement
+- [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
 ## Minus Plus Input
 
@@ -627,6 +628,7 @@ Display non-editable events in a Calendar
 - [learnawesome-flashcard](https://github.com/learn-awesome/flashcard) - Deck of flashcards with spaced-repetition via localStorage
 - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - Scroll animated portfolio viewer component for Vue.js
 - [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long
+- [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component
 
 ## Tabs
 
