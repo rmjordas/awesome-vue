@@ -131,6 +131,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-loading](https://github.com/HELMAB/vue-loading) - Block page while requesting API
 - [vue-preloaders](https://github.com/igaloly/vue-preloaders) - Attach your preloader at any time, to any element easily and quickly
 - [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
+- [vuesence-cloud-sync-button](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
 
 ### Progress Bar
 
