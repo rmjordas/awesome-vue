@@ -227,3 +227,4 @@ meta:
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
 - [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [Temp mail service](https://tempmailin.com/) - Simple and fast disposable email app
+- [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website
