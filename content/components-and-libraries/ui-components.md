@@ -307,6 +307,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay
 - [@jfm/vue-carousel](https://github.com/jiangfengming/vue-carousel) - A Vue carousel component
 - [vue-snap](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+- [vuerollr](https://github.com/japick/vuerollr) - Mouseover showreel plugin Vue.js. Supports image and video
 
 ## Charts
 
@@ -633,6 +634,7 @@ Display non-editable events in a Calendar
 - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - Scroll animated portfolio viewer component for Vue.js
 - [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component
+- [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app
 
 ## Tabs
 
