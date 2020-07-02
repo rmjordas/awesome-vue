@@ -38,7 +38,6 @@ meta:
 - [JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)](https://devchat.tv/js-jabber/jsj-276-vue-js-maximilian-schwarzmuller)
 - [Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/)
 - [Views on Vue (weekly podcast on Vue started 03-06-2018)](https://devchat.tv/views-on-vue)
-- [The Official Vue.js News Podcast](https://news.vuejs.org/)
 - [Vue podcast list via The QIT Tech Podcast Indexer](https://qit.cloud/search/vue)
 - [DNE 138 - Vale a pena VueJS? (01-05-2018)](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html)
 - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)

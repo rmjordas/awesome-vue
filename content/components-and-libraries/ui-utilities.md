@@ -81,7 +81,6 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-autofocus-directive](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
 - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
-- [ncform](https://github.com/ncform/ncform) - A very nice configuration generation way to develop form
 - [v-ajax-form](https://github.com/hosokawat/v-ajax-form) - Vue.js component plug-in to make Form tag compatible with ajax request
 - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue. Validation, error handling, form generation, comprehensive documentation, and more
 
@@ -206,7 +205,7 @@ Seamless scrolling
 - [v-page](https://github.com/TerryZ/v-page) - A simple pagination bar, including length Menu, i18n support, based on Vue2.x.
 - [vue-smart-pagination](https://github.com/grinmax/vue-smart-pagination) - Smart pagination of any data with a lot of nice settings.
 - [vue-paginatron](https://github.com/sbaidon/vue-paginatron) - Pagination component built with scoped-slot props for maximum flexibility.
-- [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework [tailwindcss](https://tailwindcss.com/docs/what-is-tailwind/)
+- [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework `tailwindcss`
 - [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizeable Bootstrap Pagination for Vue
 
 ## Animation

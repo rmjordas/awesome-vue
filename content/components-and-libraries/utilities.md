@@ -50,6 +50,7 @@ Utilities not directly related to the UI
 - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
 - [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
 - [vuedts](https://github.com/kahirokunn/vuedts) - Generate TypeScript declaration files for .vue files
+- [@icare-jp/vue-props-type](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type
 
 ## HTTP Requests
 
@@ -65,11 +66,9 @@ Retrieve data over HTTP
 - [vue-fast-axios](https://github.com/leonardovilarinho/vue-fast-axios) - Make requests with validations in a simple and beautiful way.
 - [vue-async-properties](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
 - [vue-axios-plugin](https://github.com/yugasun/vue-axios-plugin) - A plugin that combines axios with Vuejs, making http request more easier.
-- [vuex-api](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
-- [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for [vue-resource](https://github.com/pagekit/vue-resource) that instruments outgoing HTTP requests with [Zipkin](https://github.com/openzipkin/zipkin)
+- [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for `vue-resource` that instruments outgoing HTTP requests with [Zipkin](https://github.com/openzipkin/zipkin)
 - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - Elegant and simple way to build requests for REST API.
 - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server side fetch.
-- [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
 - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.$apis.apiName()).
 
 ## i18n
@@ -89,7 +88,7 @@ Internationalization / L10n / localization / translation
 - [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
 - [template-string-i18n](https://github.com/cutsin/template-string-i18n) - I18n using template strings with auto save/load translate documents.
 - [vue-translations](https://github.com/owl1n/vue-translations) - Translate your vuejs application easy with it.
-- [vue-i18n-service](https://github.com/f/vue-i18n-service) - Export and import [@kazupon/vue-i18n](https://github.com/kazupon/vue-i18n)'s SFC translations simply using `npx vue-i18n-service export|import`.
+- [vue-i18n-service](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations
 - [vue-i18n-filter](https://github.com/chiaweilee/vue-i18n-filter) - Vue filter extend for Vue-i18n, simply using `{{'{'}}{ hello world | t }}`.
 - [vue-translation-manager](https://github.com/cyon/vue-translation-manager) - Interactively find and translate strings in your Vue.js application. Works well with vue-18n and vuex-i18n.
 - [vue-t9n](https://github.com/Ni55aN/vue-t9n) - Simplest way to translate your applications
@@ -117,7 +116,6 @@ Internationalization / L10n / localization / translation
 - [vue-ls](https://github.com/RobinCK/vue-ls) - Vue plugin for work with LocalStorage from Vue context.
 - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
 - [vue-idb](https://github.com/ddgll/vue-idb) - Lists and huge lists management with IndexedDB (Dexie.js) only or automatically created and extendible vuex modules
-- [vuejs-storage](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
 - [vue-browserstore](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
 - [VueStorage](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 - [vue-web-storage](https://github.com/ankurk91/vue-web-storage) - Another Vue.js plugin for localStorage and sessionStorage
@@ -136,13 +134,11 @@ Internationalization / L10n / localization / translation
 - [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters simillar with v-bind.sync
 - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
 - [vue-stash](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
-- [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
 - [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 - [tuex](https://github.com/Raiondesu/Tuex) - A mostly reasonable alternative to Vuex.
 - [revuejs](https://github.com/dwqs/revuejs) - A tiny, light and handy state management for vuejs 2, writing less verbose code.
 - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
 - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
-- [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
 - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
 - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
 - [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
@@ -199,7 +195,7 @@ Internationalization / L10n / localization / translation
 - [vuex-queries](https://github.com/whtsky/vuex-queries) - Vuex-Queries helps you write query functions in Vuex
 - [vuex-iframe-sync](https://github.com/L-Chris/vuex-iframe-sync) - Vuex state synchronization between iframe/window.
 - [vuex-aspect](https://gitlab.com/frissdiegurke/vuex-aspect) - Bind remote data of any kind to the vuex store.
-- [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
+- [Vuenut](https://github.com/lusaxweb/vuenut) - is a component to develop faster and more fluently
 - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
 - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
 - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
@@ -279,6 +275,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-separate-files-webpack-loader](https://github.com/NetCZ/vue-separate-files-webpack-loader) - Webpack loader for separated Vue components parts
 - [vue-svg-loader](https://github.com/visualfanatic/vue-svg-loader) - webpack loader that lets you use SVG files as Vue components
 - [vue-registrar](https://github.com/AmirrezaNasiri/vue-registrar) - A package that dynamically registers your components and vuex modules - Makes your code a lot readable!
+- [vue-automatic-import-loader](https://github.com/hunterliu1003/vue-automatic-import-loader) - Webpack loader that auto-imports your Vue single file components by using a match function
 
 ## Page Navigation
 

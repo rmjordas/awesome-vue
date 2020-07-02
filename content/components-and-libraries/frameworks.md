@@ -43,7 +43,6 @@ Set of components + responsive layout system
 - [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
 - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
 - [VueFace](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web
-- [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
 - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
 - [heyui](https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
@@ -63,6 +62,7 @@ Set of components + responsive layout system
 - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components
 - [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - A lightweight & customizable component library to help you build accessible Vue applications and sites with speed
+- [vue-canvas](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
 
 ## Mobile UI Frameworks
 

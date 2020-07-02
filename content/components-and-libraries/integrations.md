@@ -50,7 +50,7 @@ Integrate with services or other frameworks
 - [vue-loopback](https://github.com/InCuca/vue-loopback) - Loopback and Vue application template
 - [vue-laroute](https://github.com/samturrell/vue-laroute) - Integrate Laravel routes into your VueJS application using laroute.
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - Automatically reports uncaught JavaScript exceptions triggered from vue component.
-- [vue-telegram-login](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login) by [@vchaptsev](https://github.com/vchaptsev/)
+- [vue-telegram-login](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
 - [vuexpress](https://github.com/vuexpress/vuexpress) - Vue + Express.js = VueXpress / A server side rendering engine for Express.js. Use .vue files as your express.js templates.
 - [vue-fixer](https://github.com/eperedo/vue-fixer) - A simple vue component for the [fixer API](https://fixer.io).
 - [amazon-cognito-vuex-module](https://github.com/Botre/amazon-cognito-vuex-module) - Vuex module for Amazon Cognito.
@@ -58,7 +58,7 @@ Integrate with services or other frameworks
 - [sbt-vuefy](https://github.com/GIVESocialMovement/sbt-vuefy) - Vue.js integration for Playframework
 - [loopback-vue-starter](https://github.com/ivandov/loopback-vue-starter) - LoopBack and Vue starter template with easy plugin management through `vue-cli` and `vue ui`.
 - [vue.py](https://stefanhoelzl.github.io/vue.py/) - Write Vue.js Components in Python
-- [vue-telegram-passport](https://github.com/vchaptsev/vue-telegram-passport) - Vue Component for [Telegram Passport](https://telegram.org/blog/passport) by [@vchaptsev](https://github.com/vchaptsev/)
+- [vue-telegram-passport](https://github.com/vchaptsev/vue-telegram-passport) - Vue Component for [Telegram Passport](https://telegram.org/blog/passport)
 - [vue-facebook-login-component](https://github.com/adi518/vue-facebook-login-component) - A fully customizable component for integrating Facebook login.
 - [vue-programmatic-invisible-google-recaptcha](https://github.com/promosis/vue-programmatic-invisible-google-recaptcha) - A simple invisible Google reCAPTCHA component focused solely on programmatic invocation.
 - [vbuild](https://github.com/manatlan/vbuild) - Its main purpose is to let you use components (.vue files) in your vuejs app, without a full nodejs stack. Since 0.6 versions : you can create [your component in pure python](https://github.com/manatlan/vbuild/blob/master/doc/PyComponent.md) !
@@ -92,4 +92,4 @@ Integrate with services or other frameworks
 ## Yandex Metrika
 
 - [vue-ya-metrica](https://github.com/shershen08/vue-ya-metrica) - Vue plugin for Yandex.Metrica
-- [vue-yandex-metrika](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options by [@vchaptsev](https://github.com/vchaptsev/)
+- [vue-yandex-metrika](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options

@@ -29,7 +29,6 @@ meta:
 - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
 - [vue-dummy](https://github.com/paulcollett/vue-dummy) - Placeholder Text and Dummy Images as a simple `v-dummy` directive.
 - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
-- [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
 - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - is a component design to develop and test other components, automatically binding their props.
 - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - development server for building vue-cli custom templates.
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files
@@ -74,7 +73,6 @@ Create documentation
 ## Test
 
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - A Vue.js testing utility library.
-- [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
 - [vuenit](https://github.com/jackmellis/vuenit) - Utilities for testing Vue components and directives.
 - [vue-unit](https://github.com/wrseward/vue-unit) - A library for Vue.js that makes it easier to create and unit test components.
 - [vue-a2b](https://github.com/fromAtoB/vue-a2b) - A library for Split Testing with Vue.js (A/B Testing). Highly configurable and tiny (1.2k gzipped)

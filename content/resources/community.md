@@ -57,3 +57,5 @@ meta:
 - [VueJS USA](https://events.vuejs.org/meetups/#united-states) - Meetups
 - [VueJS CZ/SK](https://discord.gg/mDr2z8V) - Discord group
 - [VueJS Malaysia](https://t.me/vueMalaysia) - Telegram Group (Malaysian)
+- [VueJS DOM](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA) - WhatsApp group
+- [VueJS DOM](https://www.facebook.com/groups/2022974857757366/) - Facebook group
