@@ -370,6 +370,7 @@ Display time / date / age
 - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
 - [vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users
+- [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify
 
 ## Calendar
 
@@ -631,6 +632,7 @@ Display non-editable events in a Calendar
 - [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app
+- [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s)
 
 ## Tabs
 
@@ -881,6 +883,7 @@ Edit images
 - [vue-slim-cropper](https://github.com/wannaxiao/vue-slim-cropper) - A simple and elegant mobile image crop upload component for Vue 2.x.
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
 - [vue-anka-cropper](https://github.com/e-anka/vue-anka-cropper) - Image cropper and uploader, rectangular and circular crop, customizable CSS
+- [vue-picture-cut](https://github.com/987153776/vue-picture-cut) - Image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 
 Display images
 
