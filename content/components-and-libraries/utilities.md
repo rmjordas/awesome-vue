@@ -35,6 +35,7 @@ Utilities not directly related to the UI
 - [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) - Vue Composition API for automatic fetch data when condition has been changed
 - [vue-use](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
 - [vue-concurrency](https://github.com/MartinMalinda/vue-concurrency) - Library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API
+- [vue-ics](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files
 
 ## Typescript
 
