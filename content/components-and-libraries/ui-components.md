@@ -374,6 +374,7 @@ Display time / date / age
 - [vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users
 - [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify
+- [vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js
 
 ## Calendar
 
@@ -898,6 +899,7 @@ Display images
 - [vue-load-image](https://github.com/john015/vue-load-image) - display loader during image loading, as well as by display alternate content when the image fails to load.
 - [vue-image-painter](https://github.com/wannaxiao/vue-image-painter) - Image magic animation drawing effect component for Vue 2.x
 - [vue-cosha](https://github.com/kn0wn/vue-cosha) - An easy to use vue directive that places a colourful shadow behind any image
+- [vue-image-kit](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images
 
 ### Video Manipulation
 
@@ -962,6 +964,8 @@ Display images
 - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
 - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions
+- [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js
+- [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js
 
 ### Wizard
 
