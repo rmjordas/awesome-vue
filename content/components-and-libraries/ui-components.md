@@ -72,6 +72,7 @@ Tables / data grids
 - [fancy-grid-vue](https://fancygrid.com) - Vue adaptor for FancyGrid
 - [vue-table-dynamic](https://github.com/TheoXiong/vue-table-dynamic) - A dynamic table with sorting, filtering, editing, pagination, multiple select, etc.
 - [vue-quintable](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
+- [vue-grid-responsive](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x
 
 ## Notification
 
@@ -876,6 +877,7 @@ Switch / on/off toggle / checkbox
 - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) - Next generation block styled editor for Vue.js
 - [element-tiptap](https://github.com/Leecason/element-tiptap) - A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin
+- [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js
 
 ### Image Manipulation
 
