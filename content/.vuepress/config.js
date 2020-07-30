@@ -2,6 +2,7 @@ module.exports = {
   title: 'Awesome Vue.js',
   description: 'A curated list of awesome things related to Vue.js',
   head: [
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
