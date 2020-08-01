@@ -997,6 +997,7 @@ Display images
 - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) - A Vue Signature Pad Component
 - [vg-editor](https://github.com/ChrisShen93/VGEditor) - A visual graph editor based on G6 and Vue, inspired by GGEditor
 - [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) - Build reactive 2D graphics scene in your Vue project
+- [vue-scratchable](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards
 
 ## Link Preview
 
