@@ -236,3 +236,4 @@ meta:
 - [National Institutes of Health (NIH): FEVS Survey Results](https://hr.nih.gov/workforce/fevs/2019-fevs-survey-results) - National Institutes of Health (NIH) data visualization of Federal Viewpoints Survey (FEVS) survey results
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase
 - [Nipashe](https://nipashe.netlify.app/) - "Nipashe" is a Swahili word that means "Inform me". Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
+- [EasyPeasyMemes](https://easy-peasy-memes.netlify.app/) - EasyPeasyMemes is a Browser extension and a web app to help you generate Memes easier and faster
