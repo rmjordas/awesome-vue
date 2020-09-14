@@ -190,6 +190,7 @@ Seamless scrolling
 - [lazyload-vue](https://github.com/Kazap/lazyload-vue) - Vue Plugin for vanilla-lazyload.
 - [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe
 - [v-lazy-component](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API
+- [vue-lazy](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
 
 ## Pagination
 
@@ -297,6 +298,7 @@ Move a DOM node to a target DOM node
 - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect
 - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works
 - [v-github-icon](https://github.com/vinayakkulkarni/v-github-icon) - Easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos
+- [vue-styled-shadows](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images
 
 ## WebGL
 

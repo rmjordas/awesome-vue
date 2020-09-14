@@ -238,3 +238,5 @@ meta:
 - [Nipashe](https://nipashe.netlify.app/) - "Nipashe" is a Swahili word that means "Inform me". Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
 - [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets
 - [EasyPeasyMemes](https://easy-peasy-memes.netlify.app/) - EasyPeasyMemes is a Browser extension and a web app to help you generate Memes easier and faster
+- [Pexies](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on Pexels API. You can see curated/randomized pictures, and add them to your favourites
+- [Wammes Gifts](https://www.wammes-gifts.nl) - Wammes Gifts helps you find the perfect gift
