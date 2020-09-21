@@ -73,6 +73,7 @@ Tables / data grids
 - [vue-table-dynamic](https://github.com/TheoXiong/vue-table-dynamic) - A dynamic table with sorting, filtering, editing, pagination, multiple select, etc.
 - [vue-quintable](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
 - [vue-grid-responsive](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x
+- [vue-js-datatable](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
 
 ## Notification
 
@@ -414,7 +415,7 @@ Display non-editable events in a Calendar
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue
 - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/)
-- [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - Calendar wrapper component of jQuery UI datepicker
+- [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jQuery UI datepicker](https://jqueryui.com/datepicker)
 
 ## Map
 
@@ -465,6 +466,7 @@ Display non-editable events in a Calendar
 - [vue-infinite-slide-bar](https://github.com/biigpongsatorn/vue-infinite-slide-bar) - ∞ Infinite slide bar component.
 - [vue-virtual-infinite-scroll](https://github.com/zuolei828/vue-virtual-infinite-scroll) - A vue2 component based on Iscroll, supports big data list with high performance scroll, infinite load and pull refresh.
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2
+- [@grafikri/vue-infinite-scroll](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
 
 ## Pull-to-refresh
 
