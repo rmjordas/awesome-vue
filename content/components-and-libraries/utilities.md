@@ -76,6 +76,7 @@ Retrieve data over HTTP
 - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server side fetch.
 - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.$apis.apiName()).
 - [rexios](https://github.com/Scrum/rexios) - Utils normalize URL, data, params for Axios when using REST API request
+- [vue-axillo](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL
 
 ## i18n
 
@@ -156,6 +157,7 @@ Internationalization / L10n / localization / translation
 - [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - Efficient, effective, and extensible state management: less is more
 - [universal-model-vue](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
 - [vue-states](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
+- [v-bucket](https://github.com/mediv0/v-bucket) - Fast, simple and lightweight state management for Vue 3.0 built with composition API, inspired by Vuex
 
 ### Redux
 
