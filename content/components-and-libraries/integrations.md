@@ -87,6 +87,7 @@ Integrate with services or other frameworks
 - [vue-cli-plugin-kami](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI 3 Plugin with work-made architecture for quickly start your app
 - [vue-cli-plugin-auto-alias](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI 3 Plugin to automatically set aliases
 - [vue-cli-plugin-clean](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI 3 Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
+- [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI 3 Plugin to mock HTTP requests
 
 ## Google Analytics
 
