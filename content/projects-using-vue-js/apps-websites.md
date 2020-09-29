@@ -153,7 +153,6 @@ meta:
 - [Trustpilot](https://www.trustpilot.com) - a free and open to all review platform.
 - [Lagom](https://lagom.rsstudio.net/) - Simple, intuitive and fully responsive WHMCS theme
 - [ScoutMyTrip - Roadtrip Planner](https://scoutmytrip.com/roadtrip-planner/start) - Road trip planning app for India which helps travelers to build their itinerary, discover points of interest, find hotels, gas stations, food joints etc along the route.
-- [Podflix](https://podflix.app/) - Podcast app.
 - [GamersClub](https://gamersclub.com.br/?lang=english) - Biggest company of eSport community development in Brazil
 - [MIT](https://www.mit.edu/) - Official Website of Massachusetts Institute of Technology.
 - [Elvenar](https://en.elvenar.com/) - Elvenar is a browser based fantasy city builder game.
@@ -172,7 +171,6 @@ meta:
 - [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
 - [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
 - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
-- [Careup](https://careup.mx) - Business management tool for dentists.
 - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
 - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
 - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
@@ -187,7 +185,6 @@ meta:
 - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
 - [sum.cumo](https://www.sumcumo.com/) – Digital business models (with Vue as a tech stack centerpiece).
 - [Gamebrary](https://github.com/romancm/gamebrary) - Open source tool to organize video game collections.
-- [Guds](https://www.guds.shop/) - Compare prices across supermarkets. Only available in México.
 - [Premium Poker Tools](https://premiumpokertools.com/) - What poker players use to study.
 - [QMK Configurator](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 - [Worksome](https://www.worksome.com/) - Marketplace/platform for qualified it professionals and freelancers and companies looking to hire them.

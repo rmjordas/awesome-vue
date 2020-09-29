@@ -30,7 +30,6 @@ meta:
 - [Vue.js Radar](https://www.vuejsradar.com) - Curated newsletter + site covering new Vue.js releases/contributions.
 - [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
 - [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
-- [BuiltForVue](https://builtforvue.com) - NPM Mirror of all Vue.js components and packages.
 - [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
 - [Vue Mastery](https://www.vuemastery.com) - The ultimate learning resource for Vue developers
 - [VueDose](https://vuedose.tips) - Tips & tricks about the Vue ecosystem, for busy devs.
