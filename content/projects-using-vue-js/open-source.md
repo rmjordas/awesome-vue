@@ -119,7 +119,7 @@ meta:
 - [XMR Paper](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 - [JoyProxy](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 - [activity-automation](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
-- [jsettlers-web](https://github.com/generateui/jsettlers-web) Popular German board game to build hexes, settlements, cities, roads with earned resources
+- [jsettlers-web](https://github.com/generateui/jsettlers-web) - Popular German board game to build hexes, settlements, cities, roads with earned resources
 - [Tamiat CMS](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
 - [vuegg](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
 - [Podlove Web Player](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
@@ -140,26 +140,26 @@ meta:
 - [Faviator](https://www.faviator.xyz/) - A simple easy favicon generator.
 - [Modular Genealogy](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 - [Minimal Notes](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
-- [Roast](https://github.com/serversideup/roastandbrew) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
+- [Roast](https://github.com/serversideup/roastandbrew) - An app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js
 - [Stack Edit](https://github.com/benweet/stackedit/) - In-browser Markdown editor
 - [Bael Blog Template](https://bael-theme.jake101.com/) - A static generated blog template that uses Netlify CMS for the backend and Netlify for hosting. Features a brutalist aesthetic, fuzzy search, serverless email signup, and more.
 - [Buefy Shop](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions
-- [sysmon](https://github.com/Lt0/sysmon) A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
-- [eth-vue](https://github.com/DOkwufulueze/eth-vue) A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
-- [Nippon-color](https://github.com/ssshooter/nippon-color) Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
-- [Saleina CMS](https://github.com/saleina/SaleinaCMS) A static site content management system built with vue using git as a backend.
-- [Vuido](https://github.com/mimecorg/vuido) A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
-- [YouGet](https://github.com/ahmetzeybek/YouGet) YouTube Video/Audio/Subtitle Downloader + Cutter
-- [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) Vue + Pug + Stylus boilerplate
-- [Crypto News](https://github.com/Bartozzz/crypto-news) allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
-- [Epiboard](https://github.com/Alexays/Epiboard) A new tab page extension with material design and useful features
-- [zhudyos/duic](https://github.com/zhudyos/duic) Distributed configuration center
-- [Vuemmerce](https://github.com/ivanlori/Vuemmerce) Free ecommerce template built with Vue.js and Bulma framework
-- [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) Layered architecture ASP.NET Core API and Vuejs client application startup template
-- [Carpoolear](https://github.com/STS-Rosario/carpoolear) The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
-- [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
-- [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
-- [RosterWebApp](https://github.com/SnakeyHips/RosterWebApp) Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
+- [sysmon](https://github.com/Lt0/sysmon) - A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere
+- [eth-vue](https://github.com/DOkwufulueze/eth-vue) - A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled
+- [Nippon-color](https://github.com/ssshooter/nippon-color) - Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3
+- [Saleina CMS](https://github.com/saleina/SaleinaCMS) - A static site content management system built with Vue using git as a backend
+- [Vuido](https://github.com/mimecorg/vuido) - A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components
+- [YouGet](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
+- [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) - Vue + Pug + Stylus boilerplate
+- [Crypto News](https://github.com/Bartozzz/crypto-news) - Allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place
+- [Epiboard](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features
+- [zhudyos/duic](https://github.com/zhudyos/duic) - Distributed configuration center
+- [Vuemmerce](https://github.com/ivanlori/Vuemmerce) - Free e-commerce template built with Vue.js and Bulma framework
+- [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Layered architecture ASP.NET Core API and Vue.js client application startup template
+- [Carpoolear](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js front-end (mobile and Cordova app) for the Argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
+- [Statusfy](https://github.com/bazzite/statusfy) - Statusfy is a Status Page System, easy to use and completely Open Source
+- [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - Cross-platform GUI client for DynamoDb
+- [RosterWebApp](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features
 - [Vue E-Store Templet](https://github.com/rash0/Vue-Ecom) - An e-commerce templet build with vue/vuex/vue-router and bootstrap4.
 - [Twill](https://twill.io) - An open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.
 - [MATH_BOT](https://mathbot.com) - Learn math by programming a robot.
@@ -172,7 +172,7 @@ meta:
 - [VueSolitaire](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) imlemented in Vue.js.
 - [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
 - [QMK Configurator](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
-- [Eplee](https://github.com/Janglee123/eplee) Sweet, simple epub reader made with Vue.js and Electron.js.
+- [Eplee](https://github.com/Janglee123/eplee) - Sweet, simple ePub reader made with Vue.js and Electron.js
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
 - [Daily](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel

@@ -65,7 +65,7 @@ meta:
 - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/guess-right) (although not the live files that run the game at kdcinfo).
 - [GRAP](https://grap.io) - Business communication service
 - [Easy Mock](https://easy-mock.com)
-- [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) A blog built with Vue 2.0, vue-router & vuex, with server-side rendering
+- [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) - A blog built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
 - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
@@ -81,7 +81,7 @@ meta:
 - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
 - [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
 - [Ripplectron](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
-- [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
+- [PingBreak](https://pingbreak.com) - A free and simple website monitoring service using Vue.js for real-time dashboard
 - [Todoist Tribute](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
 - [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
 - [Develteam](https://www.develteam.com) - A social network for indie game developers.
