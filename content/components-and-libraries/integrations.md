@@ -74,20 +74,20 @@ Integrate with services or other frameworks
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 
-## Vue CLI 3 Plugins
+## Vue CLI Plugins
 
-- [vue-cli-plugin-cordova](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI 3 Plugin to add Cordova easily to your project
-- [vue-cli-plugin-component](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI 3 Plugin to create component
-- [vue-cli-plugin-modular-vuex](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI 3 Plugin to create modular Vuex store files
+- [vue-cli-plugin-cordova](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
+- [vue-cli-plugin-component](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
+- [vue-cli-plugin-modular-vuex](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
 - [vue-cli-plugin-modular-router](https://github.com/PureConstructs/vue-cli-plugin-modular-router) - Vue CLI Plugin to create modular route files
 - [vue-cli-plugin-docker-nginx](https://github.com/truefalse10/vue-cli-plugin-docker-nginx) - Vue CLI Plugin to add a docker deployment using a minimal nginx server
-- [vue-cli-plugin-element](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI 3 Plugin to build an enterprise application with element-ui in seconds
-- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI 3 Plugin for Electron with no required configuration that uses Electron Builder.
+- [vue-cli-plugin-element](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
+- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
 - [vue-cli-plugin-codeceptjs-puppeteer](https://github.com/codecept-js/vue-cli-plugin-codeceptjs-puppeteer) - Installs CodeceptJS & Puppeteer for supercharged end-to-end testing
-- [vue-cli-plugin-kami](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI 3 Plugin with work-made architecture for quickly start your app
-- [vue-cli-plugin-auto-alias](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI 3 Plugin to automatically set aliases
-- [vue-cli-plugin-clean](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI 3 Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
-- [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI 3 Plugin to mock HTTP requests
+- [vue-cli-plugin-kami](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI Plugin with work-made architecture for quickly start your app
+- [vue-cli-plugin-auto-alias](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI Plugin to automatically set aliases
+- [vue-cli-plugin-clean](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
+- [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock HTTP requests
 
 ## Google Analytics
 
