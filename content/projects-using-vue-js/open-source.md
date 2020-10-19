@@ -204,3 +204,4 @@ meta:
 - [Pathfinding Visualizer ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 - [CoronaBoard](https://github.com/bibhuticoder/corona-board) - Latest stats on COVID-19 in an interactive way.
 - [Ramrocode](https://github.com/the-value-crew/ramroCode) - Beautiful screenshot of your code snippets
+- [Agile Visitors](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort

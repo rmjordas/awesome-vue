@@ -507,6 +507,7 @@ Display non-editable events in a Calendar
 - [vue-json-component](https://github.com/tylerkrupicka/vue-json-component) - JSON tree view with no dependencies, TypeScript support, and easy customization.
 - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure
 - [vue-finder](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
+- [vue3-router-tree](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view
 
 ## Graphs
 
@@ -668,6 +669,7 @@ Display non-editable events in a Calendar
 - [vue-tiny-tabs](https://github.com/mevinoth/vue-tiny-tabs) - A minimalistic tabs component as tinytabs Vuejs wrapper (size < 3.1kb)
 - [vue-lumino](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system
 - [vue-router-tab](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router
+- [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 
 ## Form
 
