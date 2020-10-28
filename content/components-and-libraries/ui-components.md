@@ -74,6 +74,7 @@ Tables / data grids
 - [vue-quintable](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
 - [vue-grid-responsive](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x
 - [vue-js-datatable](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
+- [bee-grid-table](https://github.com/jiahengaa/BeeGridTable) - BeeGridTable is a highly-customizable table UI component library based on Vue.js. Rich functions, more efficient, and easy to use
 
 ## Notification
 
