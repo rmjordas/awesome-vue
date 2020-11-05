@@ -206,3 +206,4 @@ meta:
 - [Ramrocode](https://github.com/the-value-crew/ramroCode) - Beautiful screenshot of your code snippets
 - [Agile Visitors](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort
 - [Pexelry](https://github.com/Junior-Developer/Pexelry) - Application that leverages the Pexels API to enable you find beautifull photos and pictures
+- [karrot-frontend](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide
