@@ -205,3 +205,4 @@ meta:
 - [CoronaBoard](https://github.com/bibhuticoder/corona-board) - Latest stats on COVID-19 in an interactive way.
 - [Ramrocode](https://github.com/the-value-crew/ramroCode) - Beautiful screenshot of your code snippets
 - [Agile Visitors](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort
+- [Pexelry](https://github.com/Junior-Developer/Pexelry) - Application that leverages the Pexels API to enable you find beautifull photos and pictures
