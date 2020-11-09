@@ -63,7 +63,7 @@ serve content/.vuepress/dist
 | `dev`   | Compiles content and serves bundled code                |
 | `build` | Compiles content and other static assets for deployment |
 | `lint`  | Runs markdown linter to check lint errors               |
-| `test`  | An alias for `lint` (runs `lint` script)                 |
+| `test`  | An alias for `lint` (runs `lint` script)                |
 
 ## Contributing
 
