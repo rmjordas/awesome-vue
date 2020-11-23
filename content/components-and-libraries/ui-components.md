@@ -439,6 +439,7 @@ Display non-editable events in a Calendar
 - [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) - Let users decide to load google-maps script for better privacy
 - [@geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 - [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
+- [x5-gmaps](https://github.com/xon52/x5-gmaps) - Lightweight Google Maps plugin for Vue 2.x
 
 ## Audio / Video
 
