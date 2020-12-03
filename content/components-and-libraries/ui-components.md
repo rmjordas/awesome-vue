@@ -76,6 +76,7 @@ Tables / data grids
 - [vue-js-datatable](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
 - [bee-grid-table](https://github.com/jiahengaa/BeeGridTable) - BeeGridTable is a highly-customizable table UI component library based on Vue.js. Rich functions, more efficient, and easy to use
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with Excel like rich edit and behavior
+- [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 
 ## Notification
 
@@ -441,6 +442,7 @@ Display non-editable events in a Calendar
 - [@geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 - [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 - [x5-gmaps](https://github.com/xon52/x5-gmaps) - Lightweight Google Maps plugin for Vue 2.x
+- [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue Google Maps custom marker component
 
 ## Audio / Video
 
