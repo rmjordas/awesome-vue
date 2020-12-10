@@ -40,6 +40,7 @@ Utilities not directly related to the UI
 - [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - A Vue composition function that makes infinite scroll a breeze
 - [vue-with-wrapper](https://github.com/zWingz/vue-with-wrapper) - An object deconstruction used in `template`
 - [vesselize](https://github.com/vesselize/vesselize) - A JavaScript IoC container that works seamlessly with Vue.js
+- [vue-context-composition](https://github.com/AlbertBrand/vue-context-composition) - Share state created with the composition API between components, similar to `useContext` from React Hooks
 
 ## Typescript
 
