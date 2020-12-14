@@ -114,6 +114,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [vuetify-toast-snackbar](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component
 - [vue-toaster](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 - [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
+- [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest
 
 ## Loader
 
@@ -466,6 +467,7 @@ Display non-editable events in a Calendar
 - [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components
 - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom SoundCloud player supporting single tracks & playlists
+- [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects
 
 ## Infinite Scroll
 

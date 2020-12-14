@@ -30,3 +30,4 @@ meta:
 - [Rendora](https://github.com/rendora/rendora) - dynamic SSR (server-side rendering) using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [pre-vue](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt
 - [ssr-vuejs-nodejs](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render Vue.js with Node.js without Nuxt
+- [vue-genesis](https://github.com/fmfe/genesis) - Micro front-end, microservice and lightweight solution based on Vue SSR
