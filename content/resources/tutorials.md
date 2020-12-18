@@ -187,3 +187,5 @@ meta:
 - [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
 - [Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo&ab_channel=TheEarthisSquare) on YouTube
 - [Vue 3 Composition Api Introduction - Full Tutorial](https://www.youtube.com/watch?v=bwItFdPt-6M)
+- [Building a VueJS chat app with realtime storage of messages in Airtable](https://www.ably.io/blog/airtable-database-realtime-messages) by Srushtika Neelakantam (December 2020)
+- [Building a realtime quiz with VueJS using a starter kit](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)

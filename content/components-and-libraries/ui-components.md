@@ -778,6 +778,7 @@ Date / datetime / time Picker
 - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible
 - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides)
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla JS select component
+- [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options
 
 ### Slider
 

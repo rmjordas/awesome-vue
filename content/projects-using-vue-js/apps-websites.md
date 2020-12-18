@@ -184,7 +184,7 @@ meta:
 - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
 - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
 - [sum.cumo](https://www.sumcumo.com/) – Digital business models (with Vue as a tech stack centerpiece).
-- [Gamebrary](https://github.com/romancm/gamebrary) - Open source tool to organize video game collections.
+- [Gamebrary](https://gamebrary.com) - Open source tool to organize video game collections
 - [Premium Poker Tools](https://premiumpokertools.com/) - What poker players use to study.
 - [QMK Configurator](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 - [Worksome](https://www.worksome.com/) - Marketplace/platform for qualified it professionals and freelancers and companies looking to hire them.
