@@ -164,6 +164,7 @@ Internationalization / L10n / localization / translation
 - [vue-states](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
 - [v-bucket](https://github.com/mediv0/v-bucket) - Fast, simple and lightweight state management for Vue 3.0 built with composition API, inspired by Vuex
 - [VueFort](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3
+- [@korijn/vue-store](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo
 
 ### Redux
 
