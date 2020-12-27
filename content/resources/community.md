@@ -59,3 +59,4 @@ meta:
 - [VueJS Malaysia](https://t.me/vueMalaysia) - Telegram Group (Malaysian)
 - [VueJS DOM](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA) - WhatsApp group
 - [VueJS DOM](https://www.facebook.com/groups/2022974857757366/) - Facebook group
+- [VueJS Uzbekistan](https://t.me/vuejsuzbekcommunity) - Telegram Group (Uzbek)
