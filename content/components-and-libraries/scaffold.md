@@ -58,6 +58,7 @@ Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator
 - [nuxt-headless](https://github.com/bovas85/nuxt-headless) - Boilerplate for Nuxt.js using Wordpress REST API as headless CMS
 - [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) - Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available
 - [janak](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze
+- [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - Minimalist starting point for your next Vue composable
 
 ## Client
 
