@@ -110,6 +110,7 @@ Includes a backend boilerplate
 - [vue-design](https://github.com/L-Chris/vue-design) - the best website visualization builder with Vue and Electron.
 - [dapp](https://github.com/fritx/dapp) - Boilerplate for stack of Vue/Parcel/Electron.
 - [vue-electron-template](https://github.com/mubaidr/vue-electron-template) - An Electron & Vue.js boilerplate with Hot-reloading enabled and common Vue plugins, dev and build scripts configured using webpack-4
+- [vue-iview-electron-boilerplate](https://github.com/buyouzzj/vue-iview-electron) - An Electron & Vue.js boilerplate with iview 4.x, Vue 2.x, Electron 8.x and Webpack 4.x
 
 ## Parts
 
