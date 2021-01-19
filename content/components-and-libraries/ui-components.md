@@ -144,6 +144,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-ui-preloader](https://github.com/Bot-Academia/Vue-ui-preloader) - Pre Loader components for vue.js projects with playground
 - [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for Vue.js
 - [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The ultimate fully-customizable Skeleton Card plugin for Vue
+- [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 
 ### Progress Bar
 
@@ -369,6 +370,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-d3-barchart](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3
 - [vue3-highcharts](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
+- [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.js for Vue 3
 
 ## Time
 
@@ -967,6 +969,7 @@ Display images
 - [vue-filepond](https://github.com/pqina/vue-filepond) - A Vue.js component for FilePond - a file upload library that can upload anything you throw at it.
 - [v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin to make files upload simple and easier, you can drag files or select file in dialog to upload
 - [vue-file-agent](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
+- [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A Cloudinary image cropper and uploader component for Vue.js
 
 ### Context Menu
 
