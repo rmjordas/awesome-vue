@@ -334,6 +334,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-timed-content](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone
 - [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live
 - [vue-safe-html](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically
+- [v-fetch](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests
 
 ## Web Workers
 
