@@ -165,3 +165,5 @@ meta:
 - [vue-stack-cesium](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome Vue features. The project contains many examples how to combine and use certain packages to get started
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 - [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a peer-to-peer game with Vue
+- [vue3-webpack](https://github.com/boussadjra/vue3-webpack) - Vue 3 + Webpack 4 starter
+- [laravel-vue-3-starter](https://github.com/boussadjra/laravel-vue-3-starter) - A pre-configured project using Laravel 8 and Vue 3
