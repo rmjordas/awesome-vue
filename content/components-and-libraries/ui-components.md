@@ -178,6 +178,7 @@ Tooltips / popovers
 - [k-pop](https://github.com/ChristianKienle/k-pop) - Simple popover component based on [popper.js](https://popper.js.org/). Highly customizable. Comes with themes. Supports custom triggers and can listen to any event.
 - [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - A customizable, reactive, and reusable tooltip component for Vue that supports multiple use-cases, plugin options & props. Also works with SSR (e.g. VuePress)
 - [vue-tooltip](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/popups) - Vue Tooltip and Popover component with Smart Positioning.
+
 ## Overlay
 
 Overlay / modal / alert / dialog / lightbox / popup
