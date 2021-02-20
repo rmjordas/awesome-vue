@@ -77,7 +77,7 @@ Tables / data grids
 - [bee-grid-table](https://github.com/jiahengaa/BeeGridTable) - BeeGridTable is a highly-customizable table UI component library based on Vue.js. Rich functions, more efficient, and easy to use
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with Excel like rich edit and behavior
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
-- [Vue-datagrid](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/grids) - Syncfusion Vue Grid - Blazing fast and feature rich component
+- [ej2-vue-grids](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/grids) - Syncfusion Vue Grid - Blazing fast and feature rich component
 
 ## Notification
 
@@ -116,7 +116,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [vue-toaster](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 - [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
 - [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest
-- [vue-notification-ui](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/notifications) - An easily customizable, pure HTML5/CSS notification UI
+- [ej2-vue-notifications](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/notifications) - An easily customizable, pure HTML5/CSS notification UI
 
 ## Loader
 
@@ -164,7 +164,7 @@ A slim progress bar at the top of the page
 - [easy-circular-progress](https://github.com/dreambo8563/easy-circular-progress) - Easy circular progress component with counting effect
 - [vue-twitter-counter](https://github.com/LucasLeandro1204/vue-twitter-counter) - Counter component inspired in Twitter with Vue
 - [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
-- [vue-progressbar](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/progressbar) Simple and Elegant Vue ProgressBar.
+- [ej2-vue-progressbar](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/progressbar) - Simple and elegant Vue progress bar.
 
 ## Tooltip
 
@@ -177,7 +177,6 @@ Tooltips / popovers
 - [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events
 - [k-pop](https://github.com/ChristianKienle/k-pop) - Simple popover component based on [popper.js](https://popper.js.org/). Highly customizable. Comes with themes. Supports custom triggers and can listen to any event.
 - [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - A customizable, reactive, and reusable tooltip component for Vue that supports multiple use-cases, plugin options & props. Also works with SSR (e.g. VuePress)
-- [vue-tooltip](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/popups) - Vue Tooltip and Popover component with Smart Positioning.
 
 ## Overlay
 
@@ -227,7 +226,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [@kouts/vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - Tailwind-friendly, highly customizable, stackable modal component
 - [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only
-- [vue-dialog](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/popups#dialog-1) - Vue Modal Dialog Component Easily Customizable alert box.
+- [ej2-vue-popups](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/popups) - Vue tooltip and popover component with smart positioning
 
 ## Parallax
 
@@ -291,14 +290,14 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 - [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for Vue.js. SSR supported
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
-- [vue-navigation-ui](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations) Customizable navigation-ui controls menubar, sidebar, tootlbar, context menu
+- [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations) - Customizable navigation-ui controls menubar, sidebar, tootlbar, context menu
 
 ## Minus Plus Input
 
 - [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) - A number input with plus minus; included for Vue.js v1 and v2.
 - [vue-integer-plusminus](https://github.com/Keiwen/vue-integer-plusminus) - Integer input with increment and decrement buttons for vue 2.
 - [vue-numeric-input](https://github.com/JayeshLab/vue-numeric-input) - Number input component with controls.
-- [vue-numerictextbox](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#4-numerictextbox) A great alternative for HTML5 input-type numbers with a modern look.
+- [ej2-vue-inputs](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#4-numerictextbox) - A great alternative for HTML5 input-type numbers with a modern look.
 
 ## Carousel
 
@@ -380,7 +379,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.js for Vue 3
 - [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated SVG gauge charts
-- [vue-charts](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/charts) Beautiful and Interactive Charts library, 30+ Chart types & Fast paced performance.
+- [ej2-vue-charts](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/charts) - Beautiful and interactive charts library, 30+ chart types & fast paced performance.
 
 ## Time
 
@@ -438,7 +437,7 @@ Display non-editable events in a Calendar
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/)
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jQuery UI datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement
-- [vue-calendar](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars) - A Simple And Customizable Calendar Component and lightweight & easily configurable.
+- [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars) - A simple and customizable calendar component and lightweight & easily configurable
 
 ## Map
 
@@ -458,7 +457,7 @@ Display non-editable events in a Calendar
 - [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 - [x5-gmaps](https://github.com/xon52/x5-gmaps) - Lightweight Google Maps plugin for Vue 2.x
 - [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue Google Maps custom marker component
-- [vue-maps](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/maps) - A highly Interactive Maps Component and providers including OpenStreetMap and Bing maps.
+- [ej2-vue-maps](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/maps) - A highly interactive maps component and providers including OpenStreetMap and Bing Maps
 
 ## Audio / Video
 
@@ -514,7 +513,7 @@ Display non-editable events in a Calendar
 
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)
-- [vue-pdfviewer](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/pdfviewer) - Vue PDF Viewer/Reader - Easy Solution to View and Print PDF Files.
+- [ej2-vue-pdfviewer](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/pdfviewer) - Vue PDF viewer/reader - Easy solution to view and print PDF files
 
 ## Tree
 
@@ -558,7 +557,7 @@ Display non-editable events in a Calendar
 - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
 - [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.
 - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for Vue 3 compatibility
-- [vue-barcodegenerator](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/barcodegenerator) Vue QR Code (Barcode) Generator Component.
+- [ej2-vue-barcodegenerator](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/barcodegenerator) - Enables rendering of one dimension and two dimension barcodes in web page
 
 ## Search
 
@@ -689,8 +688,8 @@ Display non-editable events in a Calendar
 - [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - Image zoom component for Vue.js 2, that also works on touch devices
 - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
-- [vue-kanban](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/kanban) - Vue Kanban - Flexible Layout to Create Scrum like Boards.
-- [vue-avatar](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/layouts) - Vue Avatar Component for Profile Images.
+- [ej2-vue-kanban](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/kanban) - Vue Kanban - Flexible layout to create Scrum-like boards
+- [ej2-vue-layouts](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/layouts) - Vue package contains cards, avatars, splitter and dashboard layout components
 
 ## Tabs
 
@@ -704,7 +703,7 @@ Display non-editable events in a Calendar
 - [vue-lumino](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system
 - [vue-router-tab](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
-- [vue-tabs](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations#tab) Vue Tabs (Tab Bar) - Responsive and Scrollable
+- [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations#tab) - Content panel to show multiple contents in a specific space, one at a time
 
 ## Form
 
@@ -776,7 +775,7 @@ Date / datetime / time Picker
 - [vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
 - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
-- [vue-datetimepicker](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars#datetimepicker) - A user-friendly and advanced text input datetime picker.
+- [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars#datetimepicker) - A user-friendly and advanced text input datetime picker
 
 ### Select
 
@@ -800,7 +799,7 @@ Date / datetime / time Picker
 - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides)
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla JS select component
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options
-- [vue-multiselect-dropdown](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue MultiSelect Dropdown Component with dynamic option selection.
+- [ej2-vue-dropdowns](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue multi-select dropdown component with dynamic option selection
 
 ### Slider
 
@@ -813,7 +812,7 @@ Date / datetime / time Picker
 - [vue-histogram-slider](https://github.com/oguzhaninan/vue-histogram-slider) - Range slider with histogram for Vue.js
 - [xns-seek-bar](https://github.com/xinnks/xns-seek-bar) - A seekable progress plugin for Vue 2.x
 - [@vueform/slider](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting
-- [vue-slider](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs) - Vue Slider – Smart and Responsive Range Slider.
+- [ej2-vue-inputs](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#5-slider) - Vue Slider – Smart and responsive range slider
 
 ### Drag and Drop
 
@@ -854,7 +853,7 @@ Autosuggest / autocomplete / typeahead
 - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
 - [vue-email-dropdown](https://github.com/DannyFeliz/vue-email-dropdown) - An autocomplete for custom email domains
 - [vue-combo-blocks](https://github.com/sssmi/vue-combo-blocks) - Small, accessible, customizable and "renderless" autocomplete component for Vue
-- [vue-autocomplete](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue AutoComplete (Typeahead) TextBox Component with Search Suggestion.
+- [ej2-vue-dropdowns](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue auto-complete (typeahead) text box component with search suggestion
 
 ### Type Select
 
@@ -918,7 +917,7 @@ Switch / on/off toggle / checkbox
 - [vue-thumb](https://github.com/kaankilic/vue-thumb) - An Upload field mask of an Image for Vue 2
 - [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
 - [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous _vue-text-mask_ but activelly mantained and with lots of improvements after there
-- [vue-maskedtextbox](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#3-maskedtextbox) - Vue Input Mask Component with Custom Masking.
+- [ej2-vue-inputs](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#3-maskedtextbox) - Vue input mask component with custom masking
 
 ### Rich Text Editing
 
@@ -946,7 +945,7 @@ Switch / on/off toggle / checkbox
 - [element-tiptap](https://github.com/Leecason/element-tiptap) - A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin
 - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js
-- [vue-rich-text-editor](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/richtexteditor) - Vue Rich Text Editor Component with Markdown Editor.
+- [ej2-vue-richtexteditor](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/richtexteditor) - Vue rich text editor component with Markdown editor
 
 ### Image Manipulation
 
@@ -993,7 +992,7 @@ Display images
 - [v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin to make files upload simple and easier, you can drag files or select file in dialog to upload
 - [vue-file-agent](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
 - [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A Cloudinary image cropper and uploader component for Vue.js
-- [vue-file-uploader](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs) - Vue File Upload - Flexible File Upload component with Progress Bar.
+- [ej2-vue-inputs](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#6-upload) - Vue File Upload - Flexible file upload component with progress bar
 
 ### Context Menu
 
