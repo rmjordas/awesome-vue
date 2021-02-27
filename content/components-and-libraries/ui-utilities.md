@@ -104,6 +104,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A Provider Component that encapsulate your forms and handle their states and validations
 - [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired from Laravel validation system
 - [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - A Vue.JS plugin that adds a global mixin which can be used to fill an errors variable from a laravel error response and display it as an object or array, can also be used as a local mixin
+- [vue-input-validator](https://github.com/mediv0/vue-input-validator) - Highly extensible & customizable input validator for Vue 2
 
 ## Resize
 
@@ -210,6 +211,7 @@ Seamless scrolling
 - [vue-paginatron](https://github.com/sbaidon/vue-paginatron) - Pagination component built with scoped-slot props for maximum flexibility.
 - [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework `tailwindcss`
 - [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizeable Bootstrap Pagination for Vue
+- [v-paginator](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your HTML templates with SSR support
 
 ## Animation
 

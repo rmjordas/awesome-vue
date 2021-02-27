@@ -210,3 +210,4 @@ meta:
 - [Realtime quiz framework](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
 - [LogChimp](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products
 - [Trooveo](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (audio only), no YouTube API
+- [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management WebUI using Vuetify for a hassle free way of managing Docker containers and projects

@@ -82,6 +82,7 @@ Retrieve data over HTTP
 - [rexios](https://github.com/Scrum/rexios) - Utils normalize URL, data, params for Axios when using REST API request
 - [vue-axillo](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL
 - [vue-request](https://github.com/Attojs/vue-request) - Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination and other cool features
+- [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 
 ## i18n
 
