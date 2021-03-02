@@ -211,3 +211,4 @@ meta:
 - [LogChimp](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products
 - [Trooveo](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (audio only), no YouTube API
 - [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management WebUI using Vuetify for a hassle free way of managing Docker containers and projects
+- [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete

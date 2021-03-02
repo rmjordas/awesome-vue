@@ -147,6 +147,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for Vue.js
 - [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The ultimate fully-customizable Skeleton Card plugin for Vue
 - [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
+- [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 
 ### Progress Bar
 
@@ -439,6 +440,7 @@ Display non-editable events in a Calendar
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jQuery UI datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement
 - [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars) - A simple and customizable calendar component and lightweight & easily configurable
+- [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A Vue component for lunar calendar. Uses calendar.js for date operations
 
 ## Map
 
@@ -551,6 +553,7 @@ Display non-editable events in a Calendar
 - [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons) - Vue.js component for placing buttons in your project using which you can share anything
 - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
 - [vuesocial](https://github.com/growthbunker/vuesocial) - One easy-to-use button component for Vue.js with 65+ social networks
+- [vue-socials](https://github.com/webistomin/vue-socials) - Social media share buttons and counts for Vue.js
 
 ## QR Code
 
@@ -691,6 +694,7 @@ Display non-editable events in a Calendar
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 - [ej2-vue-kanban](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/kanban) - Vue Kanban - Flexible layout to create Scrum-like boards
 - [ej2-vue-layouts](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/layouts) - Vue package contains cards, avatars, splitter and dashboard layout components
+- [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 
 ## Tabs
 
