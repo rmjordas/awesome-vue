@@ -43,3 +43,4 @@ meta:
 - [ScaleChamp](https://www.scalechamp.com) - Multi-cloud managed databases provider with Hetzner, AWS, Linode, IBM, Azure, Scaleway, Alibaba Cloud, DigitalOcean, GCP and UpCloud support
 - [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare and many more
 - [NxShell](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which is based on Electron and Vue.js
+- [Bagisto](https://github.com/bagisto/bagisto) - A free and open source Laravel e-commerce framework built for all to build and scale your business

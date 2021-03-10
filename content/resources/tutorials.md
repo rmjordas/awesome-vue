@@ -192,3 +192,8 @@ meta:
 - [Make an Heart clicker with vue.js and firebase](https://dev.to/venatus/tutorial-make-an-heart-clicker-with-vue-js-and-firebase-3npe)
 - [Building an E-Commerce app with Vue.js, Vuex & Axios](https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/) by Deven Rathore ( November 2020)
 - [Vue.js Debugging: A Guide to Fixing Your Frontend](https://snipcart.com/blog/vuejs-debugging) - Learn the basics of Vue.js debugging. This guide will walk you through a tutorial on how to fix your application's frontend
+- [Deploy a Vue App to Firebase Hosting in four easy steps](https://www.youtube.com/watch?v=LF4dLOEUdJk&list=LL&index=8)
+- [Node js Express js Firebase with Firestore -| Full Crud Restful Services](https://www.youtube.com/watch?v=Ld4OGwpQ2Yk&list=LL&index=11)
+- [Vue 3 with Electron - Building a desktop applications with Vue and Electron](https://www.youtube.com/watch?v=LnRCX074VfA&list=LL&index=4&t=104s)
+- [Build a Music app using VueJS](https://www.youtube.com/watch?v=BPyniDJ5QOQ&list=LL&index=6)
+- [Learn Vuex in 15 minutes - Program With Erik](https://www.youtube.com/watch?v=oxUyIzDbZts&list=LL&index=2)
