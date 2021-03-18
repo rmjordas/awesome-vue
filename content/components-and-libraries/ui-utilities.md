@@ -244,6 +244,7 @@ Seamless scrolling
 - [v-number](https://github.com/maxflex/v-number/) - Animated number transition library for Vue.js
 - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) - A set of components to create interactive animations
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) - A vue component for better digital transform animation
+- [vue-typical](https://github.com/Turkyden/vue-typical) - Vue Animated typing in ~400 bytes of JavaScript
 
 ## Meta Tags
 
