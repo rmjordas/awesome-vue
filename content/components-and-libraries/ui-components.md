@@ -921,7 +921,6 @@ Switch / on/off toggle / checkbox
 - [vue-input-code](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
 - [label-edit](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 - [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)
-- [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 - [vue-thumb](https://github.com/kaankilic/vue-thumb) - An Upload field mask of an Image for Vue 2
 - [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
@@ -1078,6 +1077,8 @@ Display images
 - [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) - Build reactive 2D graphics scene in your Vue project
 - [vue-scratchable](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards
 - [vue-rough](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style
+- [vue3-signature](https://github.com/WangShayne/vue3-signature) - An electronic signature component for Vue 3
+- [vue-signature](https://github.com/WangShayne/vue-signature) - An electronic signature component for Vue2.x
 
 ## Link Preview
 
