@@ -78,6 +78,7 @@ Tables / data grids
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with Excel like rich edit and behavior
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 - [ej2-vue-grids](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/grids) - Syncfusion Vue Grid - Blazing fast and feature rich component
+- [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities
 
 ## Notification
 
@@ -538,6 +539,7 @@ Display non-editable events in a Calendar
 - [vue-finder](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
 - [vue3-router-tree](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view
 - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme
+- [vue-virtual-tree](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue 3
 
 ## Graphs
 
@@ -711,6 +713,7 @@ Display non-editable events in a Calendar
 - [vue-router-tab](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 - [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations#tab) - Content panel to show multiple contents in a specific space, one at a time
+- [vue3-tabs-chrome](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue 3 component for Chrome-like tabs
 
 ## Form
 
