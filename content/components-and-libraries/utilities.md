@@ -170,6 +170,7 @@ Internationalization / L10n / localization / translation
 - [VueFort](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3
 - [@korijn/vue-store](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo
 - [vuex-light](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
+- [vue-object-state](https://github.com/crashkonijn/vue-object-state) - Simple object/DTO/model state tracking
 
 ### Redux
 
