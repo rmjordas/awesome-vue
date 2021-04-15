@@ -167,3 +167,5 @@ meta:
 - [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a peer-to-peer game with Vue
 - [vue3-webpack](https://github.com/boussadjra/vue3-webpack) - Vue 3 + Webpack 4 starter
 - [laravel-vue-3-starter](https://github.com/boussadjra/laravel-vue-3-starter) - A pre-configured project using Laravel 8 and Vue 3
+- [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
+- [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify

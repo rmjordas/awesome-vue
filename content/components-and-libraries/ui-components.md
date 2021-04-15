@@ -229,6 +229,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) - Tailwind-friendly, highly customizable, stackable modal component
 - [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only
 - [ej2-vue-popups](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/popups) - Vue tooltip and popover component with smart positioning
+- [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js
 
 ## Parallax
 
