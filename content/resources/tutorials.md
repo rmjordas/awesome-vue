@@ -197,3 +197,4 @@ meta:
 - [Vue 3 with Electron - Building a desktop applications with Vue and Electron](https://www.youtube.com/watch?v=LnRCX074VfA&list=LL&index=4&t=104s)
 - [Build a Music app using VueJS](https://www.youtube.com/watch?v=BPyniDJ5QOQ&list=LL&index=6)
 - [Learn Vuex in 15 minutes - Program With Erik](https://www.youtube.com/watch?v=oxUyIzDbZts&list=LL&index=2)
+- [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
