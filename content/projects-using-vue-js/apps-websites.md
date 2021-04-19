@@ -238,3 +238,5 @@ meta:
 - [Built With Nuxt](https://builtwithnuxt.com/) - Showcase of projects and websites made with NuxtJS, the intuitive VueJS Framework.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue
+- [ThemeMockup](https://thememockup.com) - UI Resource for Designer. Built with Nuxt and TailwindCSS.
+- [Lowongan Jatim](https://lowonganjatim.com) - Job Portal websites for Jawa Timur Region, in Indonesia. Built with Nuxt and TailwindCSS.
