@@ -700,7 +700,7 @@ Display non-editable events in a Calendar
 - [ej2-vue-kanban](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/kanban) - Vue Kanban - Flexible layout to create Scrum-like boards
 - [ej2-vue-layouts](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/layouts) - Vue package contains cards, avatars, splitter and dashboard layout components
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
-- [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated visual filtering component for Vue 3
+- [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated advanced visual filtering component for Vue 2 and 3
 
 ## Tabs
 
