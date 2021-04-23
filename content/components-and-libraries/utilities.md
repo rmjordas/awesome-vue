@@ -171,6 +171,7 @@ Internationalization / L10n / localization / translation
 - [@korijn/vue-store](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo
 - [vuex-light](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
 - [vue-object-state](https://github.com/crashkonijn/vue-object-state) - Simple object/DTO/model state tracking
+- [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the URL to keep user preference even after refresh or navigation
 
 ### Redux
 
@@ -242,6 +243,7 @@ Internationalization / L10n / localization / translation
 - [vuex-hooks](https://github.com/Goldziher/vuex-hooks) - TypeScript enabled Vuex composition-api hooks
 - [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily
 - [vuex-ts-enhance](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
+- [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4
 
 #### Sync Between Tabs
 
