@@ -44,6 +44,7 @@ Utilities not directly related to the UI
 - [vuex-overlay-tools](https://github.com/Mirazex/vuex-overlay) - A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
 - [vuse-rx](https://github.com/Raiondesu/vuse-rx) - Complete first-class RxJS support for Vue 3
 - [vue-props-validation](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue Native syntax
+- [vue-next-rx](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
 ## Typescript
 
@@ -370,6 +371,10 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-native-websocket](https://github.com/nathantsoi/vue-native-websocket) - Native websocket implementation for Vuejs 2 and Vuex
 - [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended) - Socket.io bindings for Vue.js and Vuex
 - [vue-phoenix](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implmentation for vuejs. Also provides typescript decorator for better use.
+
+## Server-Sent Events
+
+- [vue-sse](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource)
 
 ## Payment
 
