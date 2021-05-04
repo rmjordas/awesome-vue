@@ -193,6 +193,7 @@ Seamless scrolling
 - [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe
 - [v-lazy-component](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API
 - [vue-lazy](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
+- [vue3-lazyload](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your Vue 3 applications
 
 ## Pagination
 
