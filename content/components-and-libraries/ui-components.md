@@ -961,6 +961,7 @@ Switch / on/off toggle / checkbox
 - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin
 - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js
 - [ej2-vue-richtexteditor](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/richtexteditor) - Vue rich text editor component with Markdown editor
+- [vue-quill](https://github.com/vueup/vue-quill) - A Vue 3 rich text editor component based on Quill Editor
 
 ### Image Manipulation
 
