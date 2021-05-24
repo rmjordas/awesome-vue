@@ -118,6 +118,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
 - [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest
 - [ej2-vue-notifications](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/notifications) - An easily customizable, pure HTML5/CSS notification UI
+- [@kyvg/vue3-notification](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 
 ## Loader
 

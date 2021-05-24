@@ -210,3 +210,6 @@ meta:
 - [Trooveo](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (audio only), no YouTube API
 - [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management WebUI using Vuetify for a hassle free way of managing Docker containers and projects
 - [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete
+- [Bagisto](https://github.com/bagisto/bagisto) - A free and open source Laravel eCommerce framework built for all to build and scale your business
+- [Samaya](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers
+- [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A free and open source virtual table top for playing role-playing games
