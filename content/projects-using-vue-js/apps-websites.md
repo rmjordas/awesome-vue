@@ -240,3 +240,4 @@ meta:
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue
 - [ThemeMockup](https://thememockup.com) - UI Resource for Designer. Built with Nuxt and TailwindCSS.
 - [Lowongan Jatim](https://lowonganjatim.com) - Job Portal websites for Jawa Timur Region, in Indonesia. Built with Nuxt and TailwindCSS.
+- [Datelist](https://datelist.io) - Online booking widget. Add it to your website to take appointments online
