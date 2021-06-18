@@ -179,7 +179,7 @@ Tooltips / popovers
 - [vue-popperjs](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
 - [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events
 - [k-pop](https://github.com/ChristianKienle/k-pop) - Simple popover component based on [popper.js](https://popper.js.org/). Highly customizable. Comes with themes. Supports custom triggers and can listen to any event.
-- [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - A customizable, reactive, and reusable tooltip component for Vue that supports multiple use-cases, plugin options & props. Also works with SSR (e.g. VuePress)
+- [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
 
 ## Overlay
 
@@ -447,6 +447,7 @@ Display non-editable events in a Calendar
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement
 - [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars) - A simple and customizable calendar component and lightweight & easily configurable
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A Vue component for lunar calendar. Uses calendar.js for date operations
+- [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet Vue.js calendar
 
 ## Map
 

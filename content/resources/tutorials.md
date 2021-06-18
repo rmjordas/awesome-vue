@@ -210,3 +210,4 @@ meta:
 - [Build a Movie App With Vue JS - A Vue 3 Beginners tutorial](https://youtu.be/UHewcsv6uJY)
 - [Simple Quiz App using Vue 3 and Tailwind CSS](https://youtu.be/I29WbGeZrBs)
 - [Learn Vue.js 3.0 With Tailwind CSS And Composition API in 2021 - Create A Pokémon app For Beginners](https://youtu.be/ISv22NNL-aE)
+- [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
