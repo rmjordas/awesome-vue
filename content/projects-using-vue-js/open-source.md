@@ -214,3 +214,4 @@ meta:
 - [Samaya](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A free and open source virtual table top for playing role-playing games
 - [GrandNode 2.0](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
+- [Aimeos](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items

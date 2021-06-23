@@ -173,3 +173,4 @@ meta:
 - [Vue simulating](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating Linux system's GUI, using theme of Deepin distro. Using Vue + Tailwind CSS + Animate.css
 - [Vue Word Game](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2
 - [Coinchartsvue](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart
+- [Vue 3 Shopping Cart](https://github.com/sorxrob/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/)
