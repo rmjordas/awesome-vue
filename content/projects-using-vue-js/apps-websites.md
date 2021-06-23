@@ -241,3 +241,4 @@ meta:
 - [ThemeMockup](https://thememockup.com) - UI Resource for Designer. Built with Nuxt and TailwindCSS.
 - [Lowongan Jatim](https://lowonganjatim.com) - Job Portal websites for Jawa Timur Region, in Indonesia. Built with Nuxt and TailwindCSS.
 - [Datelist](https://datelist.io) - Online booking widget. Add it to your website to take appointments online
+- [Darwin Analytics](https://www.darwin.so) - Built with Vue3 and Vite. A web analytics tool to help optimize your digital experience. 
