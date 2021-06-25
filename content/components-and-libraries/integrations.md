@@ -75,6 +75,7 @@ Integrate with services or other frameworks
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 - [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 - [vuetube](https://github.com/webistomin/vuetube) - A fast, lightweight, lazyload Vue component acting as a thin layer over the YouTube IFrame Player API which renders fast
+- [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your app by only giving the tweet ID
 
 ## Vue CLI Plugins
 

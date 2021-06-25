@@ -113,6 +113,7 @@ Internationalization / L10n / localization / translation
 - [v-intl](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app
 - [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API
+- [v-google-translate](https://github.com/i7eo/v-google-translate) - A component that use Google Translate to internationalize your Vue.js app
 
 ## Custom Events
 

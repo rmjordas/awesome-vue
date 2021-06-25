@@ -71,6 +71,7 @@ Set of components + responsive layout system
 - [Qui](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
 - [Mijin](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI framework
+- [Qui-max](https://github.com/Qvant-lab/qui-max) - A Vue 3.x design system for web
 
 ## Mobile UI Frameworks
 
