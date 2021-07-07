@@ -53,6 +53,7 @@ meta:
 - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio.
 - [Bitly Vue](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS & Bitly API.
 - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for its frontend.
+- [Lipku](https://www.lipku.com/vuejs) - Vue.js charts and other libraries.
 - [WizzAir](https://wizzair.com/)
 - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
 - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
