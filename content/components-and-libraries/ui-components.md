@@ -530,7 +530,6 @@ Display non-editable events in a Calendar
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)
 - [ej2-vue-pdfviewer](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/pdfviewer) - Vue PDF viewer/reader - Easy solution to view and print PDF files
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
-- [cafe-pdf](https://github.com/wangdaodao/cafe-pdf) - Render PDF files on Vue pages using pdf.js, supporting text rendering, lazy loading, paging, scaling, and printing. [Demo](http://demo.const.team/pdf/)
 
 ## Tree
 
