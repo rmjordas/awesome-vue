@@ -150,6 +150,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The ultimate fully-customizable Skeleton Card plugin for Vue
 - [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
+- [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progress bar component
 
 ### Progress Bar
 
@@ -350,7 +351,6 @@ Overlay / modal / alert / dialog / lightbox / popup
 
 - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
-- [hchs-vue-charts](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.
 - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
 - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
@@ -443,7 +443,6 @@ Display non-editable events in a Calendar
 - [vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS.
 - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) - A full year (12 months on a page) calendar for Vue2. Uses dayjs.
 - [vuelendar](https://github.com/codesthq/vuelendar) - Simple and clean calendar written in VueJS
-- [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue
 - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/)
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jQuery UI datepicker](https://jqueryui.com/datepicker)
@@ -451,6 +450,7 @@ Display non-editable events in a Calendar
 - [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars) - A simple and customizable calendar component and lightweight & easily configurable
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A Vue component for lunar calendar. Uses calendar.js for date operations
 - [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet Vue.js calendar
+- [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 
 ## Map
 
@@ -527,7 +527,7 @@ Display non-editable events in a Calendar
 ## PDF
 
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
-- [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)
+- [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
 - [ej2-vue-pdfviewer](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/pdfviewer) - Vue PDF viewer/reader - Easy solution to view and print PDF files
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 

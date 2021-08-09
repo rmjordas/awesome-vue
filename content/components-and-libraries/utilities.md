@@ -45,6 +45,7 @@ Utilities not directly related to the UI
 - [vuse-rx](https://github.com/Raiondesu/vuse-rx) - Complete first-class RxJS support for Vue 3
 - [vue-props-validation](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue Native syntax
 - [vue-next-rx](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+- [fontawesome-autogen](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp
 
 ## Typescript
 
@@ -175,6 +176,7 @@ Internationalization / L10n / localization / translation
 - [vuex-light](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
 - [vue-object-state](https://github.com/crashkonijn/vue-object-state) - Simple object/DTO/model state tracking
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the URL to keep user preference even after refresh or navigation
+- [vue-path-store](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins
 
 ### Redux
 

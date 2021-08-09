@@ -175,3 +175,4 @@ meta:
 - [Coinchartsvue](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart
 - [Vue 3 Shopping Cart](https://github.com/sorxrob/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/)
 - [Lipku](https://www.lipku.com/vuejs) - Vue.js charts and other libraries
+- [vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker
