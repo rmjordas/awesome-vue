@@ -115,6 +115,7 @@ Internationalization / L10n / localization / translation
 - [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API
 - [v-google-translate](https://github.com/i7eo/v-google-translate) - A component that use Google Translate to internationalize your Vue.js app
+- [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
 ## Custom Events
 
