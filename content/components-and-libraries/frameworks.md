@@ -144,6 +144,7 @@ Set of admin template
 - [vue-pro-sidebar](https://github.com/boussadjra/vue-pro-sidebar) - A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your prefered colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
 - [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) - Boilerplate admin template created using Bootstrap-Vue. [Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and [vuestic-ui](https://github.com/epicmaxco/vuestic-ui)
+- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 
 ## Server-side rendering
 
@@ -174,3 +175,4 @@ Set of admin template
 - [Vue-Low-Code](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate Vue apps from Quant-UX prototypes
 - [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into Vue applications
 - [vue-notion](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+- [Fes.js](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on Vue 3

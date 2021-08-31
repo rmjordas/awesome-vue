@@ -269,6 +269,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [oh-vue-icons](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components
 - [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3
+- [eos-icons-vue](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
 
 ## Marquee
 
@@ -414,6 +415,7 @@ Display time / date / age
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users
 - [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify
 - [vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js
+- [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ## Calendar
 
@@ -804,6 +806,7 @@ Date / datetime / time Picker
 - [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars#datetimepicker) - A user-friendly and advanced text input datetime picker
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date (single and range selection, select date and time, select with keyboard, customizable style, localization)
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
+- [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
 
 ### Select
 

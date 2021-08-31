@@ -176,3 +176,4 @@ meta:
 - [Vue 3 Shopping Cart](https://github.com/sorxrob/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/)
 - [Lipku](https://www.lipku.com/vuejs) - Vue.js charts and other libraries
 - [vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker
+- [Maxim Web Chat](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天App 示例
