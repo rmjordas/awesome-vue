@@ -34,6 +34,7 @@ meta:
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files
 - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development
 - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - Get hints in the DOM. Minimal Vue devtool alternative
+- [components-helper](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for Vue component library
 
 ## Inspect
 

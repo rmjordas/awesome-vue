@@ -116,6 +116,7 @@ Set of components without layout system
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://christiankienle.github.io/cdk/) - Unstyled, highly tested and flexible Vue components/mixins/plugins
+- [element-pro-components](https://github.com/tolking/element-pro-components) - A component library for Vue 3 base on element-plus
 
 ## Mobile Components
 
@@ -145,6 +146,7 @@ Set of admin template
 - [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) - Boilerplate admin template created using Bootstrap-Vue. [Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and [vuestic-ui](https://github.com/epicmaxco/vuestic-ui)
 - [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+- [Tailmin](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
 
 ## Server-side rendering
 
