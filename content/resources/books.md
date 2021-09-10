@@ -59,3 +59,4 @@ meta:
 - [Vue - The Road To Enterprise](https://theroadtoenterprise.com/?utm_source=github&utm_medium=vue-awesome&utm_campaign=vue_the_road_to_enterprise) by Thomas Findlay (January, 2021)
 - [Building Vue.js Applications with GraphQL: Develop a complete full-stack chat app from scratch using Vue.js, Quasar Framework, and AWS Amplify](https://www.amazon.com/gp/product/B08NXVD7XB/ref=as_li_tl?ie=UTF8&tag=bloodf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08NXVD7XB&linkId=6ae2a9058f3421ac6d12fa53508b27be) by Heitor Ramon Ribeiro, Packt (January, 2021)
 - [Accessible Vue – Get started with Accessibility in Vue.js!](https://accessible-vue.com) by Marcus Herrmann (March 2021)
+- [Building a Strapi E-Commerce: Nuxt.js Tutorial & Live Demo](https://snipcart.com/blog/strapi-ecommerce-nuxtjs-tutorial) (September 2021)
