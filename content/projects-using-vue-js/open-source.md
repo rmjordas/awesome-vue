@@ -218,3 +218,4 @@ meta:
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer
 - [Interface X](https://github.com/empathyco/x) - UI search & discovery components to rapidly build beautiful search experiences
+- [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking Chrome extension: take you notes on the web with their context

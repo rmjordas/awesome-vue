@@ -212,3 +212,4 @@ meta:
 - [Learn Vue.js 3.0 With Tailwind CSS And Composition API in 2021 - Create A Pokémon app For Beginners](https://youtu.be/ISv22NNL-aE)
 - [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
 - [Learning Vue 3.0](https://github.com/chengpeiquan/learning-vue3)
+- [Vue 3.0 and decentalized app (dApp)](https://github.com/hypescale/moralis-vue-boilerplate)
