@@ -76,6 +76,7 @@ Integrate with services or other frameworks
 - [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 - [vuetube](https://github.com/webistomin/vuetube) - A fast, lightweight, lazyload Vue component acting as a thin layer over the YouTube IFrame Player API which renders fast
 - [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your app by only giving the tweet ID
+- [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js
 
 ## Vue CLI Plugins
 
@@ -93,6 +94,7 @@ Integrate with services or other frameworks
 - [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock HTTP requests
 - [vue-cli-plugin-ci](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
 - [vue-cli-plugin-capacitor](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
+- [vue-cli-plugin-chrome-extension-cli](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin to generate Chrome extension template
 
 ## Google Analytics
 

@@ -170,6 +170,7 @@ A slim progress bar at the top of the page
 - [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [ej2-vue-progressbar](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/progressbar) - Simple and elegant Vue progress bar.
 - [vue-next-progressbar](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars (1KB gzipped) for Vue 3
+- [vue3-progress](https://github.com/marcoschulte/vue3-progress) - Fully customizable Vue 3 plugin to display a progress bar while waiting for something, e.g. HTTP requests
 
 ## Tooltip
 
