@@ -147,6 +147,7 @@ Set of admin template
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and [vuestic-ui](https://github.com/epicmaxco/vuestic-ui)
 - [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 - [Tailmin](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
+- [Vue-Admin-Template](https://github.com/Mani1124/vue-admin-template) - A beautiful free Vue.js admin template, designed using Vuetify and ApexCharts. [Live Demo](https://mani1124.github.io)
 
 ## Server-side rendering
 
