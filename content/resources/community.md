@@ -63,3 +63,4 @@ meta:
 - [VueJS Turkey](https://t.me/vuejsTR) - Telegram Group
 - [Vue Turkey](https://twitter.com/Vue_Turkey) - Twitter Account
 - [Vue Türkiye](https://kommunity.com/vue-turkey) - Kommunity Page
+- [VueJS Singapore](https://t.me/vuejssg) - Telegram Group
