@@ -184,6 +184,7 @@ Tooltips / popovers
 - [k-pop](https://github.com/ChristianKienle/k-pop) - Simple popover component based on [popper.js](https://popper.js.org/). Highly customizable. Comes with themes. Supports custom triggers and can listen to any event.
 - [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
 - [vue-use-popperjs](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 Popper hook powered by Popper.js
+- [vue-follow-tooltip](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3
 
 ## Overlay
 
@@ -272,6 +273,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components
 - [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3
 - [eos-icons-vue](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
+- [vue-icomoon](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon
 
 ## Marquee
 
@@ -477,6 +479,7 @@ Display non-editable events in a Calendar
 - [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue Google Maps custom marker component
 - [ej2-vue-maps](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/maps) - A highly interactive maps component and providers including OpenStreetMap and Bing Maps
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers
+- [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform
 
 ## Audio / Video
 
