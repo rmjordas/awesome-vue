@@ -307,6 +307,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-automatic-import-loader](https://github.com/hunterliu1003/vue-automatic-import-loader) - Webpack loader that auto-imports your Vue single file components by using a match function
 - [vue-aimg-loader](https://github.com/chenxinan/vue-aimg-loader) - An easy way to use images in Vue templates without writing CSS
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+- [vue-sfc-split](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 
 ## Page Navigation
 
