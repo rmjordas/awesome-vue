@@ -219,3 +219,4 @@ meta:
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer
 - [Interface X](https://github.com/empathyco/x) - UI search & discovery components to rapidly build beautiful search experiences
 - [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking Chrome extension: take you notes on the web with their context
+- [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & Easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout
