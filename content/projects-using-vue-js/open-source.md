@@ -220,3 +220,4 @@ meta:
 - [Interface X](https://github.com/empathyco/x) - UI search & discovery components to rapidly build beautiful search experiences
 - [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking Chrome extension: take you notes on the web with their context
 - [Balancer](https://github.com/balancer-labs/frontend-v2) - A Decentralized finance app that runs on Ethereum
+- [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open source & easy-to-use Vuetify Vue.js Laravel admin template with elegant design & unique layout
