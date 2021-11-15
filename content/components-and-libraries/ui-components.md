@@ -79,6 +79,7 @@ Tables / data grids
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 - [ej2-vue-grids](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/grids) - Syncfusion Vue Grid - Blazing fast and feature rich component
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities
+- [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue Gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 
 ## Notification
 
@@ -480,6 +481,7 @@ Display non-editable events in a Calendar
 - [ej2-vue-maps](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/maps) - A highly interactive maps component and providers including OpenStreetMap and Bing Maps
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers
 - [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform
+- [vue-leaflet-custom-marker](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for OpenStreetMap custom marker component
 
 ## Audio / Video
 
