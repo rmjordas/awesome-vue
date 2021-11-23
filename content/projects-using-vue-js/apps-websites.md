@@ -243,3 +243,4 @@ meta:
 - [Datelist](https://datelist.io) - Online booking widget. Add it to your website to take appointments online
 - [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
+- [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool
