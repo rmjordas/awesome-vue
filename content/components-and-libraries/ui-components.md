@@ -724,6 +724,7 @@ Display non-editable events in a Calendar
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated advanced visual filtering component for Vue 2 and 3
 - [vue-easter-egg-trigger](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site
 - [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3
+- [vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and powerful emoji picker for Vue 3
 
 ## Tabs
 
@@ -777,6 +778,8 @@ Let the user create & edit data
 - [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs) - Create dynamic forms with Buefy from JSON [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
 - [Vue Flow Form](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+- [vue3-otp-input](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API
+- [Vueform](https://vueform.com) - Probably the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
 
 ### Date Picker
 
