@@ -46,3 +46,4 @@ meta:
 - [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most powerful, developer-friendly, production ready & comprehensive Vuetify VueJS admin template
 - [Mystery Football Shirts](https://boxtobox.uk) - An E-commerce app using Vue, Node & Mongdo DB
 - [NocoDB](https://github.com/nocodb/nocodb) - An opensource Airtable alternative
+- [KodaDot](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
