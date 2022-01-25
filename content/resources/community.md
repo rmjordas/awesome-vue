@@ -27,7 +27,7 @@ meta:
 - [Twitter](https://twitter.com/vuejs)
 - [Official Forum](https://forum.vuejs.org/)
 - [vue-requests](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
-- [VueJS Iran](https://telegram.me/vue_js) - Telegram Channel & group (group link available in channel bio
+- [VueJS Iran](https://telegram.me/vue_js) - Telegram Channel & group (group link available in channel bio)
 - [vueslack](https://vueslack.slack.com/) - 2300+ registered users worldwide
 - [Vue Land](https://vue-land.js.org/) - Discord chat server
 - [VueJS Russia](https://t.me/vuejs_ru) - Telegram Group (Russian)
@@ -39,6 +39,7 @@ meta:
 - [VueJS Brasil](https://www.facebook.com/groups/vuejsbr/) - Facebook Group (Portuguese)
 - [VueJS en español](https://www.facebook.com/groups/vue.es/) - Facebook Group (Spanish)
 - [VueJS India](https://goo.gl/mYXKUv) - Discord chat server
+- [VueJS Indonesia](https://t.me/vuejsindonesia) - Telegram Group (Indonesian)
 - [VueJS Indonesia](https://www.facebook.com/groups/1675298779418239/) - Facebook Group (Indonesian)
 - [VueJS Indonesia](https://www.meetup.com/Vuejs-Indonesia/) - Meetup Page (Indonesian)
 - [VueJS Hong Kong](https://www.facebook.com/groups/887185518120024) - Facebook group
