@@ -223,3 +223,4 @@ meta:
 - [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open source & easy-to-use Vuetify Vue.js Laravel admin template with elegant design & unique layout
 - [NuxTube](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with Nuxt.js
 - [Dashy](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+- [NuxtBlog](https://github.com/muhammedmed/nuxt-js-blog) - Blog site made with firebase real-time database

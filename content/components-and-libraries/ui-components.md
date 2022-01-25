@@ -186,6 +186,7 @@ Tooltips / popovers
 - [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
 - [vue-use-popperjs](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 Popper hook powered by Popper.js
 - [vue-follow-tooltip](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3
+- [Tippy.vue](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips
 
 ## Overlay
 
@@ -568,6 +569,7 @@ Display non-editable events in a Calendar
 - [vue-pipeline](https://github.com/jinfang134/vue-pipeline) - A easy-to-use component to show beautiful responsive pipeline like jenkins blue ocean plugin
 - [vnodes](https://github.com/txlabs/vnodes) - General purpose components to create SVG interactive graphs, diagrams or node based visual tools
 - [v-network-graph](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3
+- [coya](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (Vue 3 only)
 
 ## Social Sharing
 
@@ -780,6 +782,7 @@ Let the user create & edit data
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 - [vue3-otp-input](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API
 - [Vueform](https://vueform.com) - Probably the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
+- [IFstruct-parser-vue](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
 
 ### Date Picker
 
@@ -819,6 +822,7 @@ Date / datetime / time Picker
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date (single and range selection, select date and time, select with keyboard, customizable style, localization)
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 - [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
+- [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ### Select
 

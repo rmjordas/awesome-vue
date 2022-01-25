@@ -101,12 +101,13 @@ Handling of user events (scroll, click, key strike, ...)
 - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
 - [vform](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
-- [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A Provider Component that encapsulate your forms and handle their states and validations
-- [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired from Laravel validation system
+- [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulates your forms and handles their states and validations
+- [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired by the Laravel validation system
 - [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - A Vue.JS plugin that adds a global mixin which can be used to fill an errors variable from a laravel error response and display it as an object or array, can also be used as a local mixin
 - [vue-input-validator](https://github.com/mediv0/vue-input-validator) - Highly extensible & customizable input validator for Vue 2
 - [@vuito/vue](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition
+- [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing
 
 ## Resize
 
@@ -147,7 +148,7 @@ Detect when components enter viewport
 - [navscroll-js](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
 - [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) - A light plugin detecting scroll event,customize callback when element enter viewport,expose 'scrollTo' api to scroll to specific element .Using vue directive.
 - [vue-check-view](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
-- [vue-stickto](https://github.com/JALBAA/vue-stickto) - A vue directive that support multiple DOM nodes stick to top automatically
+- [vue-stickto](https://github.com/JALBAA/vue-stickto) - A vue directive that supports multiple DOM nodes stick to top automatically
 - [vue2-scrollspy](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 - [vue-trip-wire](https://github.com/lorrenrules/vue-trip-wire) - A custom directive for firing functions when an element reaches a designated point in the viewport, with option to import module with globally accessible functions
 - [v-intersect](https://github.com/kholid060/v-intersect) - A Vue directive and component that detect element when it's visible or hidden on viewport
@@ -251,6 +252,7 @@ Seamless scrolling
 - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) - A set of components to create interactive animations
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) - A vue component for better digital transform animation
 - [vue-typical](https://github.com/Turkyden/vue-typical) - Vue Animated typing in ~400 bytes of JavaScript
+- [vue3-lottie](https://github.com/megasanjay/vue3-lottie) - A component for importing and displaying Lottie animations in Vue 3
 
 ## Meta Tags
 
@@ -305,7 +307,7 @@ Move a DOM node to a target DOM node
 - [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation) - Vue directive (Vue.js 2.x) for spatial navigation (keyboard navigation)
 - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
 - [v-aspect-ratio](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio
-- [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
+- [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which is taken via camera of user's device
 - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect
 - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works
 - [v-github-icon](https://github.com/vinayakkulkarni/v-github-icon) - Easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos

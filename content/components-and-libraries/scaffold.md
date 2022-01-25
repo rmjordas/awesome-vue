@@ -47,7 +47,7 @@ Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator
 - [VueCharged Template](https://github.com/mrboomer/vuecharged-template) - A highly opinionated, feature-first Vue 2 template with CLI scaffolding. Uses Vue 2, Vuex, Vue Router and Vue I18n.
 - [Huncwot](https://github.com/zaiste/huncwot) - Vue.js boilerplate with Node.js for building modern JavaScript applications with « batteries included » approach.
 - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge vue template focused on code quality and developer happiness. Featuring: nuxt, flow, and jest.
-- [vue-lib-template](https://github.com/biigpongsatorn/vue-lib-template) - A simple template for building and publishing Vue component/library as a open source project
+- [vue-lib-template](https://github.com/biigpongsatorn/vue-lib-template) - A simple template for building and publishing Vue component/library as an open source project
 - [Awesome Vue Boilerplate](https://github.com/NarHakobyan/awesome-vue-boilerplate) - Awesome Vue, Vuex, Vuex-pathify, element-ui, tailwindcss
 - [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.
 - [VuePlay](https://christiankienle.github.io/vueplay/) - Generate disposable Vue playgrounds in seconds. Allows you to test things quickly.

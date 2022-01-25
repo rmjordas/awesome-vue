@@ -74,7 +74,7 @@ Retrieve data over HTTP
 - [v-model](https://github.com/huanleguang/v-model) - V-Model is a model plugin for Vue.js, like ng-resource.
 - [vue-resource-mock](https://github.com/noru/vue-resource-mock) - A helper to mock your http response, based on vue-resource's interceptor.
 - [vue-async-data-2](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
-- [vue-api-request](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast and easy to implement.
+- [vue-api-request](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast, and easy to implement
 - [vue-fast-axios](https://github.com/leonardovilarinho/vue-fast-axios) - Make requests with validations in a simple and beautiful way.
 - [vue-async-properties](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
 - [vue-axios-plugin](https://github.com/yugasun/vue-axios-plugin) - A plugin that combines axios with Vuejs, making http request more easier.
@@ -84,7 +84,7 @@ Retrieve data over HTTP
 - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.$apis.apiName()).
 - [rexios](https://github.com/Scrum/rexios) - Utils normalize URL, data, params for Axios when using REST API request
 - [vue-axillo](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL
-- [vue-request](https://github.com/Attojs/vue-request) - Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination and other cool features
+- [vue-request](https://github.com/Attojs/vue-request) - Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features
 - [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 
 ## i18n
@@ -181,6 +181,7 @@ Internationalization / L10n / localization / translation
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the URL to keep user preference even after refresh or navigation
 - [vue-path-store](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
+- [hami-vuex](https://github.com/guyskk/hami-vuex) - Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js
 
 ### Redux
 
@@ -360,7 +361,7 @@ Utilities for building / compiling / bundling / loading assets
 
 ## Web Workers
 
-- [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
+- [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simple way
 - [vue-log-worker](https://gitlab.com/schoolmouv-open-source/vue-log-worker) - A Vue.js plugin to log error and vuex mutations to your backend through a web worker
 
 ## JSX
