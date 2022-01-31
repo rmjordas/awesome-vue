@@ -239,6 +239,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [ej2-vue-popups](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/popups) - Vue tooltip and popover component with smart positioning
 - [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js
 - [v3confirm](https://github.com/malekim/v3confirm) - A plugin dedicated for Vue 3 to show confirm dialog modal
+- [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease
 
 ## Parallax
 
@@ -309,6 +310,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for Vue.js. SSR supported
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 - [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations) - Customizable navigation-ui controls menubar, sidebar, tootlbar, context menu
+- [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component
 
 ## Minus Plus Input
 
@@ -598,6 +600,7 @@ Display non-editable events in a Calendar
 - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch
 - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
 - [vue-search-panel](https://github.com/TheoXiong/vue-search-panel) - A Vue component for searching with suggestions
+- [vue-json-search](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple JSON-based search
 
 ## Miscellaneous UI Components
 
