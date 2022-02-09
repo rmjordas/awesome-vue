@@ -13,6 +13,6 @@
     "@vuepress/plugin-back-to-top": "1.8.2",
     "@vuepress/plugin-pwa": "1.8.2",
     "markdownlint-cli": "0.30.0",
-    "vuepress": "1.8.2"
+    "vuepress": "1.8.20"
   }
 }
