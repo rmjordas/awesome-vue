@@ -118,6 +118,7 @@ Internationalization / L10n / localization / translation
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 - [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components
 - [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components
+- [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3
 
 ## Custom Events
 
@@ -349,7 +350,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 - [vue-direction](https://github.com/shwilliam/vue-direction) - Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
-- [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - Lightweight DI for vue components️
+- [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - Lightweight DI for vue components
 - [vue-uuid](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance
 - [vue-injector](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 - [vue-subslot](https://github.com/privatenumber/vue-subslot) - Vue component to pick 'n choose what you want from a slot
