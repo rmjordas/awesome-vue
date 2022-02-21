@@ -203,6 +203,7 @@ Internationalization / L10n / localization / translation
 - [pinia-undo](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for Pinia
 - [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global Pinia store
 - [pinia-persistedstate](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate
+- [pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable object-relational mapping access to the Pinia store
 
 ### Authentication/Authorization
 
