@@ -13,28 +13,34 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#fff' }]
   ],
-  plugins: {
-    '@vuepress/pwa': {
-      serviceWorker: true,
-      updatePopup: true
-    },
-    '@vuepress/back-to-top': true,
-  },
+  plugins: [
+    [
+      '@vuepress/pwa',
+      {
+        skipWaiting: false,
+      },
+    ], [
+      '@vuepress/plugin-pwa-popup'
+    ], [
+      '@vuepress/plugin-docsearch',
+      {
+        appId: 'CHXHOQPDX2',
+        apiKey: '2dc18d895330e92acdc2c9e1a130c13b',
+        indexName: 'rmjordas_awesome_vue',
+      }
+    ],
+  ],
   base: '/',
   themeConfig: {
-    activeHeaderLinks: false,
-    algolia: {
-      apiKey: 'b99936b745ef54d9428c2ba55c88c7a3',
-      indexName: 'rmjordas_awesome_vue'
-    },
     repo: 'rmjordas/awesome-vue',
+    docsBranch: 'next',
     docsDir: 'content',
-    editLinks: true,
-    lastUpdated: 'Last Updated',
-    nav: [],
+    editLink: true,
+    lastUpdated: true,
+    contributors: false,
     sidebar: [
       {
-        title: 'Resources',
+        text: 'Resources',
         collapsable: false,
         children: [
           '/resources/official-resources',
@@ -54,7 +60,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Projects Using Vue.js',
+        text: 'Projects Using Vue.js',
         collapsable: false,
         children: [
           '/projects-using-vue-js/open-source',
@@ -66,7 +72,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Components and Libraries',
+        text: 'Components and Libraries',
         collapsable: false,
         children: [
           '/components-and-libraries/ui-components',
@@ -81,6 +87,9 @@ module.exports = {
           '/components-and-libraries/prerendering',
         ],
       },
-    ]
-  }
+    ],
+    themePlugins: {
+      activeHeaderLinks: false
+    }
+  },
 };
