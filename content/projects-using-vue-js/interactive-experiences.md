@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Interactive Vue.js web applications
-  - name: og:title
-    content: Interactive Experiences
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/projects-using-vue-js/interactive-experiences.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Interactive Vue.js web applications
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Interactive Experiences
-  - name: twitter:description
-    content: Interactive Vue.js web applications
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Interactive Vue.js web applications
+  - - meta
+    - name: og:title
+      content: Interactive Experiences
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/projects-using-vue-js/interactive-experiences.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Interactive Vue.js web applications
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Interactive Experiences
+  - - meta
+    - name: twitter:description
+      content: Interactive Vue.js web applications
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Interactive Experiences

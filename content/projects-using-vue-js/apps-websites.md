@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Showcase of websites and web applications that use Vue.js
-  - name: og:title
-    content: Apps/Websites
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/projects-using-vue-js/apps-websites.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Showcase of websites and web applications that use Vue.js
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Apps/Websites
-  - name: twitter:description
-    content: Showcase of websites and web applications that use Vue.js
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Showcase of websites and web applications that use Vue.js
+  - - meta
+    - name: og:title
+      content: Apps/Websites
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/projects-using-vue-js/apps-websites.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Showcase of websites and web applications that use Vue.js
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Apps/Websites
+  - - meta
+    - name: twitter:description
+      content: Showcase of websites and web applications that use Vue.js
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Apps/Websites
@@ -34,9 +44,10 @@ meta:
 - [Portfolio Site](http://corentinbac.com/)
 - [Statamic](https://statamic.com)
 - [Embalses!](https://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
-- [TravelMap](https://clem.travelmap.net/) - A simple way for travelers to create a blog based on a Map.
+- [TravelMap](https://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
 - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
 - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
+- [vNotes](https://github.com/IgorHalfeld/v-notes) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
 - [Open Function Computers](https://www.openfunctioncomputers.com/#!/home)
 - [Dermail](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail system written in node.js.
 - [octimine](https://www.octimine.com/) - A patent search engine.
@@ -120,7 +131,7 @@ meta:
 - [9GAG](https://9gag.com) - Popular online platform and social media website
 - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
 - [MailRabbit](https://mailrabbit.io) - Create, A/B test, and monitor transactional emails without a developer.
-- [Vue资源精选](http://vue.awesometiny.com) - great Vue components list, category, inline demo show and brief
+- [Vue 资源精选](http://vue.awesometiny.com) - great Vue components list, category, inline demo show and brief
 - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
 - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
 - [Made with love](https://made-with-love.xyz/) - The Made with Love around the world, initiative is a movement to celebrate, promote and build a brand. It feed Tech news, design inspiration and trends from over 100 sources including Dribbble, ProductHunt, Behance and Techcrunch.
@@ -175,24 +186,21 @@ meta:
 - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
 - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
-- [Full-Stack Developer Jobs](https://fullstackjob.com/) - Jobs for Fullstack Developers only
 - [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
 - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
 - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces.
 - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
-- [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
 - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
 - [sum.cumo](https://www.sumcumo.com/) – Digital business models (with Vue as a tech stack centerpiece).
 - [Gamebrary](https://gamebrary.com) - Open source tool to organize video game collections
 - [Premium Poker Tools](https://premiumpokertools.com/) - What poker players use to study.
-- [QMK Configurator](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+- [QMK Configurator](https://config.qmk.fm/) - Configure, build, and download custom QMK firmware from your browser
 - [Worksome](https://www.worksome.com/) - Marketplace/platform for qualified it professionals and freelancers and companies looking to hire them.
 - [Translator-vuejs](https://manuel-suarez-abascal.github.io/translator-vuejs/) - Translation App built with Vuejs, Yandex API & ResponsiveVoice.js API.
 - [Big Timer](https://www.bigtimer.net/) - Fullscreen countdown timer for workshops, meetings and presentations. Big Timer helps workshop facilitators, meeting chairs, design sprinters, presenters and aspiring game show hosts stick to their program.
 - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download.
 - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
 - [Poolside FM](https://poolside.fm/) - A retro-style music player
-- [MyLab](https://app.mylab.report) - Effective usage of laboratory diagnostics in Ukraine.
 - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there
 - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
 - [massCode](https://github.com/antonreshetov/massCode) - An open source code snippets manager for developers. Build with Electron, Vue and Monaco editor
@@ -205,7 +213,7 @@ meta:
 - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
 - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue
 - [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
-- [Todo DEV](https://todoteam-3263d.web.app/) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase
+- [Todo DEV](https://github.com/IanLuan/TodoDev) - A simple todo app made for developers with Vuejs, Vuetify and the powerful Firebase
 - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
 - [Vue Spotify](https://github.com/gk4m/vue-spotify) - Spotify client built with vue.js / vuex
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service
@@ -219,7 +227,6 @@ meta:
 - [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能生成啦!
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
 - [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
-- [Temp mail service](https://tempmailin.com/) - Simple and fast disposable email app
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website
 - [LinkSift](https://linksift.com) - LinkSift lets you explore what a website links to
 - [postmake.io](https://postmake.io) - A curated directory of 300+ tools and resources used by companies and startups all over the web. Built using Vue.js and Nuxt
@@ -230,16 +237,11 @@ meta:
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase
 - [Nipashe](https://nipashe.netlify.app/) - "Nipashe" is a Swahili word that means "Inform me". Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
 - [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets
-- [EasyPeasyMemes](https://easy-peasy-memes.netlify.app/) - EasyPeasyMemes is a Browser extension and a web app to help you generate Memes easier and faster
 - [Pexies](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on Pexels API. You can see curated/randomized pictures, and add them to your favourites
 - [Wammes Gifts](https://www.wammes-gifts.nl) - Wammes Gifts helps you find the perfect gift
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19
-- [Built With Nuxt](https://builtwithnuxt.com/) - Showcase of projects and websites made with NuxtJS, the intuitive VueJS Framework.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue
-- [ThemeMockup](https://thememockup.com) - UI Resource for Designer. Built with Nuxt and TailwindCSS.
-- [Lowongan Jatim](https://lowonganjatim.com) - Job Portal websites for Jawa Timur Region, in Indonesia. Built with Nuxt and TailwindCSS.
-- [Datelist](https://datelist.io) - Online booking widget. Add it to your website to take appointments online
 - [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool

@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Vue.js conferences
-  - name: og:title
-    content: Conferences
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/resources/conferences.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Vue.js conferences
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Conferences
-  - name: twitter:description
-    content: Vue.js conferences
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Vue.js conferences
+  - - meta
+    - name: og:title
+      content: Conferences
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/resources/conferences.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Vue.js conferences
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Conferences
+  - - meta
+    - name: twitter:description
+      content: Vue.js conferences
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Conferences

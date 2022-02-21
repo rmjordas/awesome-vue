@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: List of companies that use Vue.js for their applications
-  - name: og:title
-    content: Enterprise Usage
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/projects-using-vue-js/enterprise-usage.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: List of companies that use Vue.js for their applications
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Enterprise Usage
-  - name: twitter:description
-    content: List of companies that use Vue.js for their applications
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: List of companies that use Vue.js for their applications
+  - - meta
+    - name: og:title
+      content: Enterprise Usage
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/projects-using-vue-js/enterprise-usage.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: List of companies that use Vue.js for their applications
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Enterprise Usage
+  - - meta
+    - name: twitter:description
+      content: List of companies that use Vue.js for their applications
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Enterprise Usage
@@ -55,4 +65,3 @@ meta:
 - [Staples Canada](https://www.staples.ca/)
 - [Blibli](https://www.blibli.com)
 - [Manduka](https://www.manduka.com/)
-- [Louis Vuitton](https://us.louisvuitton.com/eng-us/homepage)

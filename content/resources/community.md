@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Vue.js user forums and chat groups
-  - name: og:title
-    content: Community
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/resources/community.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Vue.js user forums and chat groups
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Community
-  - name: twitter:description
-    content: Vue.js user forums and chat groups
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Vue.js user forums and chat groups
+  - - meta
+    - name: og:title
+      content: Community
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/resources/community.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Vue.js user forums and chat groups
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Community
+  - - meta
+    - name: twitter:description
+      content: Vue.js user forums and chat groups
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Community
@@ -31,7 +41,6 @@ meta:
 - [vueslack](https://vueslack.slack.com/) - 2300+ registered users worldwide
 - [Vue Land](https://vue-land.js.org/) - Discord chat server
 - [VueJS Russia](https://t.me/vuejs_ru) - Telegram Group (Russian)
-- [VueJS Russia - News](https://t.me/vue_russia) - Telegram Group (Russian)
 - [VueJS Viet Nam](https://www.facebook.com/groups/vuejsvietnam/) - Facebook group
 - [VueJS Thailand](https://www.facebook.com/groups/VuejsThailand/) - Facebook Group
 - [VueJS Brasil](https://t.me/vuejsbrasil) - Telegram Group (Portuguese)
@@ -56,7 +65,6 @@ meta:
 - [VueBLR](https://www.facebook.com/groups/vue.blr/) - Facebook Group
 - [VueJS USA](https://events.vuejs.org/meetups/#united-states) - Meetups
 - [VueJS CZ/SK](https://discord.gg/mDr2z8V) - Discord group
-- [VueJS Malaysia](https://t.me/vueMalaysia) - Telegram Group (Malaysian)
 - [VueJS DOM](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA) - WhatsApp group
 - [VueJS DOM](https://www.facebook.com/groups/2022974857757366/) - Facebook group
 - [VueJS Uzbekistan](https://t.me/vuejsuzbekcommunity) - Telegram Group (Uzbek)

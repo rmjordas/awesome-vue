@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Podcast episodes that talk about Vue.js
-  - name: og:title
-    content: Podcasts
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/resources/podcasts.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Podcast episodes that talk about Vue.js
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Podcasts
-  - name: twitter:description
-    content: Podcast episodes that talk about Vue.js
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Podcast episodes that talk about Vue.js
+  - - meta
+    - name: og:title
+      content: Podcasts
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/resources/podcasts.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Podcast episodes that talk about Vue.js
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Podcasts
+  - - meta
+    - name: twitter:description
+      content: Podcast episodes that talk about Vue.js
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Podcasts

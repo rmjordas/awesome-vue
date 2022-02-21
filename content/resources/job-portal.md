@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Vue.js job portal
-  - name: og:title
-    content: Job Portal
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/resources/job-portal.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Vue.js job portal
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Job Portal
-  - name: twitter:description
-    content: Vue.js job portal
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Vue.js job portal
+  - - meta
+    - name: og:title
+      content: Job Portal
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/resources/job-portal.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Vue.js job portal
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Job Portal
+  - - meta
+    - name: twitter:description
+      content: Vue.js job portal
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Job Portal

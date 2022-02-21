@@ -1,25 +1,35 @@
 ---
-meta:
-  - name: description
-    content: Showcase of commercial websites and web applications that use Vue.js
-  - name: og:title
-    content: Commercial Products
-  - name: og:type
-    content: website
-  - name: og:url
-    content: https://awesome-vue.js.org/projects-using-vue-js/commercial-products.html
-  - name: og:image
-    content: https://awesome-vue.js.org/hero.png
-  - name: og:description
-    content: Showcase of commercial websites and web applications that use Vue.js
-  - name: twitter:card
-    content: summary
-  - name: twitter:title
-    content: Commercial Products
-  - name: twitter:description
-    content: Showcase of commercial websites and web applications that use Vue.js
-  - name: twitter:image:src
-    content: https://awesome-vue.js.org/hero.png
+head:
+  - - meta
+    - name: description
+      content: Showcase of commercial websites and web applications that use Vue.js
+  - - meta
+    - name: og:title
+      content: Commercial Products
+  - - meta
+    - name: og:type
+      content: website
+  - - meta
+    - name: og:url
+      content: https://awesome-vue.js.org/projects-using-vue-js/commercial-products.html
+  - - meta
+    - name: og:image
+      content: https://awesome-vue.js.org/hero.png
+  - - meta
+    - name: og:description
+      content: Showcase of commercial websites and web applications that use Vue.js
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: Commercial Products
+  - - meta
+    - name: twitter:description
+      content: Showcase of commercial websites and web applications that use Vue.js
+  - - meta
+    - name: twitter:image:src
+      content: https://awesome-vue.js.org/hero.png
 ---
 
 # Commercial Products
@@ -44,6 +54,5 @@ meta:
 - [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare and many more
 - [NxShell](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which is based on Electron and Vue.js
 - [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most powerful, developer-friendly, production ready & comprehensive Vuetify VueJS admin template
-- [Mystery Football Shirts](https://boxtobox.uk) - An E-commerce app using Vue, Node & Mongdo DB
 - [NocoDB](https://github.com/nocodb/nocodb) - An opensource Airtable alternative
 - [KodaDot](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
