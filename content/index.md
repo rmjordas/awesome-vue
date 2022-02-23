@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.png
-actionText: Get Started →
+actionText: Continue →
 actionLink: /resources/official-resources
 meta:
   - name: description
