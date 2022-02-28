@@ -511,6 +511,7 @@ Display non-editable events in a Calendar
 - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom SoundCloud player supporting single tracks & playlists
 - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects
 - [vue-flv-player](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js
+- [control-knob](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls
 
 ## Infinite Scroll
 
@@ -747,6 +748,7 @@ Display non-editable events in a Calendar
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 - [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations#tab) - Content panel to show multiple contents in a specific space, one at a time
 - [vue3-tabs-chrome](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue 3 component for Chrome-like tabs
+- [vue-nav-tab](https://github.com/kien5436/vue-nav-tab) - Tab components for Vue.js 3 project
 
 ## Form
 
