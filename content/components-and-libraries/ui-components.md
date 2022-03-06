@@ -567,6 +567,7 @@ Display non-editable events in a Calendar
 - [vue3-router-tree](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view
 - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme
 - [vue-virtual-tree](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue 3
+- [vue-json-viewer](https://github.com/chenfengjw163/vue-json-viewer) - A JSON tree view support for incremental update components, base on Vue 2 and Vue 3
 
 ## Graphs
 
