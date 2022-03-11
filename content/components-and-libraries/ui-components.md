@@ -1030,6 +1030,7 @@ Display images
 - [vue-image-painter](https://github.com/wannaxiao/vue-image-painter) - Image magic animation drawing effect component for Vue 2.x
 - [vue-cosha](https://github.com/kn0wn/vue-cosha) - An easy to use vue directive that places a colourful shadow behind any image
 - [vue-image-kit](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images
+- [vue-preview-imgs](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue 3
 
 ### Video Manipulation
 
