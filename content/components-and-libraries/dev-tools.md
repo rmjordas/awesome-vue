@@ -35,6 +35,7 @@ meta:
 - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development
 - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - Get hints in the DOM. Minimal Vue devtool alternative
 - [components-helper](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for Vue component library
+- [vue-unicorn-log](https://github.com/webdevnerdstuff/vue-unicorn-log) - A magical plugin to make coloring the (DevTools) console output easier and more flexible
 
 ## Inspect
 

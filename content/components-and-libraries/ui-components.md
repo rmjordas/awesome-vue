@@ -278,6 +278,8 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3
 - [eos-icons-vue](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
 - [vue-icomoon](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon
+- [vue-icons](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (Bootstrap, Font Awesome, Feather .. etc)
+- [veemoji](https://github.com/mahdikhashan/veemoji) - Veemoji is a dead simple emoji as a component for Vue 2
 
 ## Marquee
 
@@ -893,6 +895,7 @@ Date / datetime / time Picker
 - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board
 - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component
+- [vue-drag-drop-snap](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping
 
 ### Autocomplete
 
@@ -1031,6 +1034,7 @@ Display images
 - [vue-cosha](https://github.com/kn0wn/vue-cosha) - An easy to use vue directive that places a colourful shadow behind any image
 - [vue-image-kit](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images
 - [vue-preview-imgs](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue 3
+- [awesome-image](https://github.com/newbeea/awesome-image) - An universal image component for Vue 2 / Vue 3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported
 
 ### Video Manipulation
 

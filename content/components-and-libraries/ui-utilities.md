@@ -83,6 +83,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [v-ajax-form](https://github.com/hosokawat/v-ajax-form) - Vue.js component plug-in to make Form tag compatible with ajax request
 - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue. Validation, error handling, form generation, comprehensive documentation, and more
 - [Reforms.js](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more
+- [FormKit](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more
 
 ### Validation
 

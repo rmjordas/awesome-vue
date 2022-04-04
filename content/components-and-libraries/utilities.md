@@ -205,6 +205,7 @@ Internationalization / L10n / localization / translation
 - [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global Pinia store
 - [pinia-persistedstate](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate
 - [pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable object-relational mapping access to the Pinia store
+- [pinia-di](https://github.com/ccqgithub/pinia-di) - Dependency injection for Pinia
 
 ### Authentication/Authorization
 
