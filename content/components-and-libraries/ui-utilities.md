@@ -254,6 +254,7 @@ Seamless scrolling
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) - A vue component for better digital transform animation
 - [vue-typical](https://github.com/Turkyden/vue-typical) - Vue Animated typing in ~400 bytes of JavaScript
 - [vue3-lottie](https://github.com/megasanjay/vue3-lottie) - A component for importing and displaying Lottie animations in Vue 3
+- [@morev/vue-transitions](https://github.com/morevm/vue-transitions) - Transitions library for Vue 2 and Vue 3 with no CSS needed
 
 ## Meta Tags
 

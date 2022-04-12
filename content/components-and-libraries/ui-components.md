@@ -516,6 +516,7 @@ Display non-editable events in a Calendar
 - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects
 - [vue-flv-player](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js
 - [control-knob](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls
+- [simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with TypeScript support to create great camera experiences
 
 ## Infinite Scroll
 
@@ -835,7 +836,7 @@ Date / datetime / time Picker
 - [ej2-vue-calendars](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/calendars#datetimepicker) - A user-friendly and advanced text input datetime picker
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date (single and range selection, select date and time, select with keyboard, customizable style, localization)
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
-- [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
+- [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 - [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ### Select
@@ -1138,6 +1139,8 @@ Display images
 - [vue-rough](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - An electronic signature component for Vue 3
 - [vue-signature](https://github.com/WangShayne/vue-signature) - An electronic signature component for Vue2.x
+- [v-perfect-signature](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and Vue 3
+- [vue-drawing-grid](https://github.com/MLongz/VueDrawingGrid) - A simple drawing grid lets you create pixel arts using HTML5 canvas
 
 ## Link Preview
 
