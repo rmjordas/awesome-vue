@@ -43,3 +43,8 @@ meta:
 - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
 - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
+- [What is Pinia? with @posva (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/9610327-que-es-pinia-con-posva)
+- [Evolution of Vue - Part I (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7055926-evolucion-de-vue-parte-i)
+- [Evolution of Vue - Part II (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7068499-evolucion-de-vue-parte-ii)
+- [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7136740-evolucion-de-vue-parte-iii)
+- [React vs Vue - their comunities (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
