@@ -147,6 +147,7 @@ Display time / date / age
 
 - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects
 - [vue-flv-player](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js
+- [vue-audio-tapir](https://github.com/tderflinger/vue-audio-tapir) - Audio recorder component for Vue 3 that enables to record, play and send audio messages to a server.
 
 ## PDF
 
