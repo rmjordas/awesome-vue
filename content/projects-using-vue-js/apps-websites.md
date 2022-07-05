@@ -98,7 +98,7 @@ meta:
 - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
 - [Habitica](https://habitica.com/) - online task management application in the form of a role-playing game.
 - [MadeWithVueJs](https://madewithvuejs.com/) - A Gallery of Projects made with Vue.js (also the Site itself uses Vue.js)
-- [CodeDependencyScanner](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# dektop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
+- [CodeDependencyScanner](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# desktop application that display .NET assembly code dependencies build with Vue, Neutronium and D3.js
 - [Thousand Ether Homepage](https://thousandetherhomepage.com) - The Million Dollar Homepage reimagined as an Ethereum DApp. Build on Vue.js and open source.
 - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
 - [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
@@ -108,7 +108,6 @@ meta:
 - [Fintechers](https://www.fintechers.io) - Fintech focused job board.
 - [Devjournal](https://www.devjournalapp.com) - Collaborative todo list for projects and ideas.
 - [Bubbleflat](https://bubbleflat.com) - Online platform that helps students and young Professionals find their perfect roommates by searching for people with similar lifestyles, interests, or schools. Laravel & Vuejs
-- [TeaQuinox Tea Co](https://teaquinox.com/) -- ecommerce site that specializes in loose leaf tea.
 - [blip](https://blip.website) - Test websites for speed, mobile-friendliness, security and the HTML5 doctype. Find businesses around a location and test their websites en masse, or just test your own URL.
 - [sunpos](https://sunpos.ru) - Sun position, elevation, azimuth, ecliptic/equatorial coordinates and sunrise/sunset time (Julian day) calculation and conversion utilities. Web site is programmed using pure JS, Vuejs and i18n Vuejs localization plugin. Visualization is created using D3.js.
 - [U3xyz](https://u3xyz.com) - A personal blog base on vue ssr.
@@ -123,7 +122,6 @@ meta:
 - [Vue资源精选](http://vue.awesometiny.com) - great Vue components list, category, inline demo show and brief
 - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
 - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
-- [Made with love](https://made-with-love.xyz/) - The Made with Love around the world, initiative is a movement to celebrate, promote and build a brand. It feed Tech news, design inspiration and trends from over 100 sources including Dribbble, ProductHunt, Behance and Techcrunch.
 - [V·oogle](http://v-oogle.com/) - Google.com, reVued. A joke-project.
 - [Broker Notes](https://broker-notes.com) - 'Study to become a Real Estate Agent'
 - [SyncLounge](https://synclounge.tv) - SyncLounge is a tool to sync Plex content across multiple players in multiple locations.
@@ -133,13 +131,11 @@ meta:
 - [Spektrum](https://spektrummedia.com/) - The website of Spektrum Media Agency
 - [SPK](https://www.spk.rocks/) The website of SPK Ecosystem
 - [IDDEF](https://www.iddef.org/) The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript
-- [Configuration File Management](https://www.configapp.com/) - A simple way to manage your configuration files
 - [Roast](https://roastandbrew.coffee/) - an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA)
 - [Regex Fiddler](https://regexfiddler.com/)
 - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform.
 - [CryptoArte](https://www.cryptoarte.io) - An Ethereum art collection, non-fungible token, and Dapp.
-- [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design
 - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL is the first independent virtual goods market.
 - [Scroll.in](https://scroll.in) - Scroll.in is an independent news, information, and entertainment venture.
 - [Akunyi](https://akunyi.com) - Charity Website
@@ -201,7 +197,7 @@ meta:
 - [PNGK](https://pngk.org/) - Official website for a consultancy company working to find solutions for humanitarian, human rights and other like minded organizations
 - [BMWUSA Vehicle Configurator](https://www.bmwusa.com/build-your-own.html) - Vehicle Configurator for BMWUSA
 - [mumbasket](https://www.mumbasket.com/) - An ecommerce website with laravel and vuejs
-- [Fanmio](https://fanmio.com) - Meet your favorites celebrities through personal video experiences on Fanmio
+- [Fanmio](https://fanmio.com) - Meet your favorite celebrities through personal video experiences on Fanmio
 - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
 - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue
 - [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
@@ -244,3 +240,4 @@ meta:
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool
 - [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain
+- [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students

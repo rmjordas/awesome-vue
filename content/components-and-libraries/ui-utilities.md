@@ -52,6 +52,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [v-click-outside-x](https://github.com/Xotic750/v-click-outside-x) - Vue V2 directive to react on click, touch, pointer or multiple events outside an element
 - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications
 - [vue-pseudo-window](https://github.com/privatenumber/vue-pseudo-window) - Component to declaratively interface window/document in your Vue template
+- [v-on-page-video](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a video element on visibility change
 
 ## Responsive Design
 
@@ -109,6 +110,8 @@ Handling of user events (scroll, click, key strike, ...)
 - [@vuito/vue](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition
 - [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing
+- [VFM](https://github.com/ccqgithub/vfm) - Vue driven form management tool
+- [vue-composition-form](https://github.com/Mini-ghost/vue-composition-form) - Vue Form Validate with composition API
 
 ## Resize
 
@@ -179,6 +182,8 @@ Seamless scrolling
 - [vue-lang-router](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API
 - [vue-middleware](https://github.com/grafikri/vue-middleware) - Middleware for Vue
+- [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable SPA routing while in Google/Yandex/etc. webcache
+- [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x
 
 ## Lazy Load
 
@@ -217,7 +222,7 @@ Seamless scrolling
 - [vue-smart-pagination](https://github.com/grinmax/vue-smart-pagination) - Smart pagination of any data with a lot of nice settings.
 - [vue-paginatron](https://github.com/sbaidon/vue-paginatron) - Pagination component built with scoped-slot props for maximum flexibility.
 - [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework `tailwindcss`
-- [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizeable Bootstrap Pagination for Vue
+- [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizable Bootstrap pagination for Vue
 - [v-paginator](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your HTML templates with SSR support
 - [vue-use-paginator](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless
 
@@ -233,7 +238,7 @@ Seamless scrolling
 - [vue2-transitions](https://github.com/cristijora/vue2-transitions) - Reusable Vue 2 transition components
 - [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [animated-number-vue](https://github.com/Leocardoso94/animated-number-vue) - Super easy way to animate numbers.
-- [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) - Typed.js integration to easily create typying animations.
+- [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) - Typed.js integration to easily create typing animations
 - [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) - Enable a child components to animate when it changes the parent.
 - [vue-smooth-reflow](https://github.com/guanzo/vue-smooth-reflow) - Transition an elements reflow in response to data changes.
 - [VueTween](https://github.com/SeregPie/VueTween) - Allows components to tween their properties.
@@ -255,6 +260,7 @@ Seamless scrolling
 - [vue-typical](https://github.com/Turkyden/vue-typical) - Vue Animated typing in ~400 bytes of JavaScript
 - [vue3-lottie](https://github.com/megasanjay/vue3-lottie) - A component for importing and displaying Lottie animations in Vue 3
 - [@morev/vue-transitions](https://github.com/morevm/vue-transitions) - Transitions library for Vue 2 and Vue 3 with no CSS needed
+- [@formkit/auto-animate](https://github.com/formkit/auto-animate) - Add motion to your apps with a single line of code
 
 ## Meta Tags
 
@@ -276,7 +282,7 @@ Move a DOM node to a target DOM node
 
 - [vue2-filters](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.x adapted for use in Vue 2.x
 - [vue-morphling](https://github.com/jofftiquez/vue-morphling) - A collection of standard and custom filters for Vue 2.
-- [vue-currency-filter](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter.
+- [vue-currency-filter](https://github.com/mazipan/vue-currency-filter) - Lightweight and customizable Vue 2 currency filter
 - [vue-trans](https://github.com/Trekels/vue-trans) - A simple filter to provide a similar way of translating to the Symfony trans.
 - [vue-string-filter](https://github.com/mazipan/vue-string-filter) - Lightweight Vue 2 String Manipulation Filter.
 - [vue-units](https://github.com/ERPedersen/vue-units) - A collection of handy unit conversion filters for use in Vue 2.

@@ -57,7 +57,7 @@ Utilities not directly related to the UI
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) - Type-check your script in your vue-loader.
 - [vue-mixin-decorator](https://github.com/justrhysism/vue-mixin-decorator) - Typescript decorator for strongly typed Mixins.
 - [vue-ts-component-generator](https://github.com/frogbob/vue-ts-component-generator) - A simple cli tool for generating vue typescript components.
-- [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local stoarge in decorator format
+- [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local storage in decorator format
 - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - Typescript/ES7 Decorators to make Vuex modules a breeze
 - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
 - [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
@@ -120,6 +120,7 @@ Internationalization / L10n / localization / translation
 - [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components
 - [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3
 - [tolgee/vue](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop
+- [excel-to-json](https://github.com/Aaronlamz/excel-to-json) - An easy tool is created to convert Excel to JSON for i18n
 
 ## Custom Events
 
@@ -159,7 +160,7 @@ Internationalization / L10n / localization / translation
 - [vuelm](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
 - [vuez](https://github.com/markselby9/vuez) - A simple but powerful State Management for Vue.js, with only 2 APIs.
 - [vuet](https://github.com/medevicex/vuet) - Vue.js state management model for Agile Development
-- [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters simillar with v-bind.sync
+- [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) - Yet another stash storage with update/patch event emitters similar with v-bind.sync
 - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
 - [vue-stash](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
 - [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
@@ -273,6 +274,7 @@ Internationalization / L10n / localization / translation
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
 - [vue-relay](https://github.com/ntkme/vue-relay) - A framework for building GraphQL-driven Vue.js applications.
 - [vuex-orm-apollo](https://github.com/vuex-orm/vuex-orm-apollo) - Apollo/GraphQL integration for Vuex-ORM.
+- [apollo-vue-devtools](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 ## Concurrency Management
 
@@ -323,6 +325,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-aimg-loader](https://github.com/chenxinan/vue-aimg-loader) - An easy way to use images in Vue templates without writing CSS
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 - [vue-sfc-split](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
+- [webpack-plugin-qiniu-upload](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3, webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. Support @vue/cli-service 5.0.x
 
 ## Page Navigation
 
@@ -374,6 +377,7 @@ Utilities for building / compiling / bundling / loading assets
 - [jsx-event-modifiers](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 - [jsx-v-model](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 - [vue-jsx-sync](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
+- [vue2-jsx-runtime](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly
 
 ## Migration
 
@@ -388,7 +392,7 @@ Utilities for building / compiling / bundling / loading assets
 - [vue-socket-cluster](https://github.com/nigeltiany/vue-socket-cluster) - Web Sockets for vue with uws(Micro web sockets) through socket cluster
 - [vue-native-websocket](https://github.com/nathantsoi/vue-native-websocket) - Native websocket implementation for Vuejs 2 and Vuex
 - [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended) - Socket.io bindings for Vue.js and Vuex
-- [vue-phoenix](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implmentation for vuejs. Also provides typescript decorator for better use.
+- [vue-phoenix](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implementation for Vue.js. Also provides TypeScript decorator for better use
 
 ## Server-Sent Events
 

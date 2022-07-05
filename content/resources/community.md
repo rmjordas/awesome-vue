@@ -27,6 +27,7 @@ meta:
 - [Twitter](https://twitter.com/vuejs)
 - [Official Forum](https://forum.vuejs.org/)
 - [vue-requests](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+- [VueJS English community](https://t.me/vue_en)
 - [VueJS Iran](https://telegram.me/vue_js) - Telegram Channel & group (group link available in channel bio)
 - [vueslack](https://vueslack.slack.com/) - 2300+ registered users worldwide
 - [Vue Land](https://vue-land.js.org/) - Discord chat server

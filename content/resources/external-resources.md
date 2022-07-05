@@ -25,9 +25,8 @@ meta:
 # External Resources
 
 - [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
-- [Vue.js News](https://news.vuejs.org/) - The Official Vue News
 - [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
-- [Vue.js Radar](https://www.vuejsradar.com) - Curated newsletter + site covering new Vue.js releases/contributions.
+- [Weekly Vue.js Newsletter](https://mokkapps.de/newsletter) - Weekly Vue.js news & tips by @mokkapps
 - [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
 - [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
 - [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts

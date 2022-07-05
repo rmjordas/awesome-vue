@@ -67,7 +67,7 @@ Set of components + responsive layout system
 - [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side
 - [vectre](https://github.com/vectrejs/vectre) - A lightweight, simple and responsive component framework based on [Spectre CSS](https://picturepan2.github.io/spectre/)
 - [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
-- [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on Boostrap v5
+- [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on Bootstrap v5
 - [Qui](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
 - [Mijin](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI framework
@@ -76,6 +76,7 @@ Set of components + responsive layout system
 - [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI framework
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 component primitives that also work with React, Svelte, and Angular
 - [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x component library. Complete documentation support and both Chinese and English
+- [Vexip UI](https://github.com/qmhc/vexip-ui) - A Vue 3 UI library. Highly customizable property values. Full TypeScript. Performance should be good
 
 ## Mobile UI Frameworks
 
@@ -154,6 +155,7 @@ Set of admin template
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The all-in-one Tailwind CSS admin dashboard template
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - The admin template based on Vue 3 and Element Plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
+- [argon-dashboard-vue3](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue 3
 
 ## Server-side rendering
 
