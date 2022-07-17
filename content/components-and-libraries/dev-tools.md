@@ -49,6 +49,8 @@ Inspecting & debugging
 Create documentation
 
 - [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - A style guide generator for Vue components with a living style guide.
+- [Vuedoc Markdown](https://gitlab.com/vuedoc/md) - Generate a Markdown Documentation for a Vue Component
+- [Vuedoc Parser](https://gitlab.com/vuedoc/parser) - Generate a JSON documentation for a Vue component
 
 ## Test
 
