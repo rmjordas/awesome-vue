@@ -121,6 +121,7 @@ Internationalization / L10n / localization / translation
 - [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3
 - [tolgee/vue](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop
 - [excel-to-json](https://github.com/Aaronlamz/excel-to-json) - An easy tool is created to convert Excel to JSON for i18n
+- [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 
 ## Custom Events
 
@@ -207,6 +208,7 @@ Internationalization / L10n / localization / translation
 - [pinia-persistedstate](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate
 - [pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable object-relational mapping access to the Pinia store
 - [pinia-di](https://github.com/ccqgithub/pinia-di) - Dependency injection for Pinia
+- [pinia-persistedstate-2](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads
 
 ### Authentication/Authorization
 

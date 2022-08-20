@@ -226,3 +226,4 @@ meta:
 - [NuxtBlog](https://github.com/muhammedmed/nuxt-js-blog) - Blog site made with firebase real-time database
 - [FAIRshare](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 - [vue-birthday-reminder](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue 3
+- [AnySniper](https://github.com/anysniper/Frontend) - Sniping DApp on decentralized exchanges. A proven blockchain sniping bot with 500 active users

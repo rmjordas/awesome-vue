@@ -44,7 +44,7 @@ Set of components + responsive layout system
 - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
 - [VueFace](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web
 - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 - [heyui](https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
 - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 - [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
@@ -77,6 +77,7 @@ Set of components + responsive layout system
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 component primitives that also work with React, Svelte, and Angular
 - [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x component library. Complete documentation support and both Chinese and English
 - [Vexip UI](https://github.com/qmhc/vexip-ui) - A Vue 3 UI library. Highly customizable property values. Full TypeScript. Performance should be good
+- [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based Vue component library
 
 ## Mobile UI Frameworks
 
@@ -156,6 +157,7 @@ Set of admin template
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The all-in-one Tailwind CSS admin dashboard template
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - The admin template based on Vue 3 and Element Plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
 - [argon-dashboard-vue3](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue 3
+- [Vitify Admin](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ## Server-side rendering
 

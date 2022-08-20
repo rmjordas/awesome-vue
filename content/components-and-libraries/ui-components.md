@@ -81,6 +81,7 @@ Tables / data grids
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities
 - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue Gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 - [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2
+- [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery
 
 ## Notification
 
@@ -520,6 +521,7 @@ Display non-editable events in a Calendar
 - [vue-flv-player](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js
 - [control-knob](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls
 - [simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with TypeScript support to create great camera experiences
+- [vue-vision-camera](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
 
 ## Infinite Scroll
 
@@ -534,6 +536,7 @@ Display non-editable events in a Calendar
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2
 - [@grafikri/vue-infinite-scroll](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
 - [vinscroll](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
+- [virtual-list](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue 2, Vue 3, TypeScript, SSR, horizontal list, virtual table
 
 ## Pull-to-refresh
 

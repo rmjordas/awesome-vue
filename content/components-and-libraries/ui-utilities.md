@@ -53,6 +53,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications
 - [vue-pseudo-window](https://github.com/privatenumber/vue-pseudo-window) - Component to declaratively interface window/document in your Vue template
 - [v-on-page-video](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a video element on visibility change
+- [vue3-click-outside](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
 
 ## Responsive Design
 
@@ -111,7 +112,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition
 - [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing
 - [VFM](https://github.com/ccqgithub/vfm) - Vue driven form management tool
-- [vue-composition-form](https://github.com/Mini-ghost/vue-composition-form) - Vue Form Validate with composition API
+- [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API
 
 ## Resize
 

@@ -61,6 +61,7 @@ meta:
 - [VueJS DOM](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA) - WhatsApp group
 - [VueJS DOM](https://www.facebook.com/groups/2022974857757366/) - Facebook group
 - [VueJS Uzbekistan](https://t.me/vuejsuzbekcommunity) - Telegram Group (Uzbek)
+- [VueJS Uzbekistan](https://t.me/vuejs_uz) - Telegram community and support group (Uzbek)
 - [VueJS Turkey](https://t.me/vuejsTR) - Telegram Group
 - [Vue Turkey](https://twitter.com/Vue_Turkey) - Twitter Account
 - [Vue Türkiye](https://kommunity.com/vue-turkey) - Kommunity Page
