@@ -61,6 +61,7 @@ Set of components + responsive layout system
 - [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI framework
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 component primitives that also work with React, Svelte, and Angular
 - [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x component library. Complete documentation support and both Chinese and English
+- [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
 
 ## Mobile UI Frameworks
 
