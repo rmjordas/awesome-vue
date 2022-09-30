@@ -117,6 +117,7 @@ Includes a backend boilerplate
 - [vue-iview-electron-boilerplate](https://github.com/buyouzzj/vue-iview-electron) - An Electron & Vue.js boilerplate with iview 4.x, Vue 2.x, Electron 8.x and Webpack 4.x
 - [electron-vue3-flask](https://github.com/megasanjay/electron-vue3-flask) - An Electron & Vue.js application starter template that uses a Python backend via Flask for desktop application building
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. It's fast!
+- [Vitectron](https://github.com/hyroge/vite-vue-electron) - Powerful & modern Vue desktop application template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x
 
 ## Parts
 

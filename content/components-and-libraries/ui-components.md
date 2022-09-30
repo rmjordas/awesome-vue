@@ -245,6 +245,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [v3confirm](https://github.com/malekim/v3confirm) - A plugin dedicated for Vue 3 to show confirm dialog modal
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease
 - [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Easy-to-use and flexible modal sidebar component for Vue 3
+- [vuejs-confirm-dialog](https://github.com/harmyderoman/vuejs-confirm-dialog) - A simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js
 
 ## Parallax
 
@@ -599,6 +600,7 @@ Display non-editable events in a Calendar
 - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
 - [vuesocial](https://github.com/growthbunker/vuesocial) - One easy-to-use button component for Vue.js with 65+ social networks
 - [vue-socials](https://github.com/webistomin/vue-socials) - Social media share buttons and counts for Vue.js
+- [vue-share-modal](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3
 
 ## QR Code
 
