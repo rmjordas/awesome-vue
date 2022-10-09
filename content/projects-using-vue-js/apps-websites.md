@@ -243,3 +243,5 @@ meta:
 - [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students
 - [Gradientos](https://www.gradientos.app) - Gradientos makes finding gradients easy
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue 3 and vue-router, backend API uses Laravel
+- [Cuping Font](https://cupingfont.com/) - Cool font generator made with Vue.js
+- [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive
