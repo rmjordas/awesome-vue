@@ -39,3 +39,4 @@ head:
 - [VueConf US](https://vueconf.us)
 - [VueConf Toronto](https://vuetoronto.com)
 - [Vue.js Amsterdam](https://vuejs.amsterdam)
+- [vuejs.de Conf](https://conf.vuejs.de/)
