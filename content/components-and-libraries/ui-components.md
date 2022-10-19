@@ -874,6 +874,7 @@ Date / datetime / time Picker
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla JS select component
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options
 - [ej2-vue-dropdowns](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue multi-select dropdown component with dynamic option selection
+- [vue-country-code](https://github.com/denfedweb/vue-country-code) - Country code select
 
 ### Slider
 
