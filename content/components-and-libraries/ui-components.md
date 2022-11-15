@@ -319,6 +319,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 - [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations) - Customizable navigation-ui controls menubar, sidebar, tootlbar, context menu
 - [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component
+- [vue-awesome-sidebar](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for Vue 3.x capable with vue-router
 
 ## Minus Plus Input
 
@@ -753,6 +754,7 @@ Display non-editable events in a Calendar
 - [vue-connect-wallet](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to Web3 wallets with a UI button + MetaMask utils
 - [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component
 - [vue-spruce](https://github.com/crishellco/vue-spruce) - A collection of useful Vue 2 renderless components
+- [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - A feature-rich and powerful web terminal plugin for Vue 2 & Vue 3 (功能强大的网页命令行终端插件)
 
 ## Tabs
 

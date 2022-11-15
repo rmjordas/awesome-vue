@@ -62,6 +62,7 @@ Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator
 - [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for Vuetify + Tailwind CSS + Animate.css
 - [vuejs-vuetify-structured-template boilerplate](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vue.js + Vuetify + great structure + API ready
 - [vue-component-starter](https://github.com/peterroe/vue-component-starter) - A template to help you create Vue 3.x component
+- [Vue3-SPA-starter-template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more
 
 ## Client
 
