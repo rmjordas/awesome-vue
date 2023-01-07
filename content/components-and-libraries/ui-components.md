@@ -82,6 +82,7 @@ Tables / data grids
 - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue Gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 - [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2
 - [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery
+- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the `v-navigation-drawer` so that it is resizable by the user
 
 ## Notification
 
@@ -739,7 +740,7 @@ Display non-editable events in a Calendar
 - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight JavaScript library to easily create highly configurable and interactive particle animations
 - [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability
 - [@bananajs/vue2-book-component](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability
-- [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - Image zoom component for Vue.js 2, that also works on touch devices
+- [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - Image zoom component for Vue.js 2 & 3, that also works on touch devices
 - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 - [ej2-vue-kanban](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/kanban) - Vue Kanban - Flexible layout to create Scrum-like boards
@@ -876,7 +877,7 @@ Date / datetime / time Picker
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla JS select component
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options
 - [ej2-vue-dropdowns](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue multi-select dropdown component with dynamic option selection
-- [vue-country-code](https://github.com/denfedweb/vue-country-code) - Country code select
+- [vue-country-code](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country code select
 
 ### Slider
 
@@ -1055,6 +1056,7 @@ Display images
 - [vue-image-kit](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images
 - [vue-preview-imgs](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue 3
 - [awesome-image](https://github.com/newbeea/awesome-image) - An universal image component for Vue 2 / Vue 3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported
+- [TwicPics](https://github.com/TwicPics/components) - Components replacing `img` and `video` tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation
 
 ### Video Manipulation
 
@@ -1170,4 +1172,8 @@ Display images
 
 ## Data Masking
 
-- [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
+- [vue2-text-annotation](https://github.com/HC200ok/vue2-text-annotation) - A Vue 2.x component for text annotation and manual data masking
+
+## Authentication
+
+- [vue-auth-ui](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication

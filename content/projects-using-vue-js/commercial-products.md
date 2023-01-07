@@ -50,3 +50,5 @@ meta:
 - [Convertio](https://convertio.co/) - Online media converter.
 - [EmailJs](https://emailjs.com/) - Send emails with javascript.
 - [Doc^2^](https://app.polydocs.io/) - Catpure documents for example Invoice etc.
+- [He3](https://he3.app) - Free and modern developer utilities toolbox
+- [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries
