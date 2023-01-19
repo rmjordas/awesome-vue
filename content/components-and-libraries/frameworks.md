@@ -79,6 +79,7 @@ Set of components + responsive layout system
 - [Vexip UI](https://github.com/qmhc/vexip-ui) - A Vue 3 UI library. Highly customizable property values. Full TypeScript. Performance should be good
 - [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based Vue component library
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+- [Vuetensils](https://vuetensils.com) - A 'naked' component library for building accessible, lightweight, bespoke applications
 
 ## Mobile UI Frameworks
 

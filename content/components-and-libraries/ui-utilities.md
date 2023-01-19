@@ -322,6 +322,7 @@ Move a DOM node to a target DOM node
 - [v-github-icon](https://github.com/vinayakkulkarni/v-github-icon) - Easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos
 - [vue-styled-shadows](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images
 - [v-visible](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element
+- [vue-web-otp](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
 
 ## WebGL
 
