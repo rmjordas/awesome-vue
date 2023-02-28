@@ -747,7 +747,7 @@ Display non-editable events in a Calendar
 - [ej2-vue-layouts](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/layouts) - Vue package contains cards, avatars, splitter and dashboard layout components
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - An unopinionated advanced visual filtering component for Vue 2 and 3
-- [vue-easter-egg-trigger](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site
+- [vue-easter-egg-trigger](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue 2 site. [Vue 3](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) version also available
 - [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3
 - [vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and powerful emoji picker for Vue 3
 - [vue-mathjax](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
@@ -756,6 +756,7 @@ Display non-editable events in a Calendar
 - [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component
 - [vue-spruce](https://github.com/crishellco/vue-spruce) - A collection of useful Vue 2 renderless components
 - [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - A feature-rich and powerful web terminal plugin for Vue 2 & Vue 3 (功能强大的网页命令行终端插件)
+- [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - A Vite plugin for code preview, of course you can also use the component separately
 
 ## Tabs
 
