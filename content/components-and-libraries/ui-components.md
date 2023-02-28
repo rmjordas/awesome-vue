@@ -212,7 +212,7 @@ Let the user create & edit data
 
 Date / datetime / time Picker
 
-- [vue3-date-time-picker](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+- [vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 - [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ### Select
