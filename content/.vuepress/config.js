@@ -1,4 +1,9 @@
-module.exports = {
+import { docsearchPlugin } from '@vuepress/plugin-docsearch';
+import { pwaPlugin } from '@vuepress/plugin-pwa';
+import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup';
+import { defaultTheme } from 'vuepress';
+
+export default {
   title: 'Awesome Vue.js',
   description: 'A curated list of awesome things related to Vue.js',
   head: [
@@ -14,24 +19,18 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#fff' }]
   ],
   plugins: [
-    [
-      '@vuepress/pwa',
-      {
-        skipWaiting: false,
-      },
-    ], [
-      '@vuepress/plugin-pwa-popup'
-    ], [
-      '@vuepress/plugin-docsearch',
-      {
-        appId: 'CHXHOQPDX2',
-        apiKey: '2dc18d895330e92acdc2c9e1a130c13b',
-        indexName: 'rmjordas_awesome_vue',
-      }
-    ],
+    pwaPlugin({
+      skipWaiting: false,
+    }),
+    pwaPopupPlugin({}),
+    docsearchPlugin({
+      appId: 'CHXHOQPDX2',
+      apiKey: '2dc18d895330e92acdc2c9e1a130c13b',
+      indexName: 'rmjordas_awesome_vue',
+    }),
   ],
   base: '/',
-  themeConfig: {
+  theme: defaultTheme({
     repo: 'rmjordas/awesome-vue',
     docsBranch: 'next',
     docsDir: 'content',
@@ -87,5 +86,5 @@ module.exports = {
     themePlugins: {
       activeHeaderLinks: false
     }
-  },
+  }),
 };
