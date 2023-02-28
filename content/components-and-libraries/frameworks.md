@@ -43,7 +43,7 @@ Set of components + responsive layout system
 - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js
 - [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design
-- [heyui](https://github.com/heyui/heyui) - A Vue.js UI Toolkit for web ([Website]((https://www.heyui.top/en)))
+- [heyui](https://github.com/heyui/heyui) - A Vue.js UI Toolkit for web ([Website](https://www.heyui.top/en))
 - [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 - [Inkline](https://github.com/inkline/inkline/) - Inkline is the intuitive UI components library that gives you a developer-friendly foundation for building Vue.js 3 design systems
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
