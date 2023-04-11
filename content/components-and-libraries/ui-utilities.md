@@ -323,6 +323,7 @@ Move a DOM node to a target DOM node
 - [vue-styled-shadows](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images
 - [v-visible](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element
 - [vue-web-otp](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
+- [vue-occasions](https://www.npmjs.com/package/vue-occasions) - Tags your HTML’s body element with a class and data attribute reflecting today’s occasion or holiday.
 
 ## WebGL
 
