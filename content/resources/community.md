@@ -67,3 +67,4 @@ meta:
 - [Vue Türkiye](https://kommunity.com/vue-turkey) - Kommunity Page
 - [VueJS Singapore](https://t.me/vuejssg) - Telegram Group
 - [VueJS Bootcamp kablosuzkedi - Turkey](https://t.me/joinchat/pqiJOgi8byQ5Y2E0) - Telegram Group
+- [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)

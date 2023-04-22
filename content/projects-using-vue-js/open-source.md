@@ -230,3 +230,5 @@ meta:
 - [lishuuro.org](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue 3 for UI and Pinia for managing state in app
 - [ZuiOJ](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue 2's UI and Java
 - [Insurance-system](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by Spring Boot and Vue
+- [vue-paho-mqtt](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library
+- [VueFinder File Library](https://github.com/n1crack/vuefinder) - Web file manager library

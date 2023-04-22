@@ -68,3 +68,4 @@ Layout for the overall / main view
 - [vue-re-resizable](https://github.com/tachibana-shin/vue-re-resizable) - Plugin for Vue 3 allows resizing components. Rewritten [re-resizable](https://github.com/bokuweb/re-resizable)
 - [vue-console-feed](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display console like Chrome DevTools for Vue
 - [vue-typed-virtual-list](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - [Vue 3.x] Small, efficient, TypeScript-friendly virtual scroller for rendering massive data
+- [fit-screen](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution

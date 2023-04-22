@@ -498,6 +498,7 @@ Display non-editable events in a Calendar
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers
 - [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform
 - [vue-leaflet-custom-marker](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for OpenStreetMap custom marker component
+- [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TypeScript. Including style switch and frame rate control
 
 ## Audio / Video
 
@@ -525,6 +526,7 @@ Display non-editable events in a Calendar
 - [control-knob](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls
 - [simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with TypeScript support to create great camera experiences
 - [vue-vision-camera](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
+- [1llest-waveform-vue](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization Vue 3 plugin
 
 ## Infinite Scroll
 
@@ -757,6 +759,8 @@ Display non-editable events in a Calendar
 - [vue-spruce](https://github.com/crishellco/vue-spruce) - A collection of useful Vue 2 renderless components
 - [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - A feature-rich and powerful web terminal plugin for Vue 2 & Vue 3 (功能强大的网页命令行终端插件)
 - [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - A Vite plugin for code preview, of course you can also use the component separately
+- [vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+- [vue3-code-block](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js
 
 ## Tabs
 
@@ -814,6 +818,7 @@ Let the user create & edit data
 - [vue3-otp-input](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API
 - [Vueform](https://vueform.com) - Probably the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
 - [IFstruct-parser-vue](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Date Picker
 
