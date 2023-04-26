@@ -232,3 +232,4 @@ meta:
 - [Insurance-system](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by Spring Boot and Vue
 - [vue-paho-mqtt](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library
 - [VueFinder File Library](https://github.com/n1crack/vuefinder) - Web file manager library
+- [vite-vue-ultimate-starter](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue 3 template built with Vite that out of the box provides PWA mode, TypeScript, Vue Router, Tailwind CSS, DaisyUI, Playwright, Vitest, GitHub Pages workflow and many more

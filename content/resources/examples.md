@@ -186,3 +186,5 @@ meta:
 - [Text Editor](https://github.com/devisasari/text-editor-vue-3) - Text editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
 - [Vue 3 + Laravel v9 - Boilerplate / Starter kit](https://github.com/fsgreco/vue3-laravel-api) - An implementation of the Laravel Breeze application/authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of Pinia and vue-router
 - [h5](https://github.com/gyt95/h5) - A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite 3.x + Vue 3.2+ + TypeScript 4.x + VueRouter 4.x + Pinia...)
+- [Vitesse Starter](https://github.com/antfu/vitesse) - Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+- [Vitesse-lite Starter](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse (Vue 3 Starter)
