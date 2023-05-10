@@ -233,3 +233,5 @@ meta:
 - [vue-paho-mqtt](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library
 - [VueFinder File Library](https://github.com/n1crack/vuefinder) - Web file manager library
 - [vite-vue-ultimate-starter](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue 3 template built with Vite that out of the box provides PWA mode, TypeScript, Vue Router, Tailwind CSS, DaisyUI, Playwright, Vitest, GitHub Pages workflow and many more
+- [vue-daisyui-theme-manager](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue 3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system
+- [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them
