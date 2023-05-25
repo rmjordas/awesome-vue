@@ -125,6 +125,7 @@ Set of components without layout system
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://christiankienle.github.io/cdk/) - Unstyled, highly tested and flexible Vue components/mixins/plugins
 - [element-pro-components](https://github.com/tolking/element-pro-components) - A component library for Vue 3 base on element-plus
+- [Tailwind Elements for Vue](https://tailwind-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind Elements - a free, open-source UI kit
 
 ## Mobile Components
 
