@@ -46,7 +46,7 @@ Set of components + responsive layout system
 - [heyui](https://github.com/heyui/heyui) - A Vue.js UI Toolkit for web ([Website](https://www.heyui.top/en))
 - [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 - [Inkline](https://github.com/inkline/inkline/) - Inkline is the intuitive UI components library that gives you a developer-friendly foundation for building Vue.js 3 design systems
-- [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
+- [MDBootstrap](https://mdbootstrap.com/docs/vue/) - Powerful UI toolkit based on the latest Bootstrap 5 and Vue 3, to rapidly build responsive, mobile-first websites and apps.
 - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
 - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
 - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components
@@ -96,6 +96,7 @@ Set of admin template
 - [Vue-Admin-Template](https://github.com/Mani1124/vue-admin-template) - A beautiful free Vue.js admin template, designed using Vuetify and ApexCharts. [Live Demo](https://mani1124.github.io)
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The all-in-one Tailwind CSS admin dashboard template
+- [MDB Vue Admin Dashboard Templates](https://mdbootstrap.com/docs/vue/templates/admin-dashboard/) - Built with the latest Bootstrap 5 and Vue 3: SEO dashboard, eCommerce dashboard, Ads dashboard, Order dashboard, Traffic dashboard, Chat app & more
 
 ## Server-side rendering
 
@@ -110,3 +111,5 @@ Set of admin template
 
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine
 - [petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
+- [mdb-go-vue](https://mdbgo.com/docs/tutorials/vue/) - step by step on how to create & deploy your project and deploy using MDB CLI
+
