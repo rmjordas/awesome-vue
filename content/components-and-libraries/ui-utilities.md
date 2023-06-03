@@ -86,6 +86,7 @@ Handling of user events (scroll, click, key strike, ...)
 - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue. Validation, error handling, form generation, comprehensive documentation, and more
 - [Reforms.js](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more
 - [FormKit](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more
+- [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms
 
 ### Validation
 
@@ -226,6 +227,7 @@ Seamless scrolling
 - [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizable Bootstrap pagination for Vue
 - [v-paginator](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your HTML templates with SSR support
 - [vue-use-paginator](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless
+- [vueginate](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 
 ## Animation
 
@@ -263,6 +265,7 @@ Seamless scrolling
 - [@morev/vue-transitions](https://github.com/morevm/vue-transitions) - Transitions library for Vue 2 and Vue 3 with no CSS needed
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) - Add motion to your apps with a single line of code
 - [vue-contextual-transition](https://github.com/beepy/vue-contextual-transition) - Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
+- [blottie](https://github.com/Applelo/blottie) - Lottie component for Vue 3
 
 ## Meta Tags
 
@@ -337,6 +340,8 @@ Move a DOM node to a target DOM node
 - [vue-displacement-slideshow](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 - [vue-fake3d-image-effect](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL
 - [drie](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by `react-three-fiber`
+- [TresJs](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
+- [Cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ## Fullscreen
 

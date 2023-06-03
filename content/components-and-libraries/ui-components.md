@@ -124,6 +124,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest
 - [ej2-vue-notifications](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/notifications) - An easily customizable, pure HTML5/CSS notification UI
 - [@kyvg/vue3-notification](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+- [vue-global-alert-utility](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible
 
 ## Loader
 
@@ -762,6 +763,8 @@ Display non-editable events in a Calendar
 - [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - A Vite plugin for code preview, of course you can also use the component separately
 - [vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 - [vue3-code-block](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js
+- [v-image-magnifier](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image
+- [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue 3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time
 
 ## Tabs
 
