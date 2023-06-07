@@ -1144,6 +1144,7 @@ Display images
 - [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
 - [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper) - A simple stepper with simple actions such as next, back and end to perform simple forms.
 - [vue-stepper-component](https://github.com/adi518/vue-stepper-component) - A fully customizable Stepper component with Vuex support and Zero dependencies.
+- [vue3-form-wizard](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a Vue based component with no extsernal depenendcies which simplifies tab wizard management
 
 ### CSV
 

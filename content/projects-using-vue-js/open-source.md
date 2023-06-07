@@ -236,3 +236,4 @@ meta:
 - [vue-daisyui-theme-manager](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue 3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system
 - [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them
 - [activist.org/](https://activist.org/) - Open-source, non-profit activism platform
+- [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The ultimate free Vue.js admin template for building responsive web apps

@@ -52,3 +52,4 @@ meta:
 - [Doc^2^](https://app.polydocs.io/) - Catpure documents for example Invoice etc.
 - [He3](https://he3.app) - Free and modern developer utilities toolbox
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries
+- [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The ultimate Vue.js admin template for responsive web apps
