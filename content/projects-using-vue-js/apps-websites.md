@@ -24,7 +24,6 @@ meta:
 
 # Apps/Websites
 
-- [Join UP!](https://joinup.lt/en) - Join UP! tour operator – holiday packages, holiday trips
 - [Laravel Spark](https://spark.laravel.com/)
 - [Vice Video](https://video.vice.com/)
 - [Formlets](https://www.formlets.com)
@@ -249,3 +248,4 @@ meta:
 - [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
 - [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 - [bloghunch.com](https://bloghunch.com) - Next generation blogging platform for startups and creators
+- [Join UP!](https://joinup.lt/en) - Join UP! tour operator – holiday packages, holiday trips
