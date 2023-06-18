@@ -125,6 +125,7 @@ Toaster / snackbar — Notify the user with a modeless temporary little popup
 - [ej2-vue-notifications](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/notifications) - An easily customizable, pure HTML5/CSS notification UI
 - [@kyvg/vue3-notification](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 - [vue-global-alert-utility](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible
+- [notivue](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3
 
 ## Loader
 
@@ -985,6 +986,7 @@ Switch / on/off toggle / checkbox
 - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission
 - [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 - [@vueform/toggle](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options
+- [vue-collapsed](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready
 
 ### Masked Input
 

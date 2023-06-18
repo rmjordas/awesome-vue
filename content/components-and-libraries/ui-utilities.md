@@ -160,6 +160,7 @@ Detect when components enter viewport
 - [vue-trip-wire](https://github.com/lorrenrules/vue-trip-wire) - A custom directive for firing functions when an element reaches a designated point in the viewport, with option to import module with globally accessible functions
 - [v-intersect](https://github.com/kholid060/v-intersect) - A Vue directive and component that detect element when it's visible or hidden on viewport
 - [vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling)
+- [vue-use-active-scroll](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises
 
 Customize the scroll behavior
 
