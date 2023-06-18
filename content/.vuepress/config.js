@@ -31,7 +31,9 @@ module.exports = {
     docsDir: 'content',
     editLinks: true,
     lastUpdated: 'Last Updated',
-    nav: [],
+    nav: [
+      { text: 'Contribute 💚', link: 'https://github.com/sponsors/rmjordas' },
+    ],
     sidebar: [
       {
         title: 'Resources',
