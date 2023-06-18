@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Vue.js courses
+      content: Online courses for learning Vue.js
   - - meta
     - name: og:title
       content: Courses
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: Vue.js courses
+      content: Online courses for learning Vue.js
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: Courses
   - - meta
     - name: twitter:description
-      content: Vue.js courses
+      content: Online courses for learning Vue.js
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

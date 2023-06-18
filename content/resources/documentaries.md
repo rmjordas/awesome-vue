@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Vue.js documentaries
+      content: Documentaries about Vue.js
   - - meta
     - name: og:title
       content: Documentaries
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: Vue.js documentaries
+      content: Documentaries about Vue.js
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: Documentaries
   - - meta
     - name: twitter:description
-      content: Vue.js documentaries
+      content: Documentaries about Vue.js
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: External resources for Vue.js
+      content: Other websites to get more information on Vue.js
   - - meta
     - name: og:title
       content: External Resources
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: External resources for Vue.js
+      content: Other websites to get more information on Vue.js
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: External Resources
   - - meta
     - name: twitter:description
-      content: External resources for Vue.js
+      content: Other websites to get more information on Vue.js
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

@@ -41,7 +41,7 @@ cd awesome-vue
 npm install
 ```
 
-Run the `dev` script to compile the content and spawn a local server to serve the compiled code. While this script is running, any changes made to the markdown files will automatically be updated on the locally served pages.
+Run the `dev` script to compile the content and spawn a local server to serve the compiled code. While this script is running, any changes made to the markdown files will automatically be updated on the locally served pages. Go to <http://localhost:5173> on your web browser to view the site.
 
 ```bash
 npm run dev
@@ -51,19 +51,19 @@ To prepare the application for deployment, first run `npm run build` to compile 
 
 ```bash
 npm run build
-# You can use `serve` to inspect the output
-npm install -g serve
-serve content/.vuepress/dist
+# You can use `npm run preview` to inspect the output
+npm run preview --port 4173
 ```
 
 ## Scripts
 
-| Script  | Description                                             |
-|---------|---------------------------------------------------------|
-| `dev`   | Compiles content and serves bundled code                |
-| `build` | Compiles content and other static assets for deployment |
-| `lint`  | Runs markdown linter to check lint errors               |
-| `test`  | An alias for `lint` (runs `lint` script)                |
+| Script    | Description                                             |
+|-----------|---------------------------------------------------------|
+| `dev`     | Compiles content and serves bundled code                |
+| `build`   | Compiles content and other static assets for deployment |
+| `preview` | Locally preview the production build                    |
+| `lint`    | Runs markdown linter to check lint errors               |
+| `test`    | An alias for `lint` (runs `lint` script)                |
 
 ## Contributing
 

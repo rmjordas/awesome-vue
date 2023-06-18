@@ -112,4 +112,3 @@ Set of admin template
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine
 - [petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [mdb-go-vue](https://mdbgo.com/docs/tutorials/vue/) - step by step on how to create & deploy your project and deploy using MDB CLI
-

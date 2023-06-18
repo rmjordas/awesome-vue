@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Vue.js conferences
+      content: Vue.js conferences (VueConf, Vue.js London, VueConf US...)
   - - meta
     - name: og:title
       content: Conferences
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: Vue.js conferences
+      content: Vue.js conferences (VueConf, Vue.js London, VueConf US...)
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: Conferences
   - - meta
     - name: twitter:description
-      content: Vue.js conferences
+      content: Vue.js conferences (VueConf, Vue.js London, VueConf US...)
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

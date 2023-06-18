@@ -1,5 +1,5 @@
 ---
-sidebarDepth: 3
+outline: 'deep'
 head:
   - - meta
     - name: description

@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: UI utilities for building Vue.js applications
+      content: Vue.js libraries of creating user interfaces
   - - meta
     - name: og:title
       content: UI Utilities
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: UI utilities for building Vue.js applications
+      content: Vue.js libraries of creating user interfaces
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: UI Utilities
   - - meta
     - name: twitter:description
-      content: UI utilities for building Vue.js applications
+      content: Vue.js libraries of creating user interfaces
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

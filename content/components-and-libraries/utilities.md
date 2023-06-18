@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: General utilities for building Vue.js applications
+      content: Helper libraries for building Vue.js projects
   - - meta
     - name: og:title
       content: Utilities
@@ -18,7 +18,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: General utilities for building Vue.js applications
+      content: Helper libraries for building Vue.js projects
   - - meta
     - name: twitter:card
       content: summary
@@ -27,7 +27,7 @@ head:
       content: Utilities
   - - meta
     - name: twitter:description
-      content: General utilities for building Vue.js applications
+      content: Helper libraries for building Vue.js projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Official Vue.js resources
+      content: Official guide, API reference, GitHub repo...
   - - meta
     - name: og:title
       content: Official Resources
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: Official Vue.js resources
+      content: Official guide, API reference, GitHub repo...
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: Official Resources
   - - meta
     - name: twitter:description
-      content: Official Vue.js resources
+      content: Official guide, API reference, GitHub repo...
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png

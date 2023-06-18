@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Vue.js job portal
+      content: Websites with Vue.js job listings
   - - meta
     - name: og:title
       content: Job Portal
@@ -17,7 +17,7 @@ head:
       content: https://awesome-vue.js.org/hero.png
   - - meta
     - name: og:description
-      content: Vue.js job portal
+      content: Websites with Vue.js job listings
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +26,7 @@ head:
       content: Job Portal
   - - meta
     - name: twitter:description
-      content: Vue.js job portal
+      content: Websites with Vue.js job listings
   - - meta
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png
