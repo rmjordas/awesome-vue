@@ -47,7 +47,7 @@ Run the `dev` script to compile the content and spawn a local server to serve th
 npm run dev
 ```
 
-To prepare the application for deployment, first run `npm run build` to compile the application in production mode. This will generate a directory in `content/.vuepress` called **`dist`**.
+To prepare the application for deployment, first run `npm run build` to compile the application in production mode. This will generate a directory in `content/.vitepress` called **`dist`**.
 
 ```bash
 npm run build
