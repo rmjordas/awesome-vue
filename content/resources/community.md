@@ -68,3 +68,5 @@ meta:
 - [VueJS Singapore](https://t.me/vuejssg) - Telegram Group
 - [VueJS Bootcamp kablosuzkedi - Turkey](https://t.me/joinchat/pqiJOgi8byQ5Y2E0) - Telegram Group
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
+- [VueJS Kenya](https://twitter.com/KenyaVue) - Twitter Account
+- [VueJS Magyar](https://www.facebook.com/groups/huvuejs/) - Facebook Group (Hungarian)
