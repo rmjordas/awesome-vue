@@ -84,6 +84,7 @@ Tables / data grids
 - [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the `v-navigation-drawer` so that it is resizable by the user
 - [el-col-group](https://github.com/jiangfei5945/el-col-group) - Powerful and flexable column for element table
+- [tanstack-table](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids
 
 ## Notification
 
@@ -250,6 +251,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease
 - [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Easy-to-use and flexible modal sidebar component for Vue 3
 - [vuejs-confirm-dialog](https://github.com/harmyderoman/vuejs-confirm-dialog) - A simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js
+- [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - Simple Vue 3 modal package
 
 ## Parallax
 
@@ -595,6 +597,7 @@ Display non-editable events in a Calendar
 - [vnodes](https://github.com/txlabs/vnodes) - General purpose components to create SVG interactive graphs, diagrams or node based visual tools
 - [v-network-graph](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3
 - [coya](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (Vue 3 only)
+- [vue-skia](https://github.com/rustq/vue-skia) - Skia based 2D graphics Vue 3 rendering library. It is based on Rust to implement software rasterization to perform rendering
 
 ## Social Sharing
 
@@ -613,7 +616,7 @@ Display non-editable events in a Calendar
 
 - [vue-qriously](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.
 - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
-- [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.
+- [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes
 - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for Vue 3 compatibility
 - [ej2-vue-barcodegenerator](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/barcodegenerator) - Enables rendering of one dimension and two dimension barcodes in web page
 
@@ -766,6 +769,7 @@ Display non-editable events in a Calendar
 - [vue3-code-block](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js
 - [v-image-magnifier](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue 3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time
+- [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Web3 authentication for Vue 3 apps based on WalletConnect v2 and wagmi
 
 ## Tabs
 
