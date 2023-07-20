@@ -568,6 +568,7 @@ Display non-editable events in a Calendar
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
 - [ej2-vue-pdfviewer](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/pdfviewer) - Vue PDF viewer/reader - Easy solution to view and print PDF files
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+- [@tato30/vue-pdf](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 
 ## Tree
 
@@ -590,6 +591,7 @@ Display non-editable events in a Calendar
 - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme
 - [vue-virtual-tree](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue 3
 - [vue-json-viewer](https://github.com/chenfengjw163/vue-json-viewer) - A JSON tree view support for incremental update components, base on Vue 2 and Vue 3
+- [vue-hierarchy](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
 
 ## Graphs
 
