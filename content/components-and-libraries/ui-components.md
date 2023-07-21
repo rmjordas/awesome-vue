@@ -326,6 +326,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations) - Customizable navigation-ui controls menubar, sidebar, tootlbar, context menu
 - [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component
 - [vue-awesome-sidebar](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for Vue 3.x capable with vue-router
+- [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one
 
 ## Minus Plus Input
 
@@ -772,6 +773,7 @@ Display non-editable events in a Calendar
 - [v-image-magnifier](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue 3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Web3 authentication for Vue 3 apps based on WalletConnect v2 and wagmi
+- [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## Tabs
 
