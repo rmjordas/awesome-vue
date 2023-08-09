@@ -1,0 +1,15 @@
+:root {
+  --vp-c-green-dimm-1: rgba(16, 185, 129, 0.05);
+  --vp-c-green-dimm-2: rgba(16, 185, 129, 0.2);
+  --vp-c-green-dimm-3: rgba(16, 185, 129, 0.5);
+
+  --vp-c-brand: var(--vp-c-green);
+  --vp-c-brand-light: var(--vp-c-green-light);
+  --vp-c-brand-lighter: var(--vp-c-green-lighter);
+  --vp-c-brand-dark: var(--vp-c-green-dark);
+  --vp-c-brand-darker: var(--vp-c-green-darker);
+  --vp-c-brand-darkest: var(--vp-c-green-darkest);
+  --vp-c-brand-dimm-1: var(--vp-c-green-dimm-1);
+  --vp-c-brand-dimm-2: var(--vp-c-green-dimm-2);
+  --vp-c-brand-dimm-3: var(--vp-c-green-dimm-3);
+}
