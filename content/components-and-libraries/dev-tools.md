@@ -142,3 +142,7 @@ Text editor plugins
 ### Kate
 
 - [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files) - Syntax files (modified or original) for katepart (kate, kwrite, kdevelop).
+
+### CodeLobster IDE
+
+- [VueJS plug-in](http://www.codelobster.com/vuejs.html) - CodeLobster IDE plug-in for VueJS download, autocomplete and tooltips for VueJS functions, context and dynamic help.
