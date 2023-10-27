@@ -161,6 +161,7 @@ Loaders / spinners / progress bars — Let the user know that something is loadi
 - [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progress bar component
 - [uspin](https://github.com/peterroe/uspin) - A Vue 3 component that adds a spin mask at load time
 - [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - A Vue 3 directive that provide a shield while loading
+- [vue3-ui-preloader](https://github.com/gbast0s/vue3-ui-preloader) - Vue 3 pre-loader components for Vue.js projects with playground
 
 ### Progress Bar
 
@@ -481,6 +482,7 @@ Display non-editable events in a Calendar
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A Vue component for lunar calendar. Uses calendar.js for date operations
 - [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet Vue.js calendar
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
+- [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 - [qalendar](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## Map
@@ -563,6 +565,7 @@ Display non-editable events in a Calendar
 - [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) - A markdown editor based on Vue that supports a variety of personalized features.
 - [vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown) - A Simple and Highspeed Markdown Parser for Vue.
 - [vue-simplemde](https://github.com/F-loat/vue-simplemde) - A wrapper around [simplemde](https://github.com/sparksuite/simplemde-markdown-editor). Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [@f3ve/vue-markdown-it](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed
 
 ## PDF
 
@@ -776,6 +779,7 @@ Display non-editable events in a Calendar
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Web3 authentication for Vue 3 apps based on WalletConnect v2 and wagmi
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-mrz-scanner](https://github.com/tony-xlh/vue-mrz-scanner) - A Vue component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer
+- [vue-surf](https://github.com/f820602h/vue-surf) - A very customized animated svg wave Vue component. [Online Demo](https://f820602h.github.io/vue-surf/)
 
 ## Tabs
 
@@ -899,6 +903,7 @@ Date / datetime / time Picker
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options
 - [ej2-vue-dropdowns](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/dropdowns) - Vue multi-select dropdown component with dynamic option selection
 - [vue-country-code](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country code select
+- [vue-cool-box-selector](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box/button/image selector for Vue 2 and 3 ~1KB
 
 ### Slider
 
@@ -1192,6 +1197,7 @@ Display images
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+- [vue-stage-play](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue 3
 
 ## Data Masking
 

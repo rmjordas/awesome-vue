@@ -81,8 +81,8 @@ Set of components + responsive layout system
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vuetensils](https://vuetensils.com) - A 'naked' component library for building accessible, lightweight, bespoke applications
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library with form self-validation and an SCSS framework integrated
-- [Prefect Design](https://prefect-design.netlify.app/) - Prefect Design is UI Component library built on Vue 3 and Typescript. Components are designed on top of Tailwind CSS
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind
+- [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3
 
 ## Mobile UI Frameworks
 
@@ -127,7 +127,7 @@ Set of components without layout system
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://christiankienle.github.io/cdk/) - Unstyled, highly tested and flexible Vue components/mixins/plugins
 - [element-pro-components](https://github.com/tolking/element-pro-components) - A component library for Vue 3 base on element-plus
-- [Tailwind Elements for Vue](https://tailwind-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind Elements - a free, open-source UI kit
+- [TW Elements for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
 ## Mobile Components
 
