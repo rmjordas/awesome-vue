@@ -82,9 +82,9 @@ Tables / data grids
 - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue Gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 - [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2
 - [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery
-- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the `v-navigation-drawer` so that it is resizable by the user
 - [el-col-group](https://github.com/jiangfei5945/el-col-group) - Powerful and flexable column for element table
 - [tanstack-table](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids
+- [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format
 
 ## Notification
 
@@ -254,6 +254,7 @@ Overlay / modal / alert / dialog / lightbox / popup
 - [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Easy-to-use and flexible modal sidebar component for Vue 3
 - [vuejs-confirm-dialog](https://github.com/harmyderoman/vuejs-confirm-dialog) - A simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js
 - [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - Simple Vue 3 modal package
+- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user
 
 ## Parallax
 
@@ -773,7 +774,7 @@ Display non-editable events in a Calendar
 - [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - A feature-rich and powerful web terminal plugin for Vue 2 & Vue 3 (功能强大的网页命令行终端插件)
 - [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - A Vite plugin for code preview, of course you can also use the component separately
 - [vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
-- [vue3-code-block](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js
+- [vue-code-block](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js
 - [v-image-magnifier](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue 3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Web3 authentication for Vue 3 apps based on WalletConnect v2 and wagmi
@@ -983,6 +984,7 @@ Let the user select a tag / something while typing
 - [vue-color-picker-board](https://github.com/shlomnissan/vue-color-picker-board) - Vue Color Picker component designed for humans!
 - [verte](https://github.com/baianat/verte) - A Complete Vue.js Color Picker Component.
 - [vue-color-input](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
+- [vuetify-color-field](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField color picker component
 
 ### Switch
 
@@ -1106,6 +1108,7 @@ Display images
 - [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A Cloudinary image cropper and uploader component for Vue.js
 - [ej2-vue-inputs](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/inputs#6-upload) - Vue File Upload - Flexible file upload component with progress bar
 - [vue-dropify](https://github.com/khofaai/vue-dropify) - A simple image dropzone component for Vue.js
+- [vue-file-upload](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
 
 ### Context Menu
 
@@ -1155,6 +1158,7 @@ Display images
 - [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js
 - [vue-diagram-editor](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 - [v-use-places-autocomplete](https://github.com/wobsoriano/v-use-places-autocomplete) - Vue composable for Google Maps Places Autocomplete
+- [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications
 
 ### Wizard
 

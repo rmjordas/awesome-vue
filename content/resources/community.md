@@ -71,3 +71,4 @@ meta:
 - [VueJS Kenya](https://twitter.com/KenyaVue) - Twitter Account
 - [VueJS Magyar](https://www.facebook.com/groups/huvuejs/) - Facebook Group (Hungarian)
 - [VueJS Nigeria](https://t.me/vuejsnigeria) - Telegram Group
+- [VueJS Bangladesh](https://www.facebook.com/groups/764064325433370) - Facebook Group

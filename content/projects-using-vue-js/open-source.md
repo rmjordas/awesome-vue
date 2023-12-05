@@ -238,3 +238,4 @@ meta:
 - [activist.org/](https://activist.org/) - Open-source, non-profit activism platform
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The ultimate free Vue.js admin template for building responsive web apps
 - [starfish-vue3-lowcode](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue 3 visual lowcode form designer, convenient and quick to complete all kinds of form design
+- [Al Quran App-Vue 3](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with English meaning
