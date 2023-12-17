@@ -12,7 +12,7 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-pwa": "^1.9.10",
-    "markdownlint-cli": "^0.37.0",
+    "markdownlint-cli": "^0.38.0",
     "vuepress": "^1.9.10"
   }
 }
