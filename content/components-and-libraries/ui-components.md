@@ -32,6 +32,9 @@ head:
     - name: twitter:image:src
       content: https://awesome-vue.js.org/hero.png
 ---
+<script setup>
+import { data } from './ui-components.data.js'
+</script>
 
 # UI Components
 
@@ -39,7 +42,7 @@ head:
 
 Tables / data grids
 
-- [vue-cheetah-grid](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
+<ProjectList :items="data.items" />
 
 ## Notification
 
