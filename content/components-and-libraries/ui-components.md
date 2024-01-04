@@ -464,7 +464,7 @@ Display non-editable events in a Calendar
 - [vue-calendar](https://github.com/kylin-z/vue-calendar) - A simple calendar components for Vue 2.1.5+, support custom content. No dependencies.
 - [vue2-event-calendar](https://github.com/kitwon/vue2-event-calendar) - An events calendar for Vue2, support customize event items and calendar header.
 - [vue2-datePicker-infinite](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
-- [vue2-slot-calendar](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
+- [vue3-slot-calendar](https://github.com/icai/vue3-calendar) - A Vue 3 calendar, datepicker component which supported lunar or date event, bootstrap style
 - [quasar-calendar](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
 - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
 - [vue-pikaday](https://github.com/enrian/vue-pikaday) - VueJS wrapper component for [Pikaday](https://github.com/dbushell/Pikaday) datepicker
@@ -552,6 +552,7 @@ Display non-editable events in a Calendar
 - [@grafikri/vue-infinite-scroll](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
 - [vinscroll](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 - [virtual-list](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue 2, Vue 3, TypeScript, SSR, horizontal list, virtual table
+- [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
 
 ## Pull-to-refresh
 
@@ -1050,7 +1051,7 @@ Switch / on/off toggle / checkbox
 - [toast-ui.vue-editor](https://github.com/nhnent/toast-ui.vue-editor) - Vue Wrapper for [TOAST UI Editor](https://ui.toast.com/tui-editor).
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
-- [vue-mathlive](https://github.com/arnog/vue-mathlive) - A MathLive math editor (mathfield) for Vue.hjs
+- [vue-mathlive](https://github.com/arnog/vue-mathlive) - A MathLive math editor (mathfield) for Vue.js
 - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) - Next generation block styled editor for Vue.js
 - [element-tiptap](https://github.com/Leecason/element-tiptap) - A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin
