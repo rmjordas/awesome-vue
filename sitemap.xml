@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://awesome-vue.js.org/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/official-resources.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/external-resources.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/job-portal.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/community.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/conferences.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/podcasts.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/youtube-channels.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/official-examples.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/tutorials.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/examples.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/books.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/resources/blog-posts.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/projects-using-vue-js/open-source.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/projects-using-vue-js/commercial-products.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/projects-using-vue-js/apps-websites.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/projects-using-vue-js/interactive-experiences.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/projects-using-vue-js/enterprise-usage.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/projects-using-vue-js/a11y.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/ui-components.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/ui-layout.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/frameworks.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/ui-utilities.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/utilities.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/integrations.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/dev-tools.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/scaffold.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/runtime.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://awesome-vue.js.org/components-and-libraries/prerendering.html</loc>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
