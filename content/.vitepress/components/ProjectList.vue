@@ -2,7 +2,8 @@
   <ul>
     <li v-for="item in items" :key="item.url">
       <a :href="item.url">{{ item.name }}</a>
-      — {{ item.stars }} stars, updated at <code>{{ item.pushed_at }}</code>
+      — {{ item.github.stars }} stars,
+      latest release <code>{{ item.npmjs.lastRelease }} (at {{ new Date(item.npmjs.lastReleaseAt).toLocaleDateString() }})</code>
       <p>{{ item.description }}</p>
     </li>
   </ul>

@@ -14,5 +14,9 @@
   "devDependencies": {
     "markdownlint-cli": "^0.35.0",
     "vitepress": "^1.0.0-rc.4"
+  },
+  "dependencies": {
+    "cache-manager": "^4.1",
+    "cache-manager-sqlite": "^0.2.0"
   }
 }
