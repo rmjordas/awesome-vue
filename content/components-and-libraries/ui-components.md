@@ -42,24 +42,19 @@ import { data } from './ui-components.data.js'
 
 Tables / data grids
 
-<ProjectList :items="data.items" />
+<ProjectList :items="data.tables" />
 
 ## Notification
 
 Toaster / snackbar — Notify the user with a modeless temporary little popup
 
-- [vue-toaster](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
-- [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
-- [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest
-- [@kyvg/vue3-notification](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+<ProjectList :items="data.notification" />
 
 ## Loader
 
 Loaders / spinners / progress bars — Let the user know that something is loading
 
-- [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
-- [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
-- [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progress bar component
+<ProjectList :items="data.loaders" />
 
 ### Progress Bar
 

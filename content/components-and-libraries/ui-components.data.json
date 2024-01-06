@@ -1,0 +1,49 @@
+{
+  "tables": [
+    {
+      "name": "vue-cheetah-grid",
+      "url": "https://github.com/future-architect/cheetah-grid",
+      "description": "A high-performance grid engine that work on a canvas for Vue.js."
+    }
+  ],
+  "notification": [
+    {
+      "name": "vue-toaster",
+      "url": "https://github.com/MeForma/vue-toaster",
+      "description": "Vue.js toast notification plugin for Vue 3"
+    },
+    {
+      "name": "vue-notification-ui",
+      "url": "https://github.com/HELMAB/vue-notification-ui",
+      "description": "A simple push the notification UI with Vue.js"
+    },
+    {
+      "name": "vue-my-toasts",
+      "url": "https://github.com/Tahul/vue-my-toasts",
+      "description": "Provide your component and let us toast the rest"
+    },
+    {
+      "name": "@kyvg/vue3-notification",
+      "url": "https://github.com/kyvg/vue3-notification",
+      "description": "Vue 3 notification library"
+    }
+  ],
+  "loaders": [
+    {
+      "name": "vue-wait-for",
+      "npmName": "@meforma/vue-wait-for",
+      "url": "https://github.com/MeForma/vue-wait-for",
+      "description": "A loader manager for Vue.js 3 with reactive method"
+    },
+    {
+      "name": "vue-content-loader",
+      "url": "https://github.com/egoist/vue-content-loader",
+      "description": "SVG component to create placeholder loading, like Facebook cards loading"
+    },
+    {
+      "name": "vue3-circle-progress",
+      "url": "https://github.com/delowardev/vue3-circle-progress",
+      "description": "Highly customizable Vue.js 3 circular progress bar component"
+    }
+  ]
+}
