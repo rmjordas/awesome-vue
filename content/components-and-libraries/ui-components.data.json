@@ -1,5 +1,5 @@
 {
-  "tables": [
+  "Table": [
     {
       "name": "vue-cheetah-grid",
       "url": "https://github.com/future-architect/cheetah-grid",
@@ -14,7 +14,7 @@
       }
     }
   ],
-  "notification": [
+  "Notification": [
     {
       "name": "vue-toaster",
       "url": "https://github.com/MeForma/vue-toaster",
@@ -64,19 +64,14 @@
       }
     }
   ],
-  "loaders": [
+  "Loader": [
     {
       "name": "vue-wait-for",
-      "npmName": "@meforma/vue-wait-for",
       "url": "https://github.com/MeForma/vue-wait-for",
       "description": "A loader manager for Vue.js 3 with reactive method",
       "github": {
         "stars": 12,
         "pushedAt": "2021-01-13T14:00:53Z"
-      },
-      "npmjs": {
-        "lastRelease": "0.0.2",
-        "lastReleaseAt": "2021-01-13T13:58:19.999Z"
       }
     },
     {
@@ -103,6 +98,1128 @@
       "npmjs": {
         "lastRelease": "1.0.7",
         "lastReleaseAt": "2021-11-25T03:20:43.674Z"
+      }
+    }
+  ],
+  "Progress Bar": [
+    {
+      "name": "vue-next-progressbar",
+      "url": "https://github.com/jambonn/vue-next-progressbar",
+      "description": "Slim progress bars (1KB gzipped) for Vue 3",
+      "github": {
+        "stars": 8,
+        "pushedAt": "2023-06-30T08:09:31Z"
+      }
+    },
+    {
+      "name": "vue3-progress",
+      "url": "https://github.com/marcoschulte/vue3-progress",
+      "description": "Fully customizable Vue 3 plugin to display a progress bar while waiting for something, e.g. HTTP requests",
+      "github": {
+        "stars": 24,
+        "pushedAt": "2022-08-06T07:57:06Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.0.1-beta4",
+        "lastReleaseAt": "2022-05-22T09:15:46.791Z"
+      }
+    }
+  ],
+  "Tooltip": [
+    {
+      "name": "v-tooltip",
+      "url": "https://github.com/Akryum/vue-tooltip",
+      "description": "Easy tooltips with Vue 2.x.",
+      "npmjs": {
+        "lastRelease": "3.0.0-beta.20",
+        "lastReleaseAt": "2022-01-13T20:45:12.178Z"
+      }
+    },
+    {
+      "name": "@adamdehaven/vue-custom-tooltip",
+      "url": "https://github.com/adamdehaven/vue-custom-tooltip",
+      "description": "Vue 2 & 3 customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)",
+      "github": {
+        "stars": 62,
+        "pushedAt": "2022-12-14T00:58:07Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.6.0",
+        "lastReleaseAt": "2021-10-06T14:53:30.497Z"
+      }
+    },
+    {
+      "name": "vue-use-popperjs",
+      "url": "https://github.com/iendeavor/vue-use-popperjs",
+      "description": "Vue 2 & 3 Popper hook powered by Popper.js",
+      "github": {
+        "stars": 24,
+        "pushedAt": "2023-07-01T17:14:39Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.0.0-alpha.3",
+        "lastReleaseAt": "2023-07-01T16:56:59.972Z"
+      }
+    },
+    {
+      "name": "vue-follow-tooltip",
+      "url": "https://github.com/gVguy/vue-follow-tooltip",
+      "description": "Tiny tooltip directive for Vue 3",
+      "github": {
+        "stars": 4,
+        "pushedAt": "2021-10-17T10:10:17Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.0",
+        "lastReleaseAt": "2021-10-16T19:43:36.698Z"
+      }
+    },
+    {
+      "name": "Tippy.vue",
+      "url": "https://github.com/thecodewarrior/Tippy.vue",
+      "description": "Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips",
+      "github": {
+        "stars": 25,
+        "pushedAt": "2022-06-27T16:50:16Z"
+      }
+    }
+  ],
+  "Overlay": [
+    {
+      "name": "vue-final-modal",
+      "url": "https://github.com/hunterliu1003/vue-final-modal",
+      "description": "Tailwind-friendly, highly customizable, stackable modal component",
+      "npmjs": {
+        "lastRelease": "4.5.3",
+        "lastReleaseAt": "2023-12-15T04:51:27.384Z"
+      }
+    },
+    {
+      "name": "vuesence-modal-window",
+      "url": "https://github.com/altrusl/vuesence-modal-window",
+      "description": "Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only"
+    },
+    {
+      "name": "vue-it-bigger",
+      "url": "https://github.com/haiafara/vue-it-bigger",
+      "description": "A simple image / (YouTube) video lightbox component for Vue.js",
+      "github": {
+        "stars": 189,
+        "pushedAt": "2023-07-18T22:35:04Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.2",
+        "lastReleaseAt": "2023-01-20T19:18:49.742Z"
+      }
+    },
+    {
+      "name": "v3confirm",
+      "url": "https://github.com/malekim/v3confirm",
+      "description": "A plugin dedicated for Vue 3 to show confirm dialog modal",
+      "github": {
+        "stars": 4,
+        "pushedAt": "2022-05-20T15:56:03Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.1",
+        "lastReleaseAt": "2021-05-30T21:44:38.733Z"
+      }
+    },
+    {
+      "name": "vue3-promise-dialog",
+      "url": "https://github.com/rlemaigre/vue3-promise-dialog",
+      "description": "Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease",
+      "github": {
+        "stars": 62,
+        "pushedAt": "2023-08-13T09:02:15Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.4",
+        "lastReleaseAt": "2022-04-21T12:01:18.940Z"
+      }
+    }
+  ],
+  "Icons": [
+    {
+      "name": "vue-feather",
+      "url": "https://github.com/fengyuanchen/vue-feather",
+      "description": "Feather icons component for Vue 3",
+      "github": {
+        "stars": 143,
+        "pushedAt": "2022-04-11T22:08:45Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.0",
+        "lastReleaseAt": "2022-02-07T10:40:59.052Z"
+      }
+    },
+    {
+      "name": "eos-icons-vue",
+      "url": "https://github.com/EOS-uiux-Solutions/eos-icons-vue",
+      "description": "Eos icons npm package for Vue 3, [eos-icons-vue2](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2",
+      "github": {
+        "stars": 4,
+        "pushedAt": "2022-10-10T13:58:55Z"
+      }
+    },
+    {
+      "name": "vue-icomoon",
+      "url": "https://github.com/aykutkardas/vue-icomoon",
+      "description": "With vue-icomoon you can easily use the icons you have selected or created in icomoon",
+      "github": {
+        "stars": 24,
+        "pushedAt": "2023-02-05T06:47:38Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.6.1",
+        "lastReleaseAt": "2023-02-05T06:47:42.425Z"
+      }
+    }
+  ],
+  "Marquee": [
+    {
+      "name": "vue3-marquee",
+      "url": "https://github.com/megasanjay/vue3-marquee",
+      "description": "A simple and responsive marquee component for Vue 3 applications with 0 dependencies",
+      "github": {
+        "stars": 365,
+        "pushedAt": "2024-01-07T10:06:25Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.1.0",
+        "lastReleaseAt": "2023-09-20T05:37:34.234Z"
+      }
+    }
+  ],
+  "Menu": [
+    {
+      "name": "vue-file-toolbar-menu",
+      "url": "https://github.com/motla/vue-file-toolbar-menu",
+      "description": "UI file/toolbar menus for Vue apps",
+      "github": {
+        "stars": 140,
+        "pushedAt": "2024-01-04T14:33:37Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.2.0",
+        "lastReleaseAt": "2022-11-20T20:35:25.502Z"
+      }
+    },
+    {
+      "name": "vue-bottom-sheet",
+      "url": "https://github.com/webzlodimir/vue-bottom-sheet",
+      "description": "A swipeable bottom sheet component for Vue.js created with Hammer.js",
+      "npmjs": {
+        "lastRelease": "unpublished",
+        "lastReleaseAt": {
+          "time": "2020-07-03T15:03:38.432Z",
+          "versions": [
+            "0.4.0",
+            "1.0.0",
+            "1.0.1",
+            "1.1.0",
+            "1.1.1",
+            "1.2.1",
+            "1.2.2",
+            "1.2.3"
+          ]
+        }
+      }
+    },
+    {
+      "name": "SDropdown",
+      "url": "https://github.com/storinka/dropdown",
+      "description": "Highly customizable, simple and modern Vue 3 dropdown component",
+      "github": {
+        "stars": 6,
+        "pushedAt": "2021-11-08T15:11:26Z"
+      }
+    }
+  ],
+  "Minus Plus Input": [
+    {
+      "name": "vue-numeric-input",
+      "url": "https://github.com/JayeshLab/vue-numeric-input",
+      "description": "Number input component with controls.",
+      "github": {
+        "stars": 77,
+        "pushedAt": "2023-04-29T01:33:26Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.0",
+        "lastReleaseAt": "2021-09-29T11:44:09.519Z"
+      }
+    }
+  ],
+  "Carousel": [
+    {
+      "name": "slither-slider",
+      "url": "https://github.com/dolbex/slither-slider",
+      "description": "Carousel for images, videos, or components. Throw pretty much anything you want at it",
+      "github": {
+        "stars": 38,
+        "pushedAt": "2022-04-28T14:46:02Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.11.0",
+        "lastReleaseAt": "2021-06-01T17:10:18.272Z"
+      }
+    },
+    {
+      "name": "vue-slick-carousel",
+      "url": "https://github.com/gs-shop/vue-slick-carousel",
+      "description": "A carousel with slick features & SSR support written for faster Luxstay",
+      "github": {
+        "stars": 777,
+        "pushedAt": "2023-12-21T07:49:33Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.6",
+        "lastReleaseAt": "2020-07-05T01:20:56.960Z"
+      }
+    },
+    {
+      "name": "@jfm/vue-carousel",
+      "url": "https://github.com/jiangfengming/vue-carousel",
+      "description": "A Vue carousel component",
+      "github": {
+        "stars": 1,
+        "pushedAt": "2020-08-11T10:27:29Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.0",
+        "lastReleaseAt": "2020-08-11T10:27:36.343Z"
+      }
+    },
+    {
+      "name": "vue-snap",
+      "url": "https://github.com/bartdominiak/vue-snap",
+      "description": "Lightweight Carousel based on Scroll Snap CSS",
+      "github": {
+        "stars": 163,
+        "pushedAt": "2022-12-17T21:26:09Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.7.1",
+        "lastReleaseAt": "2021-05-07T18:04:57.363Z"
+      }
+    },
+    {
+      "name": "vuerollr",
+      "url": "https://github.com/japick/vuerollr",
+      "description": "Mouseover gallery plugin for Vue.js. Supports image and video",
+      "github": {
+        "stars": 23,
+        "pushedAt": "2023-01-06T09:40:56Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.3",
+        "lastReleaseAt": "2020-07-03T09:15:53.077Z"
+      }
+    },
+    {
+      "name": "vue-splide",
+      "url": "https://github.com/Splidejs/vue-splide",
+      "description": "Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide",
+      "github": {
+        "stars": 308,
+        "pushedAt": "2023-11-08T07:35:57Z"
+      }
+    },
+    {
+      "name": "swiper",
+      "url": "https://github.com/nolimits4web/swiper",
+      "description": "Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more",
+      "github": {
+        "stars": 37639,
+        "pushedAt": "2024-01-03T09:09:57Z"
+      },
+      "npmjs": {
+        "lastRelease": "11.0.5",
+        "lastReleaseAt": "2023-11-22T12:52:23.179Z"
+      }
+    },
+    {
+      "name": "vue-split-carousel",
+      "url": "https://github.com/Aaron00101010/vue-split-carousel",
+      "description": "A carousel component meanwhile display several carousel item, supports Vue 2 and Vue 3",
+      "npmjs": {
+        "lastRelease": "3.0.2",
+        "lastReleaseAt": "2023-08-29T03:35:33.049Z"
+      }
+    },
+    {
+      "name": "vue-concise-carousel",
+      "url": "https://github.com/jambonn/vue-concise-carousel",
+      "description": "Vue Concise Carousel with True SSR. Works for Vue 2 & 3",
+      "github": {
+        "stars": 17,
+        "pushedAt": "2023-09-11T09:54:07Z"
+      }
+    }
+  ],
+  "Charts": [
+    {
+      "name": "vue-echarts",
+      "url": "https://github.com/ecomfe/vue-echarts",
+      "description": "The official Vue.js wrapper component for Apache ECharts",
+      "github": {
+        "stars": 8944,
+        "pushedAt": "2024-01-02T04:32:10Z"
+      },
+      "npmjs": {
+        "lastRelease": "6.6.8",
+        "lastReleaseAt": "2023-12-27T07:59:27.386Z"
+      }
+    },
+    {
+      "name": "jscharting-vue",
+      "url": "https://github.com/jscharting/jscharting-vue",
+      "description": "Vue chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/)",
+      "github": {
+        "stars": 53,
+        "pushedAt": "2023-03-01T17:17:32Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.4.0",
+        "lastReleaseAt": "2023-03-01T17:08:59.361Z"
+      }
+    },
+    {
+      "name": "flowchart-vue",
+      "url": "https://github.com/joyceworks/flowchart-vue",
+      "description": "Flowchart & Flowchart designer component for Vue.js",
+      "github": {
+        "stars": 320,
+        "pushedAt": "2023-11-02T20:21:04Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.32.0",
+        "lastReleaseAt": "2023-11-02T14:20:43.214Z"
+      }
+    },
+    {
+      "name": "vue-d3-barchart",
+      "url": "https://github.com/emiliorizzo/vue-d3-barchart",
+      "description": "Small component to draw charts using d3",
+      "github": {
+        "stars": 16,
+        "pushedAt": "2023-01-06T01:34:52Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.0.28",
+        "lastReleaseAt": "2020-05-21T18:42:20.155Z"
+      }
+    },
+    {
+      "name": "vue3-highcharts",
+      "url": "https://github.com/smithalan92/vue3-highcharts",
+      "description": "A Highcharts.JS wrapper component for Vue 3",
+      "github": {
+        "stars": 43,
+        "pushedAt": "2022-03-12T14:52:20Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.3",
+        "lastReleaseAt": "2020-09-23T15:58:47.961Z"
+      }
+    },
+    {
+      "name": "echarts-for-vue",
+      "url": "https://github.com/ambit-tsai/echarts-for-vue",
+      "description": "ECharts Wrapper Component For Vue 3 and 2",
+      "github": {
+        "stars": 78,
+        "pushedAt": "2021-06-08T13:00:53Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.4.1",
+        "lastReleaseAt": "2021-06-08T06:21:18.471Z"
+      }
+    },
+    {
+      "name": "vue3-chart-v2",
+      "url": "https://github.com/vutran6853/vue3-chart-v2",
+      "description": "Vue wrapper component base on Chart.js for Vue 3",
+      "github": {
+        "stars": 37,
+        "pushedAt": "2021-10-20T10:47:24Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.8.3",
+        "lastReleaseAt": "2021-08-31T05:40:21.052Z"
+      }
+    },
+    {
+      "name": "vue-gauge",
+      "url": "https://github.com/chrisheanan/vue-gauge",
+      "description": "Vue.js component to create animated SVG gauge charts",
+      "github": {
+        "stars": 13,
+        "pushedAt": "2020-11-29T23:56:14Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.3",
+        "lastReleaseAt": "2020-07-16T14:34:29.213Z"
+      }
+    }
+  ],
+  "Time": [
+    {
+      "name": "vue-horizontal-timeline",
+      "url": "https://github.com/guastallaigor/vue-horizontal-timeline",
+      "description": "Just a simple horizontal timeline component made with Vue.js",
+      "github": {
+        "stars": 97,
+        "pushedAt": "2022-12-13T22:22:31Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.12.0",
+        "lastReleaseAt": "2021-12-08T00:13:10.317Z"
+      }
+    },
+    {
+      "name": "vue-timer-hook",
+      "url": "https://github.com/riderx/vue-timer-hook",
+      "description": "Vue 3 Timer module inspired by react-timer-hook",
+      "github": {
+        "stars": 162,
+        "pushedAt": "2024-01-05T21:55:56Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.84",
+        "lastReleaseAt": "2023-05-22T09:58:18.778Z"
+      }
+    },
+    {
+      "name": "vue3-flip-countdown",
+      "url": "https://github.com/coskuncayemre/vue3-flip-countdown",
+      "description": "Customize countdown timer with flip animation for Vue 3.x",
+      "npmjs": {
+        "lastRelease": "0.1.6",
+        "lastReleaseAt": "2021-12-17T11:49:50.439Z"
+      }
+    }
+  ],
+  "Map": [
+    {
+      "name": "vue-cesium",
+      "url": "https://github.com/zouyaoji/vue-cesium",
+      "description": "Vue 2.x & Vue 3.x components for Cesium",
+      "github": {
+        "stars": 1234,
+        "pushedAt": "2024-01-04T01:56:20Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.2.5",
+        "lastReleaseAt": "2023-12-27T02:56:19.643Z"
+      }
+    },
+    {
+      "name": "vue3-openlayers",
+      "url": "https://github.com/MelihAltintas/vue3-openlayers",
+      "description": "Vue 3 components to work with OpenLayers",
+      "github": {
+        "stars": 557,
+        "pushedAt": "2023-12-30T10:59:03Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.0.1",
+        "lastReleaseAt": "2023-12-18T21:18:21.856Z"
+      }
+    },
+    {
+      "name": "vue-mars3d",
+      "url": "https://github.com/marsgis/mars3d-vue-template",
+      "description": "Vue 2.x 3D earth visualization JS development platform",
+      "github": {
+        "stars": 51,
+        "pushedAt": "2023-12-12T07:23:03Z"
+      }
+    },
+    {
+      "name": "vue-leaflet-custom-marker",
+      "url": "https://github.com/eregnier/vue-leaflet-custom-marker",
+      "description": "Vue leaflet for OpenStreetMap custom marker component",
+      "github": {
+        "stars": 3,
+        "pushedAt": "2021-11-26T13:13:02Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.0",
+        "lastReleaseAt": "2021-11-03T22:51:10.715Z"
+      }
+    }
+  ],
+  "Audio / Video": [
+    {
+      "name": "vue-use-sound",
+      "url": "https://github.com/Tahul/vue-use-sound",
+      "description": "A Vue Hook for playing sound effects",
+      "npmjs": {
+        "lastRelease": "1.1.1",
+        "lastReleaseAt": "2021-01-13T15:30:25.075Z"
+      }
+    },
+    {
+      "name": "vue-flv-player",
+      "url": "https://github.com/wangdaodao/vue-flv-player",
+      "description": "An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js",
+      "github": {
+        "stars": 16,
+        "pushedAt": "2021-06-24T03:44:04Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.3",
+        "lastReleaseAt": "2021-01-13T02:35:49.496Z"
+      }
+    },
+    {
+      "name": "vue-audio-tapir",
+      "url": "https://github.com/tderflinger/vue-audio-tapir",
+      "description": "Audio recorder component for Vue 3 that enables to record, play and send audio messages to a server.",
+      "github": {
+        "stars": 38,
+        "pushedAt": "2023-05-30T06:14:41Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.5.0",
+        "lastReleaseAt": "2022-09-11T19:02:47.058Z"
+      }
+    }
+  ],
+  "PDF": [
+    {
+      "name": "vue-pdf-embed",
+      "url": "https://github.com/hrynko/vue-pdf-embed",
+      "description": "PDF embed component for Vue 2 and Vue 3",
+      "github": {
+        "stars": 477,
+        "pushedAt": "2023-12-23T07:40:36Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.2.1",
+        "lastReleaseAt": "2023-09-27T09:30:25.465Z"
+      }
+    }
+  ],
+  "Tree": [
+    {
+      "name": "vue-finder",
+      "url": "https://github.com/jledentu/vue-finder",
+      "description": "A component to display hierarchical data, with selection, filtering and drag & drop",
+      "github": {
+        "stars": 158,
+        "pushedAt": "2023-12-22T08:12:22Z"
+      }
+    },
+    {
+      "name": "vue3-router-tree",
+      "url": "https://github.com/boussadjra/vue3-router-tree",
+      "description": "This component is based on Vue.js 3, it represents your routes or items as a tree view",
+      "github": {
+        "stars": 32,
+        "pushedAt": "2021-01-10T23:32:09Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.4",
+        "lastReleaseAt": "2021-01-10T23:14:19.449Z"
+      }
+    },
+    {
+      "name": "object-visualizer",
+      "url": "https://github.com/iendeavor/object-visualizer",
+      "description": "Vue 3 JSON inspector with Chrome-like theme",
+      "github": {
+        "stars": 218,
+        "pushedAt": "2024-01-03T00:08:13Z"
+      },
+      "npmjs": {
+        "lastRelease": "5.0.0",
+        "lastReleaseAt": "2022-12-04T04:33:37.633Z"
+      }
+    },
+    {
+      "name": "vue-virtual-tree",
+      "url": "https://github.com/lycHub/vue-virtual-tree",
+      "description": "Tree component for large amount of data, base on Vue 3",
+      "github": {
+        "stars": 61,
+        "pushedAt": "2022-04-23T20:35:48Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.0.7",
+        "lastReleaseAt": "2022-03-25T12:09:33.117Z"
+      }
+    }
+  ],
+  "Graphs": [
+    {
+      "name": "vnodes",
+      "url": "https://github.com/txlabs/vnodes",
+      "description": "General purpose components to create SVG interactive graphs, diagrams or node based visual tools",
+      "npmjs": {
+        "lastRelease": "1.3.2",
+        "lastReleaseAt": "2023-06-03T17:56:53.075Z"
+      }
+    },
+    {
+      "name": "v-network-graph",
+      "url": "https://github.com/dash14/v-network-graph",
+      "description": "An interactive SVG based network-graph visualization component for Vue 3",
+      "github": {
+        "stars": 420,
+        "pushedAt": "2023-12-20T14:17:26Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.9.14",
+        "lastReleaseAt": "2023-12-20T14:15:27.406Z"
+      }
+    },
+    {
+      "name": "coya",
+      "url": "https://github.com/AlexanderMykulych/coya",
+      "description": "Diagram drawing library (Vue 3 only)",
+      "github": {
+        "stars": 63,
+        "pushedAt": "2023-05-22T15:21:56Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.9.20",
+        "lastReleaseAt": "2022-02-03T14:58:57.315Z"
+      }
+    }
+  ],
+  "Social Sharing": [
+    {
+      "name": "vue-socials",
+      "url": "https://github.com/webistomin/vue-socials",
+      "description": "Social media share buttons and counts for Vue.js",
+      "github": {
+        "stars": 40,
+        "pushedAt": "2024-01-02T16:05:15Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.4",
+        "lastReleaseAt": "2023-08-28T05:17:49.916Z"
+      }
+    }
+  ],
+  "QR Code": [
+    {
+      "name": "vue3-qr-reader",
+      "url": "https://github.com/HJ29/vue3-qr-reader",
+      "description": "A Vue 3 QR reader component. Refactor vue-qrcode-reader for Vue 3 compatibility",
+      "github": {
+        "stars": 86,
+        "pushedAt": "2023-08-24T10:18:11Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.0",
+        "lastReleaseAt": "2021-07-18T12:08:51.046Z"
+      }
+    }
+  ],
+  "Search": [
+    {
+      "name": "vue-json-search",
+      "url": "https://github.com/Uninen/vue-json-search",
+      "description": "Headless Vue 3.x component for easy and simple JSON-based search",
+      "github": {
+        "stars": 13,
+        "pushedAt": "2024-01-07T11:11:26Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.1",
+        "lastReleaseAt": "2022-02-27T03:47:15.491Z"
+      }
+    }
+  ],
+  "Miscellaneous UI Components": [
+    {
+      "name": "vue-copy-to-clipboard",
+      "url": "https://github.com/meforma/vue-copy-to-clipboard",
+      "description": "Vue.js 3 plugin to copy text to clipboard (Vue 3)",
+      "github": {
+        "stars": 12,
+        "pushedAt": "2023-10-10T15:40:52Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.3",
+        "lastReleaseAt": "2020-07-09T16:11:03.647Z"
+      }
+    },
+    {
+      "name": "vue-advanced-chat",
+      "url": "https://github.com/antoine92190/vue-advanced-chat",
+      "description": "Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.",
+      "npmjs": {
+        "lastRelease": "2.0.10",
+        "lastReleaseAt": "2023-12-01T18:36:49.044Z"
+      }
+    },
+    {
+      "name": "vue-visual-filter",
+      "url": "https://github.com/obadakhalili/vue-visual-filter",
+      "description": "An unopinionated advanced visual filtering component for Vue 2 and 3",
+      "npmjs": {
+        "lastRelease": "unpublished",
+        "lastReleaseAt": {
+          "time": "2021-04-20T13:41:05.856Z",
+          "versions": [
+            "0.8.0",
+            "0.8.1",
+            "0.8.2",
+            "0.8.4",
+            "0.8.5",
+            "0.8.6"
+          ]
+        }
+      }
+    },
+    {
+      "name": "vue-easter-egg-trigger",
+      "url": "https://github.com/webdevnerdstuff/vue-easter-egg-trigger",
+      "description": "This packages makes it nice and easy to add Easter Egg triggers to your Vue site",
+      "github": {
+        "stars": 8,
+        "pushedAt": "2023-08-03T05:55:59Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.2",
+        "lastReleaseAt": "2023-02-11T23:58:05.871Z"
+      }
+    },
+    {
+      "name": "vue-word-highlighter",
+      "url": "https://github.com/kawamataryo/vue-word-highlighter",
+      "description": "The word highlighter library for Vue 2 and Vue 3",
+      "github": {
+        "stars": 227,
+        "pushedAt": "2024-01-06T17:29:46Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.2.3",
+        "lastReleaseAt": "2023-02-04T05:51:06.728Z"
+      }
+    },
+    {
+      "name": "vue3-emoji-picker",
+      "url": "https://github.com/delowardev/vue3-emoji-picker",
+      "description": "Simple and powerful emoji picker for Vue 3",
+      "github": {
+        "stars": 139,
+        "pushedAt": "2023-10-16T11:40:59Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.8",
+        "lastReleaseAt": "2023-10-11T18:53:22.399Z"
+      }
+    }
+  ],
+  "Tabs": [
+    {
+      "name": "vue3-tabs",
+      "url": "https://github.com/HJ29/vue3-tabs",
+      "description": "A touch swipe tabs component for vue 3",
+      "github": {
+        "stars": 38,
+        "pushedAt": "2022-04-16T06:56:26Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.13-beta.3",
+        "lastReleaseAt": "2022-04-16T06:50:27.372Z"
+      }
+    },
+    {
+      "name": "vue3-tabs-chrome",
+      "url": "https://github.com/viewweiwu/vue3-tabs-chrome",
+      "description": "A Vue 3 component for Chrome-like tabs",
+      "github": {
+        "stars": 88,
+        "pushedAt": "2023-10-16T13:43:44Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.3",
+        "lastReleaseAt": "2023-10-16T13:42:05.519Z"
+      }
+    }
+  ],
+  "Phone Number Input Formatter": [
+    {
+      "name": "vue-tel-input",
+      "url": "https://github.com/EducationLink/vue-tel-input",
+      "description": "International Telephone Input with Vue",
+      "npmjs": {
+        "lastRelease": "5.15.0",
+        "lastReleaseAt": "2023-12-18T06:44:41.815Z"
+      }
+    }
+  ],
+  "Picker": [
+    {
+      "name": "vue3-scroll-picker",
+      "url": "https://github.com/HJ29/vue3-scroll-picker",
+      "description": "A scroll picker component for Vue 3",
+      "github": {
+        "stars": 25,
+        "pushedAt": "2021-04-23T12:25:46Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.15",
+        "lastReleaseAt": "2021-04-23T12:27:36.349Z"
+      }
+    }
+  ],
+  "Generator": [
+    {
+      "name": "vue3-otp-input",
+      "url": "https://github.com/ejirocodes/vue3-otp-input",
+      "description": "A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API",
+      "github": {
+        "stars": 83,
+        "pushedAt": "2023-10-31T04:10:52Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.4.1",
+        "lastReleaseAt": "2023-03-28T07:55:25.059Z"
+      }
+    }
+  ],
+  "Date Picker": [
+    {
+      "name": "vue-datepicker",
+      "url": "https://github.com/Vuepic/vue-datepicker",
+      "description": "The most complete date picker solution for Vue 3",
+      "github": {
+        "stars": 1159,
+        "pushedAt": "2024-01-05T14:38:58Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.3.0",
+        "lastReleaseAt": "2016-10-18T03:05:38.705Z"
+      }
+    },
+    {
+      "name": "vue-datepicker-next",
+      "url": "https://github.com/mengxiong10/vue-datepicker-next",
+      "description": "Vue 3.x component for datepicker / timepicker / datetimepicker / calendar",
+      "github": {
+        "stars": 123,
+        "pushedAt": "2023-08-25T10:31:28Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.3",
+        "lastReleaseAt": "2023-03-13T07:14:59.607Z"
+      }
+    }
+  ],
+  "Select": [
+    {
+      "name": "vue-selectize",
+      "url": "https://github.com/isneezy/vue-selectize",
+      "description": "A Vue.js component wrapper around Selectize.js, a vanilla JS select component",
+      "github": {
+        "stars": 77,
+        "pushedAt": "2023-04-21T07:53:44Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.0.3",
+        "lastReleaseAt": "2015-09-17T07:01:13.733Z"
+      }
+    },
+    {
+      "name": "@vueform/multiselect",
+      "url": "https://github.com/vueform/multiselect",
+      "description": "Vue 3 multiselect component with single select, multiselect and tagging options",
+      "github": {
+        "stars": 732,
+        "pushedAt": "2023-11-08T22:17:49Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.6.6",
+        "lastReleaseAt": "2023-10-18T09:25:16.703Z"
+      }
+    }
+  ],
+  "Slider": [
+    {
+      "name": "@vueform/slider",
+      "url": "https://github.com/vueform/slider",
+      "description": "Vue 3 slider component with multihandles, tooltips merging and formatting",
+      "github": {
+        "stars": 253,
+        "pushedAt": "2023-12-12T07:22:52Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.1.10",
+        "lastReleaseAt": "2023-12-12T07:23:06.311Z"
+      }
+    }
+  ],
+  "Drag and Drop": [
+    {
+      "name": "vuedraggable",
+      "url": "https://github.com/SortableJS/Vue.Draggable",
+      "description": "Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js.",
+      "github": {
+        "stars": 19485,
+        "pushedAt": "2023-08-16T10:46:13Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.1.0",
+        "lastReleaseAt": "2021-08-22T22:34:27.877Z"
+      }
+    }
+  ],
+  "Switch": [
+    {
+      "name": "@vueform/toggle",
+      "url": "https://github.com/vueform/toggle",
+      "description": "Vue 3 toggle component with labels, custom slots and styling options",
+      "github": {
+        "stars": 99,
+        "pushedAt": "2023-10-19T06:33:20Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.1.4",
+        "lastReleaseAt": "2023-10-14T08:45:33.864Z"
+      }
+    }
+  ],
+  "Rich Text Editing": [
+    {
+      "name": "vue-quill",
+      "url": "https://github.com/vueup/vue-quill",
+      "description": "A Vue 3 rich text editor component based on Quill Editor",
+      "github": {
+        "stars": 882,
+        "pushedAt": "2024-01-05T23:16:54Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.5.1",
+        "lastReleaseAt": "2019-02-19T08:50:13.006Z"
+      }
+    }
+  ],
+  "Image Manipulation": [
+    {
+      "name": "vue-picture-cut",
+      "url": "https://github.com/987153776/vue-picture-cut",
+      "description": "Image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip",
+      "github": {
+        "stars": 80,
+        "pushedAt": "2022-10-19T07:15:23Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.18-alpha.1",
+        "lastReleaseAt": "2022-10-19T07:12:09.205Z"
+      }
+    },
+    {
+      "name": "vue-img-cutter",
+      "url": "https://github.com/acccccccb/vue-img-cutter",
+      "description": "A vue plugin for image cutting tool,it's very convenient to use",
+      "github": {
+        "stars": 444,
+        "pushedAt": "2023-12-30T01:34:54Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.2.7",
+        "lastReleaseAt": "2023-07-22T11:13:19.880Z"
+      }
+    },
+    {
+      "name": "vue-image-kit",
+      "url": "https://github.com/guastallaigor/vue-image-kit",
+      "description": "Vue.js Image Kit Component with Lazy Load built in and Responsive Images",
+      "github": {
+        "stars": 10,
+        "pushedAt": "2022-12-13T20:06:47Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.2",
+        "lastReleaseAt": "2021-02-07T14:15:25.631Z"
+      }
+    }
+  ],
+  "File Upload": [
+    {
+      "name": "vue-dropify",
+      "url": "https://github.com/khofaai/vue-dropify",
+      "description": "A simple image dropzone component for Vue.js",
+      "github": {
+        "stars": 17,
+        "pushedAt": "2022-09-16T05:40:16Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.8.3",
+        "lastReleaseAt": "2021-09-20T12:23:17.111Z"
+      }
+    }
+  ],
+  "Miscellaneous Form Components": [
+    {
+      "name": "vue-paycard",
+      "url": "https://github.com/guastallaigor/vue-paycard",
+      "description": "Credit card component made with Vue.js",
+      "github": {
+        "stars": 104,
+        "pushedAt": "2023-08-14T12:26:25Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.7.0",
+        "lastReleaseAt": "2021-12-07T15:02:20.718Z"
+      }
+    },
+    {
+      "name": "vue-list-picker",
+      "url": "https://github.com/guastallaigor/vue-list-picker",
+      "description": "Just a simple list picker component made with Vue.js",
+      "github": {
+        "stars": 15,
+        "pushedAt": "2022-12-14T18:08:21Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.0",
+        "lastReleaseAt": "2021-12-08T22:10:42.322Z"
+      }
+    },
+    {
+      "name": "v-use-places-autocomplete",
+      "url": "https://github.com/wobsoriano/v-use-places-autocomplete",
+      "description": "Vue composable for Google Maps Places Autocomplete",
+      "npmjs": {
+        "lastRelease": "1.0.1",
+        "lastReleaseAt": "2021-09-10T05:08:05.586Z"
+      }
+    }
+  ],
+  "Canvas": [
+    {
+      "name": "vue3-signature",
+      "url": "https://github.com/WangShayne/vue3-signature",
+      "description": "An electronic signature component for Vue 3",
+      "github": {
+        "stars": 53,
+        "pushedAt": "2023-09-22T08:43:36Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.3",
+        "lastReleaseAt": "2023-09-22T08:43:30.727Z"
+      }
+    },
+    {
+      "name": "v-perfect-signature",
+      "url": "https://github.com/wobsoriano/v-perfect-signature",
+      "description": "Pressure-sensitive signature drawing for Vue 2 and 3",
+      "github": {
+        "stars": 206,
+        "pushedAt": "2023-12-14T05:37:32Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.4.0",
+        "lastReleaseAt": "2023-12-14T05:37:48.709Z"
       }
     }
   ]

@@ -3,7 +3,6 @@
 import fs from "node:fs/promises"
 
 import {glob} from "glob"
-import ProgressBar from "progress"
 import sqliteStore from "cache-manager-sqlite"
 import cacheManager from "cache-manager"
 import {Octokit} from "octokit"
@@ -17,6 +16,13 @@ const cache = cacheManager.caching({
   path: "/tmp/cache.db",
   ttl: 864000 * 1000, // Ten days in milliseconds.
 });
+
+// https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color
+const colors = {
+  Reset: "\x1b[0m",
+  FgRed: "\x1b[31m",
+  FgGreen: "\x1b[32m",
+};
 
 (async function main() {
   const inputFiles = await glob("content/*/*.data.json")
@@ -34,26 +40,30 @@ const handleFile = async (fname: string) => {
   const src = await fs.readFile(fname, {encoding: 'utf-8'})
   const srcData: JsonDataFile = JSON.parse(src)
 
-  const bar = new ProgressBar('[:bar] [:current/:total]', {
-    total: Object.values(srcData).map(l => l.length).reduce((c, a) => c + a, 0),
-    width: 40,
-    // https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color
-    complete: '\x1b[32m━\x1b[0m',
-    incomplete: '\x1b[90m━\x1b[0m',
-  });
+  const total = Object.values(srcData).map(l => l.length).reduce((c, a) => c + a, 0)
+  const okSign = `${colors.FgGreen}✓${colors.Reset}`
+  const errorSign = `${colors.FgRed}𐄂${colors.Reset}`
+  var currentItem = 0
 
   async function handleItem(item: PlainItem) {
-    const handleError = (err) => {
-      console.error("Failed to load data for", item.name, err)
-      return undefined
+    const wrap = (p: Promise<any>, sourceName: string) => {
+      return p.then((r) => {
+        console.info(` ${sourceName} ${okSign}`)
+        return r
+      }).catch((err) => {
+        console.error(` ${sourceName} ${errorSign}: ${err}`)
+        return undefined
+      })
     }
+    currentItem++
+
+    console.log(`[${currentItem}/${total}] ${item.name}…`)
 
     const [github, npmjs] = await Promise.all([
-      fetchGithubData(item).catch(handleError),
-      fetchNpmjsData(item).catch(handleError),
+      wrap(fetchGithubData(item), 'github'),
+      wrap(fetchNpmjsData(item), 'npmjs'),
     ])
 
-    bar.tick(1, undefined)
 
     return {
       ...item,
@@ -123,11 +133,15 @@ async function fetchGithubData(item: PlainItem) {
  */
 async function fetchNpmjsData(item: PlainItem) {
   const name = item.npmName || item.name
-  const url = `https://registry.npmjs.org/${name}`;
-  const data: {
-    time: Record<string, string>;
+  const url = `https://registry.npmjs.org/${name}`
+  const {time, error}: {
+    time?: Record<string, string>,
+    error?: string
   } = await fetchJson(url);
-  const releases = Object.entries(data.time);
+  if (error) {
+    throw new Error(error)
+  }
+  const releases = Object.entries(time);
   const [lastRelease, lastReleaseAt] = releases[releases.length - 1];
   return {
     lastRelease,
