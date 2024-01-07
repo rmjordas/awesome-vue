@@ -61,6 +61,9 @@ To update GitHub and npmjs stats for packages, use:
 npm run fetch-data
 ```
 
+When adding a package to .data.json file, skip `github` and `nodejs` fields, and
+then run `fetch-data` script.
+
 ## Scripts
 
 | Script    | Description                                             |
