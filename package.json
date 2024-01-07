@@ -9,6 +9,7 @@
     "build": "vitepress build content",
     "preview": "vitepress preview content",
     "lint": "markdownlint . -i node_modules",
+    "fetch-data": "tsx fetch-data.ts",
     "test": "npm run lint"
   },
   "devDependencies": {
