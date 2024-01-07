@@ -7,7 +7,7 @@ import fs from "node:fs/promises"
  */
 export const awesomeItemsLoader = (fname: string) => ({
   async load() {
-    const src = await fs.readFile(fname.replace(/.data.js$/, '.data-rich.json'), {encoding: 'utf-8'})
+    const src = await fs.readFile(fname.replace(/.data.js$/, '.data.json'), {encoding: 'utf-8'})
     return JSON.parse(src)
   },
 });

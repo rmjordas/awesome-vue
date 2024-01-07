@@ -74,8 +74,8 @@ const handleFile = async (fname: string) => {
   }
 
   await fs.writeFile(
-    fname.replace(/\.data\.json$/, '.data-rich.json'),
-    JSON.stringify(richData, null, 2),
+    fname,
+    JSON.stringify(richData, null, 2) + "\n",
     {encoding: 'utf-8'},
   )
 };
