@@ -18,6 +18,10 @@
   },
   "dependencies": {
     "cache-manager": "^4.1",
-    "cache-manager-sqlite": "^0.2.0"
+    "cache-manager-sqlite": "^0.2.0",
+    "glob": "^10.3.10",
+    "octokit": "^3.1.2",
+    "progress": "^2.0.3",
+    "tsx": "^4.7.0"
   }
 }

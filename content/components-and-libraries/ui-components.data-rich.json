@@ -19,7 +19,10 @@
       "name": "vue-toaster",
       "url": "https://github.com/MeForma/vue-toaster",
       "description": "Vue.js toast notification plugin for Vue 3",
-      "github": null,
+      "github": {
+        "stars": 182,
+        "pushedAt": "2023-10-10T22:40:22Z"
+      },
       "npmjs": {
         "lastRelease": "2.0.0",
         "lastReleaseAt": "2016-10-11T21:47:26.732Z"
@@ -29,7 +32,10 @@
       "name": "vue-notification-ui",
       "url": "https://github.com/HELMAB/vue-notification-ui",
       "description": "A simple push the notification UI with Vue.js",
-      "github": null,
+      "github": {
+        "stars": 5,
+        "pushedAt": "2022-02-20T02:27:16Z"
+      },
       "npmjs": {
         "lastRelease": "1.0.4",
         "lastReleaseAt": "2021-08-02T14:11:25.381Z"
@@ -39,7 +45,6 @@
       "name": "vue-my-toasts",
       "url": "https://github.com/Tahul/vue-my-toasts",
       "description": "Provide your component and let us toast the rest",
-      "github": null,
       "npmjs": {
         "lastRelease": "2.0.1",
         "lastReleaseAt": "2021-04-23T18:09:42.210Z"
@@ -50,7 +55,7 @@
       "url": "https://github.com/kyvg/vue3-notification",
       "description": "Vue 3 notification library",
       "github": {
-        "stars": 312,
+        "stars": 311,
         "pushedAt": "2023-12-22T14:34:18Z"
       },
       "npmjs": {
