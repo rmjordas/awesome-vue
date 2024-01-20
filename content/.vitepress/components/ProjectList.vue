@@ -15,13 +15,14 @@
           :value="new Date(item.npmjs.lastReleaseAt).toLocaleDateString()"
         />
       </div>
-      <p>{{ item.description }}</p>
+      <MarkdownText :text="item.description" />
     </li>
   </ul>
 </template>
 <script lang="ts" setup>
 import { RichItem } from "../types";
 import GitHubBadge from "./GitHubBadge.vue";
+import MarkdownText from "./MarkdownText";
 import PlainTextBadge from "./PlainTextBadge.vue";
 
 defineProps<{
