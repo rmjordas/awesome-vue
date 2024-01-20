@@ -31,7 +31,7 @@ const handleFile = async (fname: string) => {
   var currentHeader: string | null = null
   var inList = false
   var frontMatterMakers = 0
-  const listItemRegex = /- \[(?<name>.+)\]\((?<url>.+)\) - (?<description>.+)/
+  const listItemRegex = /- \[(?<name>.+)\]\((?<url>.+)\) (-|–) (?<description>.+)/
 
   for (const line of src.split("\n")) {
     const listItem = line.match(listItemRegex)
