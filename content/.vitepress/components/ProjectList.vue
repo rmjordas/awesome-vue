@@ -3,11 +3,7 @@
     <li v-for="item in items" :key="item.url">
       <a :href="item.url">{{ item.name }}</a>
       <div>
-        <code>
-          gh:
-          <template v-if="item.github">{{ item.github.stars }} stars</template>
-          <template v-else>no data</template>
-        </code>,
+        <GitHubBadge v-if="item.github" :star-count="item.github.stars" />
         <code>
           npm:
           <template v-if="item.npmjs">
@@ -23,10 +19,10 @@
   </ul>
 </template>
 <script lang="ts" setup>
-import {PropType} from "vue"
-import {RichItem} from "../types";
+import {RichItem} from "../types"
+import GitHubBadge from "./GitHubBadge.vue";
 
-defineProps({
-  items: {type: Array as PropType<RichItem[]>, required: true},
-})
+defineProps<{
+  items: RichItem[],
+}>()
 </script>
