@@ -7,7 +7,8 @@
         <PlainTextBadge
           v-if="item.npmjs"
           label="npm"
-          :value="`v${item.npmjs.lastRelease}`"
+          value-prefix="v"
+          :value="item.npmjs.lastRelease"
         />
         <PlainTextBadge
           v-if="item.npmjs"

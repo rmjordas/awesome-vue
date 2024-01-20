@@ -1,13 +1,18 @@
 <template>
   <div class="badge">
     <span class="badge-label">{{ label }}</span>
-    <span class="badge-value">{{ value }}</span>
+    <span class="badge-value">
+      <span v-if="valuePrefix" class="badge-value-prefix">
+        {{ valuePrefix }}
+      </span>{{ value }}
+    </span>
   </div>
 </template>
 <script setup lang="ts">
 defineProps<{
   label: string
   value: string
+  valuePrefix?: string
 }>();
 </script>
 <style scoped>
@@ -23,5 +28,8 @@ defineProps<{
 }
 .badge-label, .badge-value {
   padding: 0 .3rem;
+}
+.badge-value-prefix {
+  opacity: .7;
 }
 </style>
