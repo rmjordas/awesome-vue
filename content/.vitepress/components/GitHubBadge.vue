@@ -18,6 +18,7 @@ defineProps<{
 <style scoped>
 .gh-badge {
   display: inline-flex;
+  color: #222;
   --gh-gray-50: #fcfcfc;
   --gh-gray-100: #e6e6e6;
   --border-color: #ccc;
