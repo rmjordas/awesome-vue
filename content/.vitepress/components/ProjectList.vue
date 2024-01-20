@@ -36,4 +36,7 @@ defineProps<{
 .badges * {
   margin-right: .4rem;
 }
+:deep(.badges) {
+  line-height: 20px;
+}
 </style>

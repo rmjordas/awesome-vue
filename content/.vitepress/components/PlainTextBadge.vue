@@ -13,19 +13,13 @@ defineProps<{
 <style scoped>
 .badge {
   display: inline-flex;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   font-weight: 600;
-  color: #fff;
-  text-shadow: 1px 1px .2rem rgba(0, 0, 0, .2);
-  --border-radius: .2rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: .2rem;
 }
 .badge-label {
-  background-color: #5c5c5c;
-  border-radius: var(--border-radius) 0 0 var(--border-radius);
-}
-.badge-value {
-  background-color: #0f80c1;
-  border-radius: 0 var(--border-radius) var(--border-radius) 0;
+  border-right: 1px solid var(--vp-c-divider);
 }
 .badge-label, .badge-value {
   padding: 0 .3rem;
