@@ -4,6 +4,12 @@
  *
  * It's intended to be used once, and removed after migration.
  *
+ * When preparing migration into master, use:
+ *
+ *   git checkout master -- content/components-and-libraries/
+ *   tsx convert-md-to-json.ts
+ *   npm run fetch-data
+ *
  * https://vitepress.dev/guide/data-loading
  */
 import fs from "node:fs/promises"
