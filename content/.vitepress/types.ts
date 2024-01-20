@@ -1,5 +1,8 @@
 export interface PlainItem {
   name: string
+  /**
+   * If npm package name is different from `name`, use `npmName`.
+   * */
   npmName?: string
   url: string
   description: string
