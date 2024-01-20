@@ -1,0 +1,30 @@
+{
+  "UI Layout": [
+    {
+      "name": "vue-virtual-scroller",
+      "url": "https://github.com/Akryum/vue-virtual-scroller",
+      "description": "Component to scroll a large amount of elements efficiently",
+      "github": {
+        "stars": 8851,
+        "pushedAt": "2024-01-16T16:20:18Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.0-beta.8",
+        "lastReleaseAt": "2023-02-06T15:55:24.620Z"
+      }
+    },
+    {
+      "name": "iron-grid-system",
+      "url": "https://github.com/ilker0/iron-grid-system",
+      "description": "A responsive grid system for Vue 3.x",
+      "github": {
+        "stars": 4,
+        "pushedAt": "2021-10-08T11:24:00Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.1",
+        "lastReleaseAt": "2021-10-08T10:59:31.898Z"
+      }
+    }
+  ]
+}

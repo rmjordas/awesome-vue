@@ -1,0 +1,1016 @@
+{
+  "Utilities": [
+    {
+      "name": "vueuse",
+      "url": "https://github.com/vueuse/vueuse",
+      "description": "Collection of essential Vue Composition API utils works for Vue 2.x and 3.x",
+      "github": {
+        "stars": 17963,
+        "pushedAt": "2024-01-20T13:12:52Z"
+      }
+    },
+    {
+      "name": "vue-composable",
+      "url": "https://github.com/pikax/vue-composable",
+      "description": "Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +30 variable composable functions",
+      "github": {
+        "stars": 1169,
+        "pushedAt": "2023-02-03T05:13:30Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.0-beta.24",
+        "lastReleaseAt": "2021-10-17T06:57:52.095Z"
+      }
+    },
+    {
+      "name": "vesselize",
+      "url": "https://github.com/vesselize/vesselize",
+      "description": "A JavaScript IoC container that works seamlessly with Vue.js",
+      "github": {
+        "stars": 23,
+        "pushedAt": "2020-11-29T08:04:06Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.0",
+        "lastReleaseAt": "2020-11-29T08:06:03.789Z"
+      }
+    },
+    {
+      "name": "vue-context-composition",
+      "url": "https://github.com/AlbertBrand/vue-context-composition",
+      "description": "Share state created with the composition API between components, similar to `useContext` from React Hooks",
+      "github": {
+        "stars": 19,
+        "pushedAt": "2021-04-06T08:47:45Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.3",
+        "lastReleaseAt": "2021-04-06T08:47:37.148Z"
+      }
+    },
+    {
+      "name": "vuex-overlay-tools",
+      "url": "https://github.com/Mirazex/vuex-overlay",
+      "description": "A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)",
+      "npmjs": {
+        "lastRelease": "1.3.2",
+        "lastReleaseAt": "2021-01-21T06:56:58.269Z"
+      }
+    },
+    {
+      "name": "vuse-rx",
+      "url": "https://github.com/Raiondesu/vuse-rx",
+      "description": "Complete first-class RxJS support for Vue 3",
+      "github": {
+        "stars": 58,
+        "pushedAt": "2023-01-22T21:05:17Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.14.0",
+        "lastReleaseAt": "2023-01-22T21:54:31.286Z"
+      }
+    },
+    {
+      "name": "vue-props-validation",
+      "url": "https://github.com/rubnvp/vue-props-validation",
+      "description": "Vue props validation logic extracted for nested validations in objects and arrays using the Vue Native syntax",
+      "github": {
+        "stars": 21,
+        "pushedAt": "2021-03-20T00:15:12Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.1",
+        "lastReleaseAt": "2021-03-20T00:15:21.620Z"
+      }
+    },
+    {
+      "name": "vue-next-rx",
+      "url": "https://github.com/NOPR9D/vue-next-rx",
+      "description": "Complete RxJS integration for Vue.js. (Update of vue-rx)",
+      "npmjs": {
+        "lastRelease": "modified",
+        "lastReleaseAt": "2022-05-23T17:08:05.192Z"
+      }
+    }
+  ],
+  "HTTP Requests": [
+    {
+      "name": "vue-axillo",
+      "url": "https://github.com/Scrum/vue-axillo",
+      "description": "Composable Axios for REST API with query notation GraphQL",
+      "github": {
+        "stars": 10,
+        "pushedAt": "2021-11-11T07:05:02Z"
+      },
+      "npmjs": {
+        "lastRelease": "modified",
+        "lastReleaseAt": "2022-05-23T12:11:32.651Z"
+      }
+    },
+    {
+      "name": "vue-request",
+      "url": "https://github.com/Attojs/vue-request",
+      "description": "Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features",
+      "github": {
+        "stars": 1096,
+        "pushedAt": "2024-01-10T10:23:18Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.4",
+        "lastReleaseAt": "2023-10-16T09:51:49.807Z"
+      }
+    },
+    {
+      "name": "swrv",
+      "url": "https://github.com/Kong/swrv",
+      "description": "Stale-while-revalidate data fetching for Vue",
+      "github": {
+        "stars": 2042,
+        "pushedAt": "2023-07-27T21:30:53Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.4",
+        "lastReleaseAt": "2023-07-05T16:56:43.143Z"
+      }
+    }
+  ],
+  "i18n": [
+    {
+      "name": "vue-i18n",
+      "url": "https://github.com/kazupon/vue-i18n",
+      "description": "Internationalization plugin for Vue.js.",
+      "github": {
+        "stars": 7187,
+        "pushedAt": "2023-10-05T13:13:23Z"
+      },
+      "npmjs": {
+        "lastRelease": "9.9.0",
+        "lastReleaseAt": "2024-01-06T09:55:12.981Z"
+      }
+    },
+    {
+      "name": "vue-i18n-service",
+      "url": "https://github.com/f/vue-i18n-service",
+      "description": "Export and import `vue-i18n`'s SFC translations",
+      "npmjs": {
+        "lastRelease": "0.1.0",
+        "lastReleaseAt": "2020-07-03T10:13:13.277Z"
+      }
+    },
+    {
+      "name": "v-intl",
+      "url": "https://github.com/vinayakkulkarni/v-intl",
+      "description": "Global Intl wrapper for your awesome Vue 3 app",
+      "github": {
+        "stars": 13,
+        "pushedAt": "2024-01-19T22:34:39Z"
+      }
+    },
+    {
+      "name": "excel-vue-i18n",
+      "url": "https://github.com/grafikri/excel-vue-i18n",
+      "description": "A plugin transforms excel file to i18n json format for translations",
+      "github": {
+        "stars": 8,
+        "pushedAt": "2020-09-19T07:19:22Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.0",
+        "lastReleaseAt": "2020-09-19T07:18:09.408Z"
+      }
+    },
+    {
+      "name": "vue-i18n-lite",
+      "url": "https://github.com/FrontLabsOfficial/vue-i18n-lite",
+      "description": "A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API",
+      "github": {
+        "stars": 12,
+        "pushedAt": "2023-12-18T04:32:18Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.2",
+        "lastReleaseAt": "2021-08-05T14:41:59.387Z"
+      }
+    },
+    {
+      "name": "fluent-vue",
+      "url": "https://github.com/Demivan/fluent-vue",
+      "description": "Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent",
+      "npmjs": {
+        "lastRelease": "3.5.0",
+        "lastReleaseAt": "2023-09-06T19:48:50.766Z"
+      }
+    },
+    {
+      "name": "localize-vue-3x",
+      "url": "https://github.com/uiwebkit/localize-vue-3x",
+      "description": "Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components",
+      "github": {
+        "stars": 0,
+        "pushedAt": "2022-02-07T12:55:44Z"
+      }
+    }
+  ],
+  "Custom Events": [
+    {
+      "name": "vue3-custom-hooks",
+      "url": "https://github.com/PoluosmakAndrew/vue3-custom-hooks",
+      "description": "Build custom hooks for Vue.js 3 Composition API"
+    },
+    {
+      "name": "vue-catch-hrefs",
+      "url": "https://github.com/Tahul/vue-catch-hrefs",
+      "description": "Catch clicks on hrefs links (in v-html) and route them to vue-router",
+      "github": {
+        "stars": 5,
+        "pushedAt": "2023-01-06T06:48:40Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.8",
+        "lastReleaseAt": "2020-12-14T13:06:22.949Z"
+      }
+    }
+  ],
+  "Persistence": [
+    {
+      "name": "vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version",
+      "url": "https://github.com/dreambo8563/next-vue-storage-watcher",
+      "description": "A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3",
+      "github": {
+        "stars": 8,
+        "pushedAt": "2023-06-29T07:24:25Z"
+      }
+    },
+    {
+      "name": "vue-use-local-storage",
+      "url": "https://github.com/HJ29/vue-use-local-storage",
+      "description": "A composition API to persist and re-hydrate reactive data to local storage for vue 3",
+      "github": {
+        "stars": 4,
+        "pushedAt": "2020-11-29T14:06:54Z"
+      },
+      "npmjs": {
+        "lastRelease": "modified",
+        "lastReleaseAt": "2022-05-23T20:09:48.949Z"
+      }
+    }
+  ],
+  "State Management": [
+    {
+      "name": "vuex",
+      "url": "https://github.com/vuejs/vuex",
+      "description": "Centralized State Management for Vue.js.",
+      "github": {
+        "stars": 28313,
+        "pushedAt": "2024-01-17T07:19:28Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.1.0",
+        "lastReleaseAt": "2022-10-14T10:35:14.814Z"
+      }
+    },
+    {
+      "name": "pinia",
+      "url": "https://github.com/posva/pinia",
+      "description": "Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
+      "npmjs": {
+        "lastRelease": "2.1.7",
+        "lastReleaseAt": "2023-10-13T09:39:24.978Z"
+      }
+    },
+    {
+      "name": "harlem",
+      "url": "https://github.com/andrewcourtice/harlem",
+      "description": "Simple, unopinionated, lightweight and extensible state management for Vue 3",
+      "github": {
+        "stars": 506,
+        "pushedAt": "2023-09-09T12:02:12Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.1.8",
+        "lastReleaseAt": "2023-03-20T23:30:27.261Z"
+      }
+    },
+    {
+      "name": "hami-vuex",
+      "url": "https://github.com/guyskk/hami-vuex",
+      "description": "Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js",
+      "github": {
+        "stars": 23,
+        "pushedAt": "2022-02-20T05:03:56Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.4",
+        "lastReleaseAt": "2022-02-20T05:03:31.029Z"
+      }
+    }
+  ],
+  "Redux": [
+    {
+      "name": "vuejs-redux",
+      "url": "https://github.com/titouancreach/vuejs-redux",
+      "description": "High order component facilities for Vue and Redux.",
+      "github": {
+        "stars": 58,
+        "pushedAt": "2023-03-02T09:39:07Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.4.1",
+        "lastReleaseAt": "2019-05-10T20:30:50.631Z"
+      }
+    },
+    {
+      "name": "vuex-coolstory",
+      "url": "https://github.com/niklv/vuex-coolstory",
+      "description": "Plugin for vuex to run redux-saga.",
+      "github": {
+        "stars": 23,
+        "pushedAt": "2023-01-07T05:50:41Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.0",
+        "lastReleaseAt": "2021-04-03T12:27:44.888Z"
+      }
+    }
+  ],
+  "Mobx": [
+    {
+      "name": "mobx-vue-lite",
+      "url": "https://github.com/wobsoriano/mobx-vue-lite",
+      "description": "Lightweight Vue 3 bindings for MobX based on Composition API",
+      "npmjs": {
+        "lastRelease": "0.4.1",
+        "lastReleaseAt": "2023-11-21T17:16:39.876Z"
+      }
+    }
+  ],
+  "Pinia": [
+    {
+      "name": "pinia-shared-state",
+      "url": "https://github.com/wobsoriano/pinia-shared-state",
+      "description": "A lightweight plugin to sync your Pinia state across browser tabs",
+      "github": {
+        "stars": 235,
+        "pushedAt": "2024-01-03T19:29:49Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.5.1",
+        "lastReleaseAt": "2023-12-15T06:34:24.692Z"
+      }
+    },
+    {
+      "name": "pinia-undo",
+      "url": "https://github.com/wobsoriano/pinia-undo",
+      "description": "Undo/Redo plugin for Pinia",
+      "github": {
+        "stars": 58,
+        "pushedAt": "2023-12-15T06:33:23Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.4",
+        "lastReleaseAt": "2023-12-15T06:33:38.170Z"
+      }
+    },
+    {
+      "name": "pinia-xstate",
+      "url": "https://github.com/wobsoriano/pinia-xstate",
+      "description": "Put your xstate state machines into a global Pinia store",
+      "github": {
+        "stars": 50,
+        "pushedAt": "2023-12-23T20:20:45Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.2",
+        "lastReleaseAt": "2023-12-01T18:02:16.381Z"
+      }
+    },
+    {
+      "name": "pinia-persistedstate",
+      "url": "https://github.com/JD-Wang/pinia-persistedstate",
+      "description": "Persist Vuex state with localStorage, like vuex-persistedstate",
+      "github": {
+        "stars": 15,
+        "pushedAt": "2022-11-12T02:20:20Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.1.2",
+        "lastReleaseAt": "2021-12-24T08:12:42.519Z"
+      }
+    }
+  ],
+  "Vuex Utilities": [
+    {
+      "name": "vuex-persistedstate",
+      "url": "https://github.com/robinvdvleuten/vuex-persistedstate",
+      "description": "Persist Vuex state with localStorage.",
+      "github": {
+        "stars": 5773,
+        "pushedAt": "2022-02-04T09:16:15Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.1.0",
+        "lastReleaseAt": "2021-09-21T11:46:45.318Z"
+      }
+    },
+    {
+      "name": "vuex-plugin-jsdata",
+      "url": "https://github.com/AlexandreBonaventure/vuex-jsdata-plugin",
+      "description": "A plugin for syncing Vuex store with js-data.",
+      "github": {
+        "stars": 20,
+        "pushedAt": "2017-06-08T07:29:24Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.0",
+        "lastReleaseAt": "2017-05-12T19:26:38.373Z"
+      }
+    },
+    {
+      "name": "vuex-local",
+      "url": "https://github.com/ktsn/vuex-local",
+      "description": "Local state management within Vuex.",
+      "github": {
+        "stars": 64,
+        "pushedAt": "2018-01-09T14:06:48Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.0",
+        "lastReleaseAt": "2018-01-09T13:31:59.759Z"
+      }
+    },
+    {
+      "name": "vuex-action",
+      "url": "https://github.com/varHarrie/vuex-action",
+      "description": "Utilities for vuex to easily create and manage actions.",
+      "github": {
+        "stars": 26,
+        "pushedAt": "2017-03-14T03:52:40Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.2.1",
+        "lastReleaseAt": "2017-03-14T03:52:13.223Z"
+      }
+    },
+    {
+      "name": "vuex-rest-api",
+      "url": "https://github.com/christianmalek/vuex-rest-api",
+      "description": "A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.",
+      "github": {
+        "stars": 382,
+        "pushedAt": "2022-08-11T01:25:04Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.15.0",
+        "lastReleaseAt": "2022-05-24T17:38:15.086Z"
+      }
+    },
+    {
+      "name": "vuex-cache",
+      "url": "https://github.com/superwf/vuex-cache",
+      "description": "A Vuex plugin utility to cache action those will make remote request.",
+      "github": {
+        "stars": 514,
+        "pushedAt": "2023-07-18T22:10:06Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.5.0",
+        "lastReleaseAt": "2022-04-28T12:50:55.587Z"
+      }
+    },
+    {
+      "name": "vuex-persist",
+      "url": "https://github.com/championswimmer/vuex-persist",
+      "description": "A Typescript-ready Vuex plugin to help save the store to localStorage or any custom Storage (that you can configure).",
+      "github": {
+        "stars": 1670,
+        "pushedAt": "2023-03-01T08:59:29Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.1.3",
+        "lastReleaseAt": "2020-09-27T22:08:16.265Z"
+      }
+    },
+    {
+      "name": "vuex-local-state",
+      "url": "https://github.com/biluochun/vuex-localState",
+      "description": "Add 'localState/sessionState' options to vuex. Keep the Vuex state with localStorage.",
+      "github": {
+        "stars": 18,
+        "pushedAt": "2017-09-29T08:37:09Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.2",
+        "lastReleaseAt": "2017-09-29T08:37:25.228Z"
+      }
+    },
+    {
+      "name": "vuex-action-reload",
+      "url": "https://github.com/chlab/vuex-action-reload",
+      "description": "A vuex plugin that reloads actions when a condition is met.",
+      "github": {
+        "stars": 3,
+        "pushedAt": "2017-12-20T16:26:49Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.1",
+        "lastReleaseAt": "2017-12-20T16:26:55.279Z"
+      }
+    },
+    {
+      "name": "vuejs-storage",
+      "url": "https://github.com/maple3142/vuejs-storage",
+      "description": "Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.",
+      "github": {
+        "stars": 123,
+        "pushedAt": "2022-06-17T12:38:13Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.1.1",
+        "lastReleaseAt": "2022-06-17T12:37:59.120Z"
+      }
+    },
+    {
+      "name": "vuex-orm",
+      "url": "https://github.com/vuex-orm/vuex-orm",
+      "description": "The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.",
+      "github": {
+        "stars": 2370,
+        "pushedAt": "2022-12-10T17:16:42Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.15.0",
+        "lastReleaseAt": "2018-01-14T06:33:58.971Z"
+      }
+    },
+    {
+      "name": "vuex-async-module",
+      "url": "https://github.com/liqueflies/vuex-async-module",
+      "description": "Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.",
+      "github": {
+        "stars": 15,
+        "pushedAt": "2018-05-03T10:22:27Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.0.14",
+        "lastReleaseAt": "2018-01-05T03:08:57.017Z"
+      }
+    },
+    {
+      "name": "vuex-iframe-sync",
+      "url": "https://github.com/L-Chris/vuex-iframe-sync",
+      "description": "Vuex state synchronization between iframe/window.",
+      "github": {
+        "stars": 102,
+        "pushedAt": "2022-12-07T17:21:45Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.4.5",
+        "lastReleaseAt": "2018-07-18T13:26:47.402Z"
+      }
+    },
+    {
+      "name": "vuex-aspect",
+      "url": "https://gitlab.com/frissdiegurke/vuex-aspect",
+      "description": "Bind remote data of any kind to the vuex store.",
+      "npmjs": {
+        "lastRelease": "2.0.0",
+        "lastReleaseAt": "2018-04-22T17:15:08.544Z"
+      }
+    },
+    {
+      "name": "Vuenut",
+      "url": "https://github.com/lusaxweb/vuenut",
+      "description": "is a component to develop faster and more fluently",
+      "github": {
+        "stars": 305,
+        "pushedAt": "2018-05-27T02:32:14Z"
+      }
+    },
+    {
+      "name": "vuex-map-fields",
+      "url": "https://github.com/maoberlehner/vuex-map-fields",
+      "description": "Enable two-way data binding for form fields.",
+      "github": {
+        "stars": 1429,
+        "pushedAt": "2023-10-29T19:35:07Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.4.1",
+        "lastReleaseAt": "2020-10-03T14:01:39.397Z"
+      }
+    },
+    {
+      "name": "vuex-search",
+      "url": "https://github.com/AlbertLucianto/vuex-search",
+      "description": "Vuex binding for client-side search with indexers and Web Workers.",
+      "github": {
+        "stars": 162,
+        "pushedAt": "2022-12-09T23:26:52Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.2.5",
+        "lastReleaseAt": "2019-11-02T18:54:54.619Z"
+      }
+    },
+    {
+      "name": "vuex-pathify",
+      "url": "https://davestewart.github.io/vuex-pathify/#/",
+      "description": "provides a unified path syntax to Vuex stores (such as `foo/bar@a.b.c`)",
+      "npmjs": {
+        "lastRelease": "3.0.0-beta",
+        "lastReleaseAt": "2022-03-18T18:58:42.648Z"
+      }
+    },
+    {
+      "name": "vuex-loading",
+      "url": "https://github.com/anthinkingcoder/vuex-loading",
+      "description": "Simplify vuex loading state management",
+      "github": {
+        "stars": 3,
+        "pushedAt": "2019-04-24T12:32:04Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.4",
+        "lastReleaseAt": "2018-06-07T11:30:34.641Z"
+      }
+    },
+    {
+      "name": "vuex-module-builder",
+      "url": "https://github.com/oncebot/vuex-module-builder",
+      "description": "Vuex module builder is a wrapper for writing vuex stores efficiently with some common methods built-in.",
+      "github": {
+        "stars": 6,
+        "pushedAt": "2018-12-21T14:36:43Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.2",
+        "lastReleaseAt": "2018-12-21T14:37:22.769Z"
+      }
+    },
+    {
+      "name": "vuex-pagination",
+      "url": "https://github.com/cyon/vuex-pagination",
+      "description": "Easily work with paginated resources in your Vue/Vuex application. Works well with most of the Vue pagination components.",
+      "github": {
+        "stars": 107,
+        "pushedAt": "2023-01-06T01:38:44Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.3.11",
+        "lastReleaseAt": "2021-02-04T13:47:15.548Z"
+      }
+    },
+    {
+      "name": "vuex-easy-firestore",
+      "url": "https://mesqueeb.github.io/vuex-easy-firestore/",
+      "description": "Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!",
+      "npmjs": {
+        "lastRelease": "1.37.2",
+        "lastReleaseAt": "2023-03-15T07:11:54.323Z"
+      }
+    },
+    {
+      "name": "vuex-listener",
+      "url": "https://github.com/TimurKiyivinski/vuex-listener",
+      "description": "A global Vuex action and mutation listener plugin",
+      "npmjs": {
+        "lastRelease": "1.2.0",
+        "lastReleaseAt": "2020-10-12T16:03:10.700Z"
+      }
+    },
+    {
+      "name": "jsonapi-vuex",
+      "url": "https://github.com/mrichar1/jsonapi-vuex",
+      "description": "Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.",
+      "github": {
+        "stars": 154,
+        "pushedAt": "2023-12-05T18:44:18Z"
+      },
+      "npmjs": {
+        "lastRelease": "5.13.1",
+        "lastReleaseAt": "2023-10-31T14:48:31.683Z"
+      }
+    },
+    {
+      "name": "vuexi",
+      "url": "https://github.com/mikefaraponov/vuexi",
+      "description": "Provides utilities to simplify async actions and state management",
+      "npmjs": {
+        "lastRelease": "1.2.5",
+        "lastReleaseAt": "2020-06-11T20:48:04.601Z"
+      }
+    },
+    {
+      "name": "stfalcon-vuex-loading-plugin",
+      "url": "https://github.com/stfalcon-studio/stfalcon-vuex-loading-plugin",
+      "description": "The easiest way to handle loading state of vuex",
+      "github": {
+        "stars": 2,
+        "pushedAt": "2019-09-13T08:58:46Z"
+      },
+      "npmjs": {
+        "lastRelease": "unpublished",
+        "lastReleaseAt": {
+          "time": "2019-07-12T09:16:38.101Z",
+          "versions": [
+            "1.0.0"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Vue Rest Resource",
+      "url": "https://github.com/ProReNata/VueRestResource",
+      "description": "Rest HTTP resource management for Vue.js and Vuex projects"
+    },
+    {
+      "name": "Vuex Stateshot",
+      "url": "https://github.com/xiaoluoboding/vuex-stateshot",
+      "description": "A State Snapshot plugin on Actions/Mutations for Vuex3.1+",
+      "github": {
+        "stars": 13,
+        "pushedAt": "2020-11-28T10:04:35Z"
+      }
+    },
+    {
+      "name": "vuex-loopback",
+      "url": "https://github.com/mikeevstropov/vuex-loopback",
+      "description": "Vuex module factory and Vue components for Loopback",
+      "github": {
+        "stars": 7,
+        "pushedAt": "2022-05-28T10:51:09Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.5.4",
+        "lastReleaseAt": "2022-05-28T10:51:13.180Z"
+      }
+    },
+    {
+      "name": "vuex-state-snapshot",
+      "url": "https://github.com/dezull/vuex-state-snapshot",
+      "description": "A Vuex plugin to take state snapshot on mutation",
+      "github": {
+        "stars": 1,
+        "pushedAt": "2022-12-11T13:43:14Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.12.1",
+        "lastReleaseAt": "2019-11-28T04:23:15.702Z"
+      }
+    },
+    {
+      "name": "vuex-awesome-async",
+      "url": "https://github.com/Schoolmouv-team/vuex-awesome-async",
+      "description": "It wraps Vuex stores to easily manage async requests (loading, error and cache state)",
+      "github": {
+        "stars": 3,
+        "pushedAt": "2023-01-05T23:44:19Z"
+      }
+    },
+    {
+      "name": "vuex-factories",
+      "url": "https://github.com/Goldziher/vuex-factories",
+      "description": "Factory functions to generate vuex actions and mutations",
+      "github": {
+        "stars": 5,
+        "pushedAt": "2021-05-11T17:50:10Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.3.0",
+        "lastReleaseAt": "2020-09-19T17:57:05.312Z"
+      }
+    },
+    {
+      "name": "vuex-hooks",
+      "url": "https://github.com/Goldziher/vuex-hooks",
+      "description": "TypeScript enabled Vuex composition-api hooks",
+      "github": {
+        "stars": 12,
+        "pushedAt": "2021-11-28T21:07:23Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.2.0",
+        "lastReleaseAt": "2020-09-19T17:53:56.979Z"
+      }
+    },
+    {
+      "name": "vuex-composition-helpers",
+      "url": "https://github.com/greenpress/vuex-composition-helpers",
+      "description": "A util package to use Vuex with Composition API easily",
+      "github": {
+        "stars": 285,
+        "pushedAt": "2023-01-09T02:23:19Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.2",
+        "lastReleaseAt": "2022-08-02T12:12:03.645Z"
+      }
+    },
+    {
+      "name": "vuex-ts-enhance",
+      "url": "https://github.com/zWingz/vuex-ts-enhance",
+      "description": "A tool to enhance `mapXXX` and `dispatch` methods hint",
+      "github": {
+        "stars": 11,
+        "pushedAt": "2023-01-07T01:57:15Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.0.9",
+        "lastReleaseAt": "2022-07-27T07:20:56.001Z"
+      }
+    },
+    {
+      "name": "vuex-masked-modules",
+      "url": "https://github.com/Silksofthesoul/vuex-masked-modules",
+      "description": "A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4",
+      "github": {
+        "stars": 2,
+        "pushedAt": "2024-01-03T19:37:03Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.4",
+        "lastReleaseAt": "2024-01-03T19:36:15.764Z"
+      }
+    }
+  ],
+  "Sync Between Tabs": [
+    {
+      "name": "vuex-basement",
+      "url": "https://github.com/RashadSaleh/vuex-basement",
+      "description": "Vuex state persistence and synchronization between tabs/windows.",
+      "github": {
+        "stars": 65,
+        "pushedAt": "2017-11-23T19:29:27Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.7.1",
+        "lastReleaseAt": "2017-01-26T15:07:55.261Z"
+      }
+    },
+    {
+      "name": "vuex-shared-mutations",
+      "url": "https://github.com/xanf/vuex-shared-mutations",
+      "description": "Share vuex mutations between tabs/windows.",
+      "github": {
+        "stars": 563,
+        "pushedAt": "2021-08-16T05:15:20Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.2",
+        "lastReleaseAt": "2019-02-08T23:56:15.619Z"
+      }
+    },
+    {
+      "name": "vuex-multi-tab-state",
+      "url": "https://github.com/gabrielmbmb/vuex-multi-tab-state",
+      "description": "Share and synchronize status between multiple tabs with this plugin for Vuex",
+      "github": {
+        "stars": 162,
+        "pushedAt": "2023-03-04T21:51:59Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.17",
+        "lastReleaseAt": "2021-10-23T17:04:00.965Z"
+      }
+    }
+  ],
+  "GraphQL": [
+    {
+      "name": "vue-apollo",
+      "url": "https://github.com/Akryum/vue-apollo",
+      "description": "Apollo/GraphQL integration for VueJS.",
+      "npmjs": {
+        "lastRelease": "3.1.2",
+        "lastReleaseAt": "2024-01-15T09:34:49.141Z"
+      }
+    },
+    {
+      "name": "vue-relay",
+      "url": "https://github.com/ntkme/vue-relay",
+      "description": "A framework for building GraphQL-driven Vue.js applications.",
+      "npmjs": {
+        "lastRelease": "5.0.2",
+        "lastReleaseAt": "2019-08-20T18:58:37.188Z"
+      }
+    },
+    {
+      "name": "vuex-orm-apollo",
+      "url": "https://github.com/vuex-orm/vuex-orm-apollo",
+      "description": "Apollo/GraphQL integration for Vuex-ORM."
+    }
+  ],
+  "Code Style": [
+    {
+      "name": "eslint-plugin-vue",
+      "url": "https://github.com/vuejs/eslint-plugin-vue",
+      "description": "Eslint plugin for Vue.js projects.",
+      "github": {
+        "stars": 4309,
+        "pushedAt": "2024-01-16T15:46:03Z"
+      },
+      "npmjs": {
+        "lastRelease": "9.20.1",
+        "lastReleaseAt": "2024-01-13T01:11:48.605Z"
+      }
+    }
+  ],
+  "Asset Management": [
+    {
+      "name": "vite-svg-loader",
+      "url": "https://github.com/jpkleemans/vite-svg-loader",
+      "description": "Vite plugin to load SVG files as Vue components",
+      "github": {
+        "stars": 484,
+        "pushedAt": "2023-12-23T14:40:16Z"
+      },
+      "npmjs": {
+        "lastRelease": "5.1.0",
+        "lastReleaseAt": "2023-11-20T14:29:38.768Z"
+      }
+    },
+    {
+      "name": "vue-sfc-split",
+      "url": "https://github.com/gVguy/vue-sfc-split",
+      "description": "Convert SFCs for native browser use without build",
+      "github": {
+        "stars": 0,
+        "pushedAt": "2021-10-24T20:27:56Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.1",
+        "lastReleaseAt": "2021-10-24T19:22:58.159Z"
+      }
+    }
+  ],
+  "Miscellaneous": [
+    {
+      "name": "vue-use-model-helpers",
+      "url": "https://github.com/sergiocarracedo/vue-use-model-helpers",
+      "description": "Helper to map properties to local Ref using Composition API for Vue 2.x and 3",
+      "github": {
+        "stars": 3,
+        "pushedAt": "2023-04-30T10:08:36Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.0.0-beta.4",
+        "lastReleaseAt": "2023-03-01T08:56:32.466Z"
+      }
+    }
+  ],
+  "JSX": [
+    {
+      "name": "babel-plugin-jsx",
+      "url": "https://github.com/vuejs/babel-plugin-jsx",
+      "description": "JSX for Vue 3",
+      "github": {
+        "stars": 1646,
+        "pushedAt": "2024-01-19T22:40:30Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.2.0",
+        "lastReleaseAt": "2015-07-20T13:46:13.522Z"
+      }
+    }
+  ],
+  "Migration": [
+    {
+      "name": "v3-migration-guide",
+      "url": "https://github.com/vuejs/v3-migration-guide",
+      "description": "Vue 2 -> Vue 3 migration guide",
+      "github": {
+        "stars": 209,
+        "pushedAt": "2023-11-21T15:58:01Z"
+      }
+    }
+  ],
+  "Server-Sent Events": [
+    {
+      "name": "vue-sse",
+      "url": "https://github.com/tserkov/vue-sse",
+      "description": "A Vue plugin for using Server-Sent Events (EventSource)",
+      "github": {
+        "stars": 135,
+        "pushedAt": "2023-04-20T16:08:59Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.5.2",
+        "lastReleaseAt": "2022-06-09T19:40:02.597Z"
+      }
+    }
+  ],
+  "Stripe": [
+    {
+      "name": "vue-stripe-js",
+      "url": "https://github.com/ectoflow/vue-stripe-js",
+      "description": "Vue 3 components for Stripe.js",
+      "github": {
+        "stars": 123,
+        "pushedAt": "2023-09-05T17:55:01Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.1",
+        "lastReleaseAt": "2022-05-13T19:13:30.000Z"
+      }
+    }
+  ]
+}

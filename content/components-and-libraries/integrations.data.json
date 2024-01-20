@@ -1,0 +1,54 @@
+{
+  "Integrations": [
+    {
+      "name": "vue-tweet",
+      "url": "https://github.com/DannyFeliz/vue-tweet",
+      "description": "Vue 3 component that let you embed tweets in your app by only giving the tweet ID",
+      "github": {
+        "stars": 32,
+        "pushedAt": "2022-11-20T20:21:29Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.2",
+        "lastReleaseAt": "2022-06-04T00:07:16.599Z"
+      }
+    },
+    {
+      "name": "vue-dapp",
+      "url": "https://github.com/chnejohnson/vue-dapp",
+      "description": "Vue 3 library for building Dapps with ethers.js",
+      "npmjs": {
+        "lastRelease": "0.12.0-beta.7",
+        "lastReleaseAt": "2023-11-03T15:46:17.599Z"
+      }
+    }
+  ],
+  "Vue CLI Plugins": [
+    {
+      "name": "vue-cli-plugin-capacitor",
+      "url": "https://github.com/capacitor-community/vue-cli-plugin-capacitor",
+      "description": "A Vue CLI 3 Plugin for Capacitor",
+      "github": {
+        "stars": 134,
+        "pushedAt": "2023-03-04T03:52:59Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.1",
+        "lastReleaseAt": "2020-09-22T00:03:08.142Z"
+      }
+    },
+    {
+      "name": "vue-cli-plugin-chrome-extension-cli",
+      "url": "https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli",
+      "description": "Vue CLI Plugin to generate Chrome extension template",
+      "github": {
+        "stars": 275,
+        "pushedAt": "2023-09-06T10:46:39Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.1.4",
+        "lastReleaseAt": "2022-04-06T18:09:34.677Z"
+      }
+    }
+  ]
+}

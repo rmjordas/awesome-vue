@@ -6,7 +6,7 @@ import {basename, dirname} from "node:path"
 import {glob} from "glob"
 
 (async function main() {
-  const inputFiles = await glob("content/components-and-libraries/ui-components.md")
+  const inputFiles = await glob("content/components-and-libraries/*.md")
   for (const fname of inputFiles) {
     await handleFile(fname)
   }
