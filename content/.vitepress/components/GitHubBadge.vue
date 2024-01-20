@@ -41,7 +41,7 @@ defineProps<{
 }
 
 .badge-text {
-  font-weight: bold;
+  font-weight: 600;
   font-size: 0.7rem;
   padding-left: 0.1rem;
   padding-right: 0.1rem;

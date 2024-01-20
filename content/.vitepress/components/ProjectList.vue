@@ -4,25 +4,27 @@
       <a :href="item.url">{{ item.name }}</a>
       <div>
         <GitHubBadge v-if="item.github" :star-count="item.github.stars" />
-        <code>
-          npm:
-          <template v-if="item.npmjs">
-            release {{ item.npmjs.lastRelease }} (at {{ new Date(item.npmjs.lastReleaseAt).toLocaleDateString() }})
-          </template>
-          <template v-else>
-            no data
-          </template>
-        </code>
+        <PlainTextBadge
+          v-if="item.npmjs"
+          label="npm"
+          :value="`v${item.npmjs.lastRelease}`"
+        />
+        <PlainTextBadge
+          v-if="item.npmjs"
+          label="at"
+          :value="new Date(item.npmjs.lastReleaseAt).toLocaleDateString()"
+        />
       </div>
       <p>{{ item.description }}</p>
     </li>
   </ul>
 </template>
 <script lang="ts" setup>
-import {RichItem} from "../types"
+import { RichItem } from "../types";
 import GitHubBadge from "./GitHubBadge.vue";
+import PlainTextBadge from "./PlainTextBadge.vue";
 
 defineProps<{
-  items: RichItem[],
-}>()
+  items: RichItem[];
+}>();
 </script>
