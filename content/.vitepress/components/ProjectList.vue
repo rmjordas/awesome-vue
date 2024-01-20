@@ -2,7 +2,7 @@
   <ul>
     <li v-for="item in items" :key="item.url">
       <a :href="item.url">{{ item.name }}</a>
-      <div>
+      <div class="badges">
         <GitHubBadge v-if="item.github" :star-count="item.github.stars" />
         <PlainTextBadge
           v-if="item.npmjs"
@@ -28,3 +28,12 @@ defineProps<{
   items: RichItem[];
 }>();
 </script>
+<style scoped>
+.badges {
+  display: flex;
+  margin-top: .3rem;
+}
+.badges * {
+  margin-right: .4rem;
+}
+</style>

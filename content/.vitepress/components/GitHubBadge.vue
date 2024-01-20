@@ -30,15 +30,14 @@ defineProps<{
 }
 
 .badge {
-  display: inline-flex;
+  display: flex;
   padding: 0 0.3rem;
   background: linear-gradient(to bottom, var(--gh-gray-50), var(--gh-gray-100));
 }
 
 .badge-icon {
-  display: inline-block;
   width: .9rem;
-  margin-right: .1rem;
+  margin-right: .2rem;
 }
 
 .badge-text {

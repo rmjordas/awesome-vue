@@ -13,7 +13,6 @@ defineProps<{
 <style scoped>
 .badge {
   display: inline-flex;
-  padding: 0 0.3rem;
   font-size: 0.7rem;
   font-weight: 600;
   color: #fff;
