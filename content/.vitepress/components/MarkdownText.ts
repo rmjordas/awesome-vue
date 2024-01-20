@@ -10,7 +10,6 @@ export default defineComponent({
     return () => h(
       "div",
       {
-        class: 'md',
         innerHTML: renderer.render(props.text),
       },
     )
