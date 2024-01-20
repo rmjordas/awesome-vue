@@ -1,5 +1,11 @@
 /// <reference types="node" />
-// https://vitepress.dev/guide/data-loading
+/**
+ * This is the script for converting old .md files into new data-oriented scheme.
+ *
+ * It's intended to be used once, and removed after migration.
+ *
+ * https://vitepress.dev/guide/data-loading
+ */
 import fs from "node:fs/promises"
 import {basename, dirname} from "node:path"
 
