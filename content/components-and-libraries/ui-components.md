@@ -181,7 +181,7 @@ Date / datetime / time Picker
 
 ### Color Picker
 
-- [vue-color-input](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
+<ProjectList :items="data['Color Picker']" />
 
 ### Switch
 
@@ -195,13 +195,13 @@ Switch / on/off toggle / checkbox
 
 ### Image Manipulation
 
-Edit images
+#### Edit images
 
-<ProjectList :items="data['Image Manipulation']" />
+<ProjectList :items="data['Edit images']" />
 
-Display images
+#### Display images
 
-<ProjectList :items="data['Image Manipulation']" />
+<ProjectList :items="data['Display images']" />
 
 ### File Upload
 
@@ -214,4 +214,3 @@ Display images
 ## Canvas
 
 <ProjectList :items="data['Canvas']" />
-
