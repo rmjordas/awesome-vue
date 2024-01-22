@@ -33,7 +33,8 @@ defineProps<{
 <style scoped>
 .badges {
   display: flex;
-  margin-top: .3rem;
+ /** Slightly smaller than .v-doc p margin */
+  margin-top: 12px;
 }
 .badges * {
   margin-right: .4rem;
