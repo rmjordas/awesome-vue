@@ -22,7 +22,7 @@ export default defineConfig({
     editLink: {
       pattern: ({ filePath }) => {
         if (filePath.startsWith('components-and-libraries/')) {
-          return `https://github.com/rmjordas/awesome-vue/edit/next/content/${filePath.replace('.md', '.data.json')}`
+          return `https://github.com/rmjordas/awesome-vue/edit/next/content/${filePath.replace('.md', '.json')}`
         } else {
           return `https://github.com/rmjordas/awesome-vue/edit/next/content/${filePath}`
         }
