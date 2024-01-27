@@ -33,7 +33,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./scaffold.data.js"
+import data from "./scaffold.json"
 </script>
 
 # Scaffold

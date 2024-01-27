@@ -33,8 +33,8 @@
       "url": "https://github.com/vue-styleguidist/vue-styleguidist",
       "description": "A style guide generator for Vue components with a living style guide.",
       "github": {
-        "stars": 2415,
-        "pushedAt": "2024-01-20T00:01:58Z"
+        "stars": 2417,
+        "pushedAt": "2024-01-26T19:51:28Z"
       },
       "npmjs": {
         "lastRelease": "4.72.4",
@@ -59,7 +59,7 @@
       "description": "Official utilities for testing Vue components.",
       "github": {
         "stars": 3574,
-        "pushedAt": "2024-01-01T22:49:59Z"
+        "pushedAt": "2024-01-26T17:50:21Z"
       },
       "npmjs": {
         "lastRelease": "1.0.0-beta.11",
@@ -71,7 +71,7 @@
       "url": "https://github.com/testing-library/vue-testing-library",
       "description": "Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.",
       "github": {
-        "stars": 1030,
+        "stars": 1029,
         "pushedAt": "2023-11-20T16:41:12Z"
       }
     }
@@ -102,7 +102,7 @@
       "url": "https://github.com/posva/vim-vue",
       "description": "Syntax Highlight for Vue.js components.",
       "github": {
-        "stars": 1285,
+        "stars": 1284,
         "pushedAt": "2023-01-03T18:24:07Z"
       }
     },
@@ -111,7 +111,7 @@
       "url": "https://github.com/leafOfTree/vim-vue-plugin",
       "description": "Vim syntax and indent plugin for .vue files.",
       "github": {
-        "stars": 171,
+        "stars": 172,
         "pushedAt": "2023-10-05T03:51:50Z"
       }
     }

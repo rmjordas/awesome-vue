@@ -5,8 +5,8 @@
       "url": "https://github.com/vuejs/create-vue",
       "description": "Quickly scaffold a Vue project with `npm init vue@3`",
       "github": {
-        "stars": 3134,
-        "pushedAt": "2024-01-17T08:07:33Z"
+        "stars": 3149,
+        "pushedAt": "2024-01-26T16:36:39Z"
       },
       "npmjs": {
         "lastRelease": "3.9.1",
@@ -18,7 +18,7 @@
       "url": "https://github.com/vuejs/vue-cli",
       "description": "Simple CLI for scaffolding Vue.js projects.",
       "github": {
-        "stars": 29742,
+        "stars": 29750,
         "pushedAt": "2024-01-05T13:42:33Z"
       },
       "npmjs": {
@@ -44,7 +44,7 @@
       "url": "https://github.com/SimulatedGREG/electron-vue",
       "description": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
       "github": {
-        "stars": 15443,
+        "stars": 15447,
         "pushedAt": "2022-01-14T15:11:42Z"
       }
     },
@@ -62,7 +62,7 @@
       "url": "https://github.com/umbrella22/electron-vite-template",
       "description": "A modern desktop application project template with Vue 3, Vite & Electron. It's fast!",
       "github": {
-        "stars": 346,
+        "stars": 349,
         "pushedAt": "2023-12-19T10:26:10Z"
       }
     }

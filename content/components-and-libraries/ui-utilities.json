@@ -27,8 +27,8 @@
       "url": "https://github.com/logaretm/vee-validate",
       "description": "Simple Vue.js input validation plugin.",
       "github": {
-        "stars": 10360,
-        "pushedAt": "2024-01-16T20:00:56Z"
+        "stars": 10378,
+        "pushedAt": "2024-01-24T07:17:43Z"
       },
       "npmjs": {
         "lastRelease": "4.12.4",
@@ -49,7 +49,7 @@
       "url": "https://github.com/FrontLabsOfficial/vue-tiny-validate",
       "description": "Tiny (2.5KB minified) Vue Validate Composition",
       "github": {
-        "stars": 133,
+        "stars": 134,
         "pushedAt": "2023-10-29T09:45:02Z"
       },
       "npmjs": {
@@ -62,8 +62,8 @@
       "url": "https://github.com/ealush/vest",
       "description": "Declarative form validation framework inspired by unit testing",
       "github": {
-        "stars": 2456,
-        "pushedAt": "2024-01-20T01:03:17Z"
+        "stars": 2459,
+        "pushedAt": "2024-01-27T00:58:44Z"
       },
       "npmjs": {
         "lastRelease": "5.2.7",
@@ -92,7 +92,7 @@
       "url": "https://github.com/vuejs/vue-router",
       "description": "The official router for Vue.js.",
       "github": {
-        "stars": 19015,
+        "stars": 19014,
         "pushedAt": "2024-01-09T20:09:37Z"
       },
       "npmjs": {
@@ -150,7 +150,7 @@
       "url": "https://github.com/Aminerman/vue-kinesis",
       "description": "A set of components to create interactive animations",
       "github": {
-        "stars": 1432,
+        "stars": 1431,
         "pushedAt": "2023-01-07T03:58:58Z"
       },
       "npmjs": {
@@ -176,8 +176,8 @@
       "url": "https://github.com/megasanjay/vue3-lottie",
       "description": "A component for importing and displaying Lottie animations in Vue 3",
       "github": {
-        "stars": 287,
-        "pushedAt": "2024-01-20T07:33:25Z"
+        "stars": 292,
+        "pushedAt": "2024-01-27T06:25:55Z"
       },
       "npmjs": {
         "lastRelease": "3.2.0",
@@ -206,7 +206,7 @@
       "url": "https://github.com/mirari/vue-fullscreen",
       "description": "A simple Vue component for fullscreen, support Vue 2 and Vue 3",
       "github": {
-        "stars": 423,
+        "stars": 424,
         "pushedAt": "2023-10-19T08:15:32Z"
       },
       "npmjs": {

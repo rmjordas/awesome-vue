@@ -33,7 +33,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./ui-utilities.data.js"
+import data from "./ui-utilities.json"
 </script>
 
 # UI Utilities

@@ -25,7 +25,7 @@ const colors = {
 };
 
 (async function main() {
-  const inputFiles = await glob("content/*/*.data.json")
+  const inputFiles = await glob("content/components-and-libraries/*.json")
   for (const fname of inputFiles) {
     await handleFile(fname)
   }

@@ -5,8 +5,8 @@
       "url": "https://github.com/quasarframework/quasar",
       "description": "Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code",
       "github": {
-        "stars": 24841,
-        "pushedAt": "2024-01-19T23:10:28Z"
+        "stars": 24881,
+        "pushedAt": "2024-01-27T02:51:57Z"
       },
       "npmjs": {
         "lastRelease": "0.17.20",
@@ -18,12 +18,12 @@
       "url": "https://github.com/vuetifyjs/vuetify",
       "description": "Material Component Framework",
       "github": {
-        "stars": 38625,
-        "pushedAt": "2024-01-20T05:42:13Z"
+        "stars": 38661,
+        "pushedAt": "2024-01-26T12:54:53Z"
       },
       "npmjs": {
-        "lastRelease": "3.5.0",
-        "lastReleaseAt": "2024-01-19T21:02:48.138Z"
+        "lastRelease": "3.5.1",
+        "lastReleaseAt": "2024-01-20T17:37:50.153Z"
       }
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://github.com/bootstrap-vue/bootstrap-vue",
       "description": "Bootstrap v4 components and grid system for Vue.js",
       "github": {
-        "stars": 14440,
+        "stars": 14444,
         "pushedAt": "2024-01-15T04:29:42Z"
       }
     },
@@ -40,7 +40,7 @@
       "url": "https://github.com/zircleUI/zircleUI",
       "description": "A frontend library to develop zoomable user interfaces.",
       "github": {
-        "stars": 926,
+        "stars": 927,
         "pushedAt": "2024-01-10T03:22:55Z"
       }
     },
@@ -49,8 +49,8 @@
       "url": "https://github.com/vueComponent/ant-design-vue",
       "description": "An enterprise-class UI components based on Ant Design",
       "github": {
-        "stars": 19210,
-        "pushedAt": "2024-01-19T10:04:36Z"
+        "stars": 19241,
+        "pushedAt": "2024-01-27T11:27:33Z"
       },
       "npmjs": {
         "lastRelease": "4.1.1",
@@ -62,7 +62,7 @@
       "url": "https://github.com/heyui/heyui",
       "description": "A Vue.js UI Toolkit for web ([Website](https://www.heyui.top/en))",
       "github": {
-        "stars": 2550,
+        "stars": 2551,
         "pushedAt": "2023-05-15T16:05:06Z"
       },
       "npmjs": {
@@ -75,7 +75,7 @@
       "url": "https://github.com/balmjs/balm-ui",
       "description": "A modular and customizable UI library based on Material Design and Vue 3.0",
       "github": {
-        "stars": 489,
+        "stars": 491,
         "pushedAt": "2023-12-25T06:23:41Z"
       }
     },
@@ -84,7 +84,7 @@
       "url": "https://github.com/inkline/inkline/",
       "description": "Inkline is the intuitive UI components library that gives you a developer-friendly foundation for building Vue.js 3 design systems",
       "github": {
-        "stars": 1367,
+        "stars": 1368,
         "pushedAt": "2023-12-19T08:46:18Z"
       }
     },
@@ -98,8 +98,8 @@
       "url": "https://github.com/pgbross/vue-material-adapter",
       "description": "Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters",
       "github": {
-        "stars": 104,
-        "pushedAt": "2024-01-19T15:59:47Z"
+        "stars": 105,
+        "pushedAt": "2024-01-27T20:00:54Z"
       },
       "npmjs": {
         "lastRelease": "6.2.0",
@@ -125,7 +125,7 @@
       "url": "https://github.com/chakra-ui/chakra-ui-vue",
       "description": "A lightweight & customizable component library to help you build accessible Vue applications and sites with speed",
       "github": {
-        "stars": 1845,
+        "stars": 1844,
         "pushedAt": "2023-07-19T08:14:25Z"
       }
     },
@@ -134,8 +134,8 @@
       "url": "https://github.com/oruga-ui/oruga",
       "description": "UI components for Vue.js without CSS framework dependency",
       "github": {
-        "stars": 1076,
-        "pushedAt": "2024-01-19T23:07:17Z"
+        "stars": 1077,
+        "pushedAt": "2024-01-27T12:10:11Z"
       }
     },
     {
@@ -170,12 +170,12 @@
       "url": "https://github.com/epicmaxco/vuestic-ui",
       "description": "A Vue.js 3.0 UI customizable UI framework",
       "github": {
-        "stars": 3182,
-        "pushedAt": "2024-01-19T23:40:05Z"
+        "stars": 3191,
+        "pushedAt": "2024-01-25T23:23:24Z"
       },
       "npmjs": {
-        "lastRelease": "0.0.0-experimental-289f83d8c-20240113",
-        "lastReleaseAt": "2024-01-13T02:46:01.493Z"
+        "lastRelease": "0.0.0-experimental-b54792bd0-20240125",
+        "lastReleaseAt": "2024-01-25T23:24:57.782Z"
       }
     },
     {
@@ -193,8 +193,8 @@
       "url": "https://github.com/element-plus/element-plus",
       "description": "A Vue 3 UI framework",
       "github": {
-        "stars": 22369,
-        "pushedAt": "2024-01-20T14:03:05Z"
+        "stars": 22428,
+        "pushedAt": "2024-01-27T13:37:30Z"
       }
     },
     {
@@ -216,8 +216,8 @@
       "url": "https://github.com/jd-solanki/anu",
       "description": "Build better interfaces faster. DX focused utility based vue component library ⚛️",
       "github": {
-        "stars": 985,
-        "pushedAt": "2024-01-19T12:32:26Z"
+        "stars": 989,
+        "pushedAt": "2024-01-25T08:19:15Z"
       }
     }
   ],
@@ -227,7 +227,7 @@
       "url": "https://github.com/framework7io/framework7",
       "description": "Build full-featured iOS & Android apps using Framework7 & Vue",
       "github": {
-        "stars": 17708,
+        "stars": 17713,
         "pushedAt": "2024-01-03T09:10:28Z"
       }
     },
@@ -236,7 +236,7 @@
       "url": "https://github.com/OnsenUI/OnsenUI",
       "description": "Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.",
       "github": {
-        "stars": 8770,
+        "stars": 8774,
         "pushedAt": "2023-09-27T10:38:13Z"
       },
       "npmjs": {
@@ -249,8 +249,8 @@
       "url": "https://github.com/ionic-team/ionic-framework",
       "description": "Mobile app development framework",
       "github": {
-        "stars": 50097,
-        "pushedAt": "2024-01-20T02:38:25Z"
+        "stars": 50111,
+        "pushedAt": "2024-01-27T06:33:01Z"
       }
     },
     {
@@ -258,7 +258,7 @@
       "url": "https://github.com/nativescript-vue/nativescript-vue",
       "description": "Native mobile applications using NativeScript",
       "github": {
-        "stars": 5253,
+        "stars": 5255,
         "pushedAt": "2024-01-01T12:59:49Z"
       }
     }
@@ -274,7 +274,7 @@
       "url": "https://github.com/tolking/element-pro-components",
       "description": "A component library for Vue 3 base on element-plus",
       "github": {
-        "stars": 237,
+        "stars": 241,
         "pushedAt": "2024-01-20T07:03:49Z"
       },
       "npmjs": {
@@ -289,8 +289,8 @@
       "url": "https://github.com/youzan/vant",
       "description": "A Vue.js Mobile UI From YouZan",
       "github": {
-        "stars": 22446,
-        "pushedAt": "2024-01-20T13:02:52Z"
+        "stars": 22469,
+        "pushedAt": "2024-01-27T09:16:29Z"
       },
       "npmjs": {
         "lastRelease": "4.8.3",
@@ -309,8 +309,8 @@
       "url": "https://github.com/epicmaxco/vuestic-admin",
       "description": "Vue Admin Dashboard built with Vue 3 and [vuestic-ui](https://github.com/epicmaxco/vuestic-ui)",
       "github": {
-        "stars": 9719,
-        "pushedAt": "2024-01-20T02:25:07Z"
+        "stars": 9728,
+        "pushedAt": "2024-01-26T20:57:47Z"
       },
       "npmjs": {
         "lastRelease": "0.0.1-security",
@@ -322,7 +322,7 @@
       "url": "https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free",
       "description": "A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)",
       "github": {
-        "stars": 689,
+        "stars": 692,
         "pushedAt": "2024-01-08T12:11:56Z"
       }
     },
@@ -349,7 +349,7 @@
       "url": "https://github.com/justboil/admin-one-vue-tailwind",
       "description": "Vue.js 3 Tailwind CSS admin template with dark mode",
       "github": {
-        "stars": 1859,
+        "stars": 1870,
         "pushedAt": "2023-11-18T15:48:26Z"
       }
     },
@@ -358,7 +358,7 @@
       "url": "https://github.com/cruip/vuejs-admin-dashboard-template",
       "description": "The all-in-one Tailwind CSS admin dashboard template",
       "github": {
-        "stars": 214,
+        "stars": 215,
         "pushedAt": "2023-12-08T09:35:21Z"
       }
     },
@@ -381,7 +381,7 @@
       "url": "https://github.com/vuejs/vuepress",
       "description": "Minimalistic Vue-powered static site generator.",
       "github": {
-        "stars": 22169,
+        "stars": 22193,
         "pushedAt": "2024-01-20T06:49:11Z"
       }
     },
@@ -390,7 +390,7 @@
       "url": "https://github.com/gridsome/gridsome",
       "description": "Build super fast, modern websites with Vue.js",
       "github": {
-        "stars": 8520,
+        "stars": 8518,
         "pushedAt": "2023-05-05T07:06:07Z"
       }
     }
@@ -401,7 +401,7 @@
       "url": "https://github.com/dataformsjs/dataformsjs",
       "description": "A minimal routing and web service framework that uses Vue as a templating engine",
       "github": {
-        "stars": 174,
+        "stars": 175,
         "pushedAt": "2023-06-11T02:09:27Z"
       }
     },
@@ -410,8 +410,8 @@
       "url": "https://github.com/vuejs/petite-vue",
       "description": "6kb subset of Vue optimized for progressive enhancement",
       "github": {
-        "stars": 8524,
-        "pushedAt": "2023-12-29T05:43:09Z"
+        "stars": 8550,
+        "pushedAt": "2024-01-22T16:55:55Z"
       },
       "npmjs": {
         "lastRelease": "0.4.1",

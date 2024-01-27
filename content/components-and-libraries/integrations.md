@@ -33,7 +33,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./integrations.data.js"
+import data from "./integrations.json"
 </script>
 
 # Integrations

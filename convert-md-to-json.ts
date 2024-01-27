@@ -13,7 +13,7 @@
  * https://vitepress.dev/guide/data-loading
  */
 import fs from "node:fs/promises"
-import {basename, dirname} from "node:path"
+import {basename} from "node:path"
 
 import {glob} from "glob"
 
@@ -25,9 +25,8 @@ import {glob} from "glob"
 })()
 
 const handleFile = async (fname: string) => {
-  const dirName = dirname(fname)
   const baseName = basename(fname)
-  const dataName = baseName.replace(/\.md$/, '.data.js')
+  const dataName = baseName.replace(/\.md$/, '.json')
   console.log(`Processing ${baseName}…`)
 
   const src = await fs.readFile(fname, {encoding: 'utf-8'})
@@ -68,7 +67,7 @@ const handleFile = async (fname: string) => {
       if (line.trim() == '---') {
         frontMatterMakers++
         if (frontMatterMakers == 2) {
-          result.push(`\n<script setup>\nimport {data} from "./${dataName}"\n</script>`)
+          result.push(`\n<script setup>\nimport data from "./${dataName}"\n</script>`)
         }
       }
     }
@@ -76,20 +75,12 @@ const handleFile = async (fname: string) => {
 
 
   await fs.writeFile(
-    `${dirName}/${dataName}`,
-    `import {awesomeItemsLoader} from "../.vitepress/utils"
-
-export default awesomeItemsLoader(__filename)
-`,
-    {encoding: 'utf-8'},
-  )
-  await fs.writeFile(
     fname,
     result.join("\n") + "\n",
     {encoding: 'utf-8'},
   )
   await fs.writeFile(
-    fname.replace(/\.md$/, '.data.json'),
+    fname.replace(/\.md$/, '.json'),
     JSON.stringify(rawData, null, 2) + '\n',
     {encoding: 'utf-8'},
   )

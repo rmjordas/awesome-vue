@@ -33,7 +33,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./frameworks.data.js"
+import data from "./frameworks.json"
 </script>
 
 # Frameworks

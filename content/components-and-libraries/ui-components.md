@@ -34,7 +34,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./ui-components.data.js"
+import data from "./ui-components.json"
 </script>
 
 # UI Components
@@ -195,13 +195,13 @@ Switch / on/off toggle / checkbox
 
 ### Image Manipulation
 
-#### Edit images
+Edit images
 
-<ProjectList :items="data['Edit images']" />
+<ProjectList :items="data['Image Manipulation']" />
 
-#### Display images
+Display images
 
-<ProjectList :items="data['Display images']" />
+<ProjectList :items="data['Image Manipulation']" />
 
 ### File Upload
 
@@ -214,3 +214,4 @@ Switch / on/off toggle / checkbox
 ## Canvas
 
 <ProjectList :items="data['Canvas']" />
+

@@ -33,7 +33,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./dev-tools.data.js"
+import data from "./dev-tools.json"
 </script>
 
 # Developer Tools

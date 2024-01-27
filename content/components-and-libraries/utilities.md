@@ -34,7 +34,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./utilities.data.js"
+import data from "./utilities.json"
 </script>
 
 # Utilities

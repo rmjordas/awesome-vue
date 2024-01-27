@@ -33,7 +33,7 @@ head:
 ---
 
 <script setup>
-import {data} from "./ui-layout.data.js"
+import data from "./ui-layout.json"
 </script>
 
 # UI Layout

@@ -5,7 +5,7 @@
       "url": "https://github.com/DannyFeliz/vue-tweet",
       "description": "Vue 3 component that let you embed tweets in your app by only giving the tweet ID",
       "github": {
-        "stars": 32,
+        "stars": 34,
         "pushedAt": "2022-11-20T20:21:29Z"
       },
       "npmjs": {
@@ -42,7 +42,7 @@
       "url": "https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli",
       "description": "Vue CLI Plugin to generate Chrome extension template",
       "github": {
-        "stars": 275,
+        "stars": 276,
         "pushedAt": "2023-09-06T10:46:39Z"
       },
       "npmjs": {
