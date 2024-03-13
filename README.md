@@ -55,6 +55,15 @@ npm run build
 npm run preview --port 4173
 ```
 
+To update GitHub and npmjs stats for packages, use:
+
+```bash
+npm run fetch-data
+```
+
+When adding a package to .data.json file, skip `github` and `nodejs` fields, and
+then run `fetch-data` script.
+
 ## Scripts
 
 | Script    | Description                                             |
@@ -63,6 +72,7 @@ npm run preview --port 4173
 | `build`   | Compiles content and other static assets for deployment |
 | `preview` | Locally preview the production build                    |
 | `lint`    | Runs markdown linter to check lint errors               |
+| `fetch-data` | Fetch github and npmjs data for packages             |
 | `test`    | An alias for `lint` (runs `lint` script)                |
 
 ## Contributing

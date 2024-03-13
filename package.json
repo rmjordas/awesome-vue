@@ -9,10 +9,17 @@
     "build": "vitepress build content",
     "preview": "vitepress preview content",
     "lint": "markdownlint . -i node_modules",
+    "fetch-data": "tsx fetch-data.ts",
     "test": "npm run lint"
   },
   "devDependencies": {
+    "@types/node": "^20.10.6",
+    "cache-manager": "^4.1",
+    "cache-manager-sqlite": "^0.2.0",
+    "glob": "^10.3.10",
     "markdownlint-cli": "^0.35.0",
+    "octokit": "^3.1.2",
+    "tsx": "^4.7.0",
     "vitepress": "^1.0.0-rc.4"
   }
 }

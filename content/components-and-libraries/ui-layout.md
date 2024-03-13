@@ -32,9 +32,13 @@ head:
       content: https://awesome-vue.js.org/hero.png
 ---
 
+<script setup>
+import data from "./ui-layout.json"
+</script>
+
 # UI Layout
 
 Layout for the overall / main view
 
-- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently
-- [iron-grid-system](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x
+<ProjectList :items="data['UI Layout']" />
+
