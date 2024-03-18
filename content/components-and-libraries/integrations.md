@@ -80,6 +80,8 @@ Integrate with services or other frameworks
 - [vue3-recaptcha2](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3
 - [hugoVueSFC](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/)
 - [vue-tg](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3
+- [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps
+- [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - Easy to use and highly customizable Vue3 modal package
 
 ## Vue CLI Plugins
 
