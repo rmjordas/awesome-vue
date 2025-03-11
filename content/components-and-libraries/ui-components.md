@@ -798,6 +798,7 @@ Display non-editable events in a Calendar
 - [ej2-vue-navigations](https://github.com/syncfusion/ej2-vue-ui-components/tree/master/components/navigations#tab) - Content panel to show multiple contents in a specific space, one at a time
 - [vue3-tabs-chrome](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue 3 component for Chrome-like tabs
 - [vue-nav-tab](https://github.com/kien5436/vue-nav-tab) - Tab components for Vue.js 3 project
+- [vue3-tabor](https://github.com/daylenjeez/vue3-tabor) - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration
 
 ## Form
 
