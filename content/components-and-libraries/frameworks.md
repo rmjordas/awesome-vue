@@ -62,6 +62,7 @@ Set of components + responsive layout system
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 component primitives that also work with React, Svelte, and Angular
 - [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x component library. Complete documentation support and both Chinese and English
 - [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
+- [Maz-UI](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
 
 ## Mobile UI Frameworks
 
