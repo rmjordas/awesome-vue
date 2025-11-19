@@ -1,4 +1,12 @@
 import DefaultTheme from 'vitepress/theme';
 import './custom.css';
 
-export default DefaultTheme;
+import ProjectList from '../components/ProjectList.vue'
+
+/** @type {import('vitepress').Theme} */
+export default {
+  extends: DefaultTheme,
+  enhanceApp({ app }) {
+    app.component('ProjectList', ProjectList)
+  }
+}

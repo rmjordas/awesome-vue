@@ -1,0 +1,218 @@
+{
+  "Event Handling": [
+    {
+      "name": "vue-resize",
+      "url": "https://github.com/Akryum/vue-resize",
+      "description": "Vue component to detect DOM elements resizing (event based/no window.onresize)",
+      "github": {
+        "stars": 493,
+        "pushedAt": "2022-12-13T22:11:48Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.1",
+        "lastReleaseAt": "2021-03-19T18:06:32.629Z"
+      }
+    }
+  ],
+  "Form": [
+    {
+      "name": "Reforms.js",
+      "url": "https://github.com/empla/reforms",
+      "description": "Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more"
+    }
+  ],
+  "Validation": [
+    {
+      "name": "vee-validate",
+      "url": "https://github.com/logaretm/vee-validate",
+      "description": "Simple Vue.js input validation plugin.",
+      "github": {
+        "stars": 10378,
+        "pushedAt": "2024-01-24T07:17:43Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.12.4",
+        "lastReleaseAt": "2023-12-27T22:35:52.044Z"
+      }
+    },
+    {
+      "name": "vuelidate",
+      "url": "https://github.com/monterail/vuelidate",
+      "description": "Simple, lightweight model-based validation for Vue.js.",
+      "npmjs": {
+        "lastRelease": "0.7.7",
+        "lastReleaseAt": "2021-12-08T11:45:20.662Z"
+      }
+    },
+    {
+      "name": "vue-tiny-validate",
+      "url": "https://github.com/FrontLabsOfficial/vue-tiny-validate",
+      "description": "Tiny (2.5KB minified) Vue Validate Composition",
+      "github": {
+        "stars": 134,
+        "pushedAt": "2023-10-29T09:45:02Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.2.4",
+        "lastReleaseAt": "2021-08-23T14:22:15.160Z"
+      }
+    },
+    {
+      "name": "vest",
+      "url": "https://github.com/ealush/vest",
+      "description": "Declarative form validation framework inspired by unit testing",
+      "github": {
+        "stars": 2459,
+        "pushedAt": "2024-01-27T00:58:44Z"
+      },
+      "npmjs": {
+        "lastRelease": "5.2.7",
+        "lastReleaseAt": "2024-01-16T23:15:55.289Z"
+      }
+    }
+  ],
+  "Resize": [
+    {
+      "name": "vue-window-size",
+      "url": "https://github.com/mya-ake/vue-window-size",
+      "description": "Provides reactivity window size properties.",
+      "github": {
+        "stars": 123,
+        "pushedAt": "2023-04-14T20:57:37Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.0.0",
+        "lastReleaseAt": "2023-01-17T11:04:47.704Z"
+      }
+    }
+  ],
+  "Routing": [
+    {
+      "name": "vue-router",
+      "url": "https://github.com/vuejs/vue-router",
+      "description": "The official router for Vue.js.",
+      "github": {
+        "stars": 19014,
+        "pushedAt": "2024-01-09T20:09:37Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.3.0-alpha.1",
+        "lastReleaseAt": "2024-01-18T16:46:35.336Z"
+      }
+    }
+  ],
+  "Lazy Load": [
+    {
+      "name": "vue-lazy",
+      "url": "https://github.com/bartdominiak/vue-lazy",
+      "description": "Lightweight Image/Picture lazyload based on Intersection API",
+      "github": {
+        "stars": 3,
+        "pushedAt": "2020-09-24T13:54:58Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.0",
+        "lastReleaseAt": "2020-09-24T13:24:39.171Z"
+      }
+    },
+    {
+      "name": "vue3-lazyload",
+      "url": "https://github.com/jambonn/vue-lazyload",
+      "description": "Vue module for lazy-loading images in your Vue 3 applications",
+      "github": {
+        "stars": 27,
+        "pushedAt": "2021-10-28T10:28:47Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.3.8",
+        "lastReleaseAt": "2023-08-18T08:47:55.966Z"
+      }
+    }
+  ],
+  "Pagination": [
+    {
+      "name": "vue-use-paginator",
+      "url": "https://github.com/Sun0fABeach/vue-use-paginator",
+      "description": "Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless",
+      "github": {
+        "stars": 18,
+        "pushedAt": "2023-11-18T15:13:34Z"
+      },
+      "npmjs": {
+        "lastRelease": "0.4.0",
+        "lastReleaseAt": "2022-07-22T16:19:37.061Z"
+      }
+    }
+  ],
+  "Animation": [
+    {
+      "name": "vue-kinesis",
+      "url": "https://github.com/Aminerman/vue-kinesis",
+      "description": "A set of components to create interactive animations",
+      "github": {
+        "stars": 1431,
+        "pushedAt": "2023-01-07T03:58:58Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.3.3",
+        "lastReleaseAt": "2021-06-14T12:45:34.660Z"
+      }
+    },
+    {
+      "name": "vue-typical",
+      "url": "https://github.com/Turkyden/vue-typical",
+      "description": "Vue Animated typing in ~400 bytes of JavaScript",
+      "github": {
+        "stars": 166,
+        "pushedAt": "2023-01-07T22:50:10Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.1.0",
+        "lastReleaseAt": "2021-08-19T23:43:03.819Z"
+      }
+    },
+    {
+      "name": "vue3-lottie",
+      "url": "https://github.com/megasanjay/vue3-lottie",
+      "description": "A component for importing and displaying Lottie animations in Vue 3",
+      "github": {
+        "stars": 292,
+        "pushedAt": "2024-01-27T06:25:55Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.2.0",
+        "lastReleaseAt": "2023-10-12T08:58:41.337Z"
+      }
+    }
+  ],
+  "SVG": [
+    {
+      "name": "vue-inline-svg",
+      "url": "https://github.com/shrpne/vue-inline-svg",
+      "description": "Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)",
+      "github": {
+        "stars": 172,
+        "pushedAt": "2023-06-28T20:48:34Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.1.3",
+        "lastReleaseAt": "2023-02-07T21:15:31.283Z"
+      }
+    }
+  ],
+  "Fullscreen": [
+    {
+      "name": "vue-fullscreen",
+      "url": "https://github.com/mirari/vue-fullscreen",
+      "description": "A simple Vue component for fullscreen, support Vue 2 and Vue 3",
+      "github": {
+        "stars": 424,
+        "pushedAt": "2023-10-19T08:15:32Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.6.2",
+        "lastReleaseAt": "2023-06-02T12:52:46.581Z"
+      }
+    }
+  ]
+}

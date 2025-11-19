@@ -1,0 +1,81 @@
+{
+  "Scaffold": [
+    {
+      "name": "create-vue",
+      "url": "https://github.com/vuejs/create-vue",
+      "description": "Quickly scaffold a Vue project with `npm init vue@3`",
+      "github": {
+        "stars": 3149,
+        "pushedAt": "2024-01-26T16:36:39Z"
+      },
+      "npmjs": {
+        "lastRelease": "3.9.1",
+        "lastReleaseAt": "2023-12-15T17:00:45.365Z"
+      }
+    },
+    {
+      "name": "vue-cli",
+      "url": "https://github.com/vuejs/vue-cli",
+      "description": "Simple CLI for scaffolding Vue.js projects.",
+      "github": {
+        "stars": 29750,
+        "pushedAt": "2024-01-05T13:42:33Z"
+      },
+      "npmjs": {
+        "lastRelease": "2.9.6",
+        "lastReleaseAt": "2018-06-05T04:50:34.422Z"
+      }
+    }
+  ],
+  "Client": [
+    {
+      "name": "vue3-compact-template",
+      "url": "https://github.com/upupming/vue3-compact-template",
+      "description": "A simple and compact Vue 3 template with current cutting edge front-end technologies",
+      "github": {
+        "stars": 16,
+        "pushedAt": "2021-12-08T14:53:07Z"
+      }
+    }
+  ],
+  "Electron": [
+    {
+      "name": "Electron Vue",
+      "url": "https://github.com/SimulatedGREG/electron-vue",
+      "description": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
+      "github": {
+        "stars": 15447,
+        "pushedAt": "2022-01-14T15:11:42Z"
+      }
+    },
+    {
+      "name": "electron-vue3-flask",
+      "url": "https://github.com/megasanjay/electron-vue3-flask",
+      "description": "An Electron & Vue.js application starter template that uses a Python backend via Flask for desktop application building",
+      "github": {
+        "stars": 26,
+        "pushedAt": "2023-12-15T05:44:09Z"
+      }
+    },
+    {
+      "name": "electron-vite-template",
+      "url": "https://github.com/umbrella22/electron-vite-template",
+      "description": "A modern desktop application project template with Vue 3, Vite & Electron. It's fast!",
+      "github": {
+        "stars": 349,
+        "pushedAt": "2023-12-19T10:26:10Z"
+      }
+    }
+  ],
+  "Parts": [
+    {
+      "name": "vue-sh-cli",
+      "url": "https://github.com/ddosdor/vue-sh-cli",
+      "description": "A CLI for generating Vue components, views, store modules & unit tests. Supports Vue 3 components template and TypeScript",
+      "github": {
+        "stars": 8,
+        "pushedAt": "2022-04-10T08:44:57Z"
+      }
+    }
+  ]
+}

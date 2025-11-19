@@ -20,7 +20,13 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/rmjordas/awesome-vue/edit/next/content/:path',
+      pattern: ({ filePath }) => {
+        if (filePath.startsWith('components-and-libraries/')) {
+          return `https://github.com/rmjordas/awesome-vue/edit/next/content/${filePath.replace('.md', '.json')}`
+        } else {
+          return `https://github.com/rmjordas/awesome-vue/edit/next/content/${filePath}`
+        }
+      },
       text: 'Edit this page on GitHub'
     },
     logo: '/logo.png',

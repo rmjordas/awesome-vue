@@ -1,0 +1,144 @@
+{
+  "Developer Tools": [
+    {
+      "name": "Storybook",
+      "url": "https://storybook.js.org",
+      "description": "The UI Development Environment. works with v3.2+ later."
+    },
+    {
+      "name": "codesandbox",
+      "url": "https://codesandbox.io/s/vue-vue",
+      "description": "An online IDE and prototyping tool for rapid Vue development",
+      "npmjs": {
+        "lastRelease": "2.2.3",
+        "lastReleaseAt": "2021-04-28T07:17:35.395Z"
+      }
+    },
+    {
+      "name": "StackBlitz",
+      "url": "https://stackblitz.com/",
+      "description": "The fastest, most secure dev environment on the planet"
+    }
+  ],
+  "Inspect": [
+    {
+      "name": "Vue.js devtools",
+      "url": "https://github.com/vuejs/vue-devtools",
+      "description": "Chrome devtools extension for debugging Vue.js applications."
+    }
+  ],
+  "Docs": [
+    {
+      "name": "vue-styleguidist",
+      "url": "https://github.com/vue-styleguidist/vue-styleguidist",
+      "description": "A style guide generator for Vue components with a living style guide.",
+      "github": {
+        "stars": 2417,
+        "pushedAt": "2024-01-26T19:51:28Z"
+      },
+      "npmjs": {
+        "lastRelease": "4.72.4",
+        "lastReleaseAt": "2023-05-18T18:09:15.330Z"
+      }
+    },
+    {
+      "name": "Vuedoc Markdown",
+      "url": "https://gitlab.com/vuedoc/md",
+      "description": "Generate a Markdown Documentation for a Vue Component"
+    },
+    {
+      "name": "Vuedoc Parser",
+      "url": "https://gitlab.com/vuedoc/parser",
+      "description": "Generate a JSON documentation for a Vue component"
+    }
+  ],
+  "Test": [
+    {
+      "name": "vue-test-utils",
+      "url": "https://github.com/vuejs/vue-test-utils",
+      "description": "Official utilities for testing Vue components.",
+      "github": {
+        "stars": 3574,
+        "pushedAt": "2024-01-26T17:50:21Z"
+      },
+      "npmjs": {
+        "lastRelease": "1.0.0-beta.11",
+        "lastReleaseAt": "2018-01-11T06:27:51.340Z"
+      }
+    },
+    {
+      "name": "Vue Testing Library",
+      "url": "https://github.com/testing-library/vue-testing-library",
+      "description": "Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.",
+      "github": {
+        "stars": 1029,
+        "pushedAt": "2023-11-20T16:41:12Z"
+      }
+    }
+  ],
+  "Sublime Text": [
+    {
+      "name": "Vue Syntax Highlight",
+      "url": "https://github.com/vuejs/vue-syntax-highlight",
+      "description": "Sublime Text syntax highlighting for single-file Vue components.",
+      "github": {
+        "stars": 1483,
+        "pushedAt": "2023-10-30T07:25:41Z"
+      }
+    },
+    {
+      "name": "Vue Next Formatter",
+      "url": "https://github.com/luozhihua/sublime-vue-formatter",
+      "description": "Sublime Text Vue formatter, Supported ES5/6/7, Less/Sass and Pug/Html template.",
+      "github": {
+        "stars": 14,
+        "pushedAt": "2018-04-30T19:24:25Z"
+      }
+    }
+  ],
+  "Vim": [
+    {
+      "name": "Vim Vue",
+      "url": "https://github.com/posva/vim-vue",
+      "description": "Syntax Highlight for Vue.js components.",
+      "github": {
+        "stars": 1284,
+        "pushedAt": "2023-01-03T18:24:07Z"
+      }
+    },
+    {
+      "name": "vim-vue-plugin",
+      "url": "https://github.com/leafOfTree/vim-vue-plugin",
+      "description": "Vim syntax and indent plugin for .vue files.",
+      "github": {
+        "stars": 172,
+        "pushedAt": "2023-10-05T03:51:50Z"
+      }
+    }
+  ],
+  "Visual Studio Code": [
+    {
+      "name": "Volar",
+      "url": "https://github.com/johnsoncodehk/volar",
+      "description": "The Fastest Vue Language Support Extension"
+    }
+  ],
+  "Emacs": [
+    {
+      "name": "Vue Mode",
+      "url": "https://github.com/CodeFalling/vue-mode",
+      "description": "Emacs major mode for vue.js."
+    }
+  ],
+  "Kate": [
+    {
+      "name": "Kate Syntax Files",
+      "url": "https://github.com/mtorromeo/kate-syntax-files",
+      "description": "Syntax files (modified or original) for katepart (kate, kwrite, kdevelop).",
+      "github": {
+        "stars": 58,
+        "pushedAt": "2020-12-15T17:51:09Z"
+      }
+    }
+  ]
+}
